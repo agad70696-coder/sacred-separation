@@ -1,58 +1,68 @@
 """
-Israf Experiment - Mixed vs Sacred Separation
-Quran 7:31 - Eat and drink but do not be wasteful
-Demonstrates why L0/L1/L2 matters
+Israf Detection Experiment - L2 Implementation
+Quantifiable application of L1 principle: no_israf_7_31_v1
+Falsifiable experiment with real metrics
 """
 
-# === BAD APPROACH: Mixed Sacred Text + Logic ===
-def calculate_israf_BAD(consumption: float) -> str:
-    quran_text = "وكلوا واشربوا ولا تسرفوا" # Mutable!
-    if consumption > 100:
-        quran_text = quran_text.replace("لا تسرفوا", "اسرفوا") # BUG corrupts verse!
-    is_wasteful = consumption > 80
-    return f"{quran_text} - Wasteful: {is_wasteful}"
+from core import SacredSeparationEngine
+import time
+import json
 
-print("=== BAD APPROACH ===")
-print(calculate_israf_BAD(50)) # Correct
-print(calculate_israf_BAD(120)) # CORRUPTED! Says "do waste"!
+class IsrafExperiment:
+    def __init__(self):
+        self.engine = SacredSeparationEngine()
+        # Load L1 interpretation (hash-linked)
+        with open('L1_interpretations/no_israf_7_31_v1.json') as f:
+            self.l1 = json.load(f)
+        self.results = []
 
-# === GOOD APPROACH: L0/L1/L2 ===
-L0_MANIFEST = {
-    "verse_id": "7:31",
-    "hash_sha256": "a1b2c3d4...",
-    "is_executable": False,
-    "allowed_operations": ["SHA256_VERIFY"]
-}
+    def detect_water_waste(self, water_used_liter: float, threshold=0.5) -> dict:
+        """Detect wudu water waste > threshold from L1"""
+        # L1 rule: 0.5 liter excess
+        is_waste = water_used_liter > threshold
+        result = {
+            "type": "water_waste",
+            "input": water_used_liter,
+            "threshold": threshold,
+            "is_israf": is_waste,
+            "L1_ref": self.l1["interpretation_id"],
+            "L0_hash_ref": self.l1["linked_L0_hash"][:16] + "..."
+        }
+        self.results.append(result)
+        return result
 
-L1_INTERPRETATION = {
-    "principle_id": "no_israf_7_31",
-    "version": "v1.0.0",
-    "source_hash_ref": "a1b2c3d4...", # Hash only!
-    "interpretation": {"max_threshold": 80.0},
-    "falsifiable_condition": "If nutrition study shows >80% not wasteful, update to v1.1.0"
-}
+    def detect_food_waste(self, edible_waste_grams: float) -> dict:
+        """Zero edible waste per L1"""
+        is_waste = edible_waste_grams > 0
+        result = {
+            "type": "food_waste",
+            "input_grams": edible_waste_grams,
+            "is_israf": is_waste,
+            "principle": self.l1["principle"]
+        }
+        self.results.append(result)
+        return result
 
-def calculate_israf_GOOD(principle_id: str, consumption: float, threshold: float) -> dict:
-    """Pure function, zero L0 import, formally verifiable"""
-    is_wasteful = consumption > threshold
-    return {
-        "principle_id": principle_id,
-        "is_wasteful": is_wasteful,
-        "waste_amount": max(0, consumption - threshold),
-        "L0_imports": 0
-    }
+    def run_experiment(self):
+        print("=== Israf Experiment - Sacred Separation Pattern ===")
+        print(f"L0 Hash verified: {self.engine.verify_l0_integrity()}")
+        print(f"L1 Confidence: {self.l1['confidence_score']}")
+        print(f"Falsifiable: {self.l1['falsifiable']}")
+        
+        # Simulated tests
+        tests = [0.3, 0.6, 1.2]  # liters
+        for t in tests:
+            r = self.detect_water_waste(t)
+            print(f"Water {t}L -> Israf: {r['is_israf']}")
+        
+        food_tests = [0, 50, 120]
+        for f in food_tests:
+            r = self.detect_food_waste(f)
+            print(f"Food waste {f}g -> Israf: {r['is_israf']}")
+        
+        print("✓ Experiment completed - Results are quantifiable and falsifiable")
+        return self.results
 
-print("\n=== GOOD APPROACH ===")
-result = calculate_israf_GOOD("no_israf_7_31", 120, 80.0)
-print(result)
-print("Proof: L0 verse remains immutable even if L2 has bug")
-print("Theorem L0 ∩ L2 = ∅ holds - QED")
-
-def test_zero_L0_import():
-    import inspect
-    source = inspect.getsource(calculate_israf_GOOD)
-    assert "L0_quran_source" not in source
-    assert "وكلوا" not in source
-    print("✅ CI Passed: L2 has zero L0 imports")
-
-test_zero_L0_import()
+if __name__ == "__main__":
+    exp = IsrafExperiment()
+    exp.run_experiment()

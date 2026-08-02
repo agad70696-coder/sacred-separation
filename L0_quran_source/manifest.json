@@ -1,1 +1,27 @@
-
+{
+  "layer": "L0 - Sacred Source",
+  "verse_id": "7:31",
+  "surah": "Al-A'raf",
+  "ayah": 31,
+  "source": {
+    "text_source": "Tanzil.net - Uthman Taha Naskh",
+    "url": "https://tanzil.net/#7:31",
+    "script": "Uthmani",
+    "verified_by": "SHA256 hash verification"
+  },
+  "integrity": {
+    "hash_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "hash_algorithm": "SHA256",
+    "is_executable": false,
+    "allowed_operations": ["SHA256_VERIFY", "READ_ONLY"],
+    "forbidden_operations": ["IMPORT", "EXECUTE", "MODIFY"]
+  },
+  "compliance": {
+    "L0_L2_disjoint": true,
+    "formal_proof": "L2_engine/proof.lean",
+    "ci_enforcement": "DO_NOT_IMPORT.txt"
+  },
+  "created_at": "2026-08-02",
+  "author": "Amr Gad",
+  "version": "L0_v1.0.0"
+}

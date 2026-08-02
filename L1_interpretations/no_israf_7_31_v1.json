@@ -1,1 +1,19 @@
-
+{
+  "interpretation_id": "no_israf_7_31_v1",
+  "layer": "L1 - Interpretation",
+  "verse_ref": "7:31",
+  "linked_L0_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "principle": "prohibition of israf - excess waste",
+  "quantifiable_rules": {
+    "water_waste_threshold": "0.5 liter per wudu excess",
+    "food_waste_limit": "zero edible waste",
+    "energy_waste": "detect idle consumption > 10min"
+  },
+  "confidence_score": 0.85,
+  "falsifiable": true,
+  "author": "Amr Gad",
+  "version": "1.0.0",
+  "created_at": "2026-08-02",
+  "is_executable": false,
+  "L0_dependency": "hash-only"
+}

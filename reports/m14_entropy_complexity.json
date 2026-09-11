@@ -4,112 +4,140 @@
     "words": 6116,
     "unique": 585,
     "hapax": 187,
-    "entropy": 7.876,
-    "hapax_density": 3.06
+    "entropy": 7.8763,
+    "hapax_density": 3.058,
+    "info_density": 1.2878,
+    "complexity": 9.565
   },
   {
     "surah": 7,
     "words": 3320,
     "unique": 477,
     "hapax": 195,
-    "entropy": 7.784,
-    "hapax_density": 5.87
+    "entropy": 7.7843,
+    "hapax_density": 5.873,
+    "info_density": 2.3447,
+    "complexity": 14.367
   },
   {
     "surah": 18,
     "words": 1579,
     "unique": 369,
     "hapax": 185,
-    "entropy": 7.748,
-    "hapax_density": 11.72
+    "entropy": 7.7485,
+    "hapax_density": 11.716,
+    "info_density": 4.9072,
+    "complexity": 23.369
   },
   {
     "surah": 17,
     "words": 1556,
     "unique": 342,
     "hapax": 160,
-    "entropy": 7.663,
-    "hapax_density": 10.28
+    "entropy": 7.6626,
+    "hapax_density": 10.283,
+    "info_density": 4.9245,
+    "complexity": 21.979
   },
   {
     "surah": 6,
     "words": 3050,
     "unique": 421,
     "hapax": 162,
-    "entropy": 7.619,
-    "hapax_density": 5.31
+    "entropy": 7.6189,
+    "hapax_density": 5.311,
+    "info_density": 2.498,
+    "complexity": 13.803
   },
   {
     "surah": 20,
     "words": 1335,
     "unique": 324,
     "hapax": 176,
-    "entropy": 7.617,
-    "hapax_density": 13.18
+    "entropy": 7.6171,
+    "hapax_density": 13.184,
+    "info_density": 5.7057,
+    "complexity": 24.27
   },
   {
     "surah": 5,
     "words": 2804,
     "unique": 422,
     "hapax": 168,
-    "entropy": 7.601,
-    "hapax_density": 5.99
+    "entropy": 7.6011,
+    "hapax_density": 5.991,
+    "info_density": 2.7108,
+    "complexity": 15.05
   },
   {
     "surah": 4,
     "words": 3747,
     "unique": 462,
     "hapax": 174,
-    "entropy": 7.588,
-    "hapax_density": 4.64
+    "entropy": 7.5879,
+    "hapax_density": 4.644,
+    "info_density": 2.0251,
+    "complexity": 12.33
   },
   {
     "surah": 22,
     "words": 1274,
     "unique": 328,
     "hapax": 174,
-    "entropy": 7.586,
-    "hapax_density": 13.66
+    "entropy": 7.5855,
+    "hapax_density": 13.658,
+    "info_density": 5.9541,
+    "complexity": 25.746
   },
   {
     "surah": 16,
     "words": 1844,
     "unique": 358,
     "hapax": 176,
-    "entropy": 7.562,
-    "hapax_density": 9.54
+    "entropy": 7.5621,
+    "hapax_density": 9.544,
+    "info_density": 4.1009,
+    "complexity": 19.414
   },
   {
     "surah": 11,
     "words": 1917,
     "unique": 348,
     "hapax": 156,
-    "entropy": 7.522,
-    "hapax_density": 8.14
+    "entropy": 7.5216,
+    "hapax_density": 8.138,
+    "info_density": 3.9236,
+    "complexity": 18.153
   },
   {
     "surah": 3,
     "words": 3481,
     "unique": 439,
     "hapax": 171,
-    "entropy": 7.511,
-    "hapax_density": 4.91
+    "entropy": 7.5112,
+    "hapax_density": 4.912,
+    "info_density": 2.1578,
+    "complexity": 12.611
   },
   {
     "surah": 12,
     "words": 1777,
     "unique": 336,
     "hapax": 146,
-    "entropy": 7.459,
-    "hapax_density": 8.22
+    "entropy": 7.4593,
+    "hapax_density": 8.216,
+    "info_density": 4.1977,
+    "complexity": 18.908
   },
   {
     "surah": 38,
     "words": 733,
     "unique": 235,
     "hapax": 138,
-    "entropy": 7.423,
-    "hapax_density": 18.83
+    "entropy": 7.4234,
+    "hapax_density": 18.827,
+    "info_density": 10.1274,
+    "complexity": 32.06
   },
   {
     "surah": 28,
@@ -117,39 +145,49 @@
     "unique": 296,
     "hapax": 143,
     "entropy": 7.419,
-    "hapax_density": 10.0
+    "hapax_density": 10.0,
+    "info_density": 5.1881,
+    "complexity": 20.699
   },
   {
     "surah": 23,
     "words": 1050,
     "unique": 271,
     "hapax": 157,
-    "entropy": 7.417,
-    "hapax_density": 14.95
+    "entropy": 7.4168,
+    "hapax_density": 14.952,
+    "info_density": 7.0636,
+    "complexity": 25.81
   },
   {
     "surah": 9,
     "words": 2498,
     "unique": 366,
     "hapax": 137,
-    "entropy": 7.405,
-    "hapax_density": 5.48
+    "entropy": 7.4053,
+    "hapax_density": 5.484,
+    "info_density": 2.9645,
+    "complexity": 14.652
   },
   {
     "surah": 21,
     "words": 1169,
     "unique": 284,
     "hapax": 173,
-    "entropy": 7.382,
-    "hapax_density": 14.8
+    "entropy": 7.3822,
+    "hapax_density": 14.799,
+    "info_density": 6.315,
+    "complexity": 24.294
   },
   {
     "surah": 24,
     "words": 1316,
     "unique": 287,
     "hapax": 129,
-    "entropy": 7.376,
-    "hapax_density": 9.8
+    "entropy": 7.3764,
+    "hapax_density": 9.802,
+    "info_density": 5.6051,
+    "complexity": 21.809
   },
   {
     "surah": 25,
@@ -157,39 +195,49 @@
     "unique": 250,
     "hapax": 136,
     "entropy": 7.362,
-    "hapax_density": 15.23
+    "hapax_density": 15.23,
+    "info_density": 8.2441,
+    "complexity": 27.996
   },
   {
     "surah": 13,
     "words": 853,
     "unique": 244,
     "hapax": 138,
-    "entropy": 7.337,
-    "hapax_density": 16.18
+    "entropy": 7.3369,
+    "hapax_density": 16.178,
+    "info_density": 8.6013,
+    "complexity": 28.605
   },
   {
     "surah": 37,
     "words": 860,
     "unique": 240,
     "hapax": 143,
-    "entropy": 7.284,
-    "hapax_density": 16.63
+    "entropy": 7.2835,
+    "hapax_density": 16.628,
+    "info_density": 8.4692,
+    "complexity": 27.907
   },
   {
     "surah": 35,
     "words": 775,
     "unique": 230,
     "hapax": 134,
-    "entropy": 7.277,
-    "hapax_density": 17.29
+    "entropy": 7.2767,
+    "hapax_density": 17.29,
+    "info_density": 9.3893,
+    "complexity": 29.677
   },
   {
     "surah": 27,
     "words": 1151,
     "unique": 265,
     "hapax": 137,
-    "entropy": 7.265,
-    "hapax_density": 11.9
+    "entropy": 7.2655,
+    "hapax_density": 11.903,
+    "info_density": 6.3123,
+    "complexity": 23.023
   },
   {
     "surah": 10,
@@ -197,47 +245,59 @@
     "unique": 290,
     "hapax": 117,
     "entropy": 7.248,
-    "hapax_density": 6.38
+    "hapax_density": 6.383,
+    "info_density": 3.9542,
+    "complexity": 15.821
   },
   {
     "surah": 43,
     "words": 830,
     "unique": 225,
     "hapax": 129,
-    "entropy": 7.243,
-    "hapax_density": 15.54
+    "entropy": 7.2433,
+    "hapax_density": 15.542,
+    "info_density": 8.7269,
+    "complexity": 27.108
   },
   {
     "surah": 36,
     "words": 725,
     "unique": 211,
     "hapax": 124,
-    "entropy": 7.216,
-    "hapax_density": 17.1
+    "entropy": 7.2156,
+    "hapax_density": 17.103,
+    "info_density": 9.9526,
+    "complexity": 29.103
   },
   {
     "surah": 40,
     "words": 1219,
     "unique": 257,
     "hapax": 123,
-    "entropy": 7.191,
-    "hapax_density": 10.09
+    "entropy": 7.1908,
+    "hapax_density": 10.09,
+    "info_density": 5.8989,
+    "complexity": 21.083
   },
   {
     "surah": 33,
     "words": 1287,
     "unique": 282,
     "hapax": 125,
-    "entropy": 7.184,
-    "hapax_density": 9.71
+    "entropy": 7.1837,
+    "hapax_density": 9.713,
+    "info_density": 5.5818,
+    "complexity": 21.911
   },
   {
     "surah": 14,
     "words": 830,
     "unique": 225,
     "hapax": 121,
-    "entropy": 7.17,
-    "hapax_density": 14.58
+    "entropy": 7.1696,
+    "hapax_density": 14.578,
+    "info_density": 8.6381,
+    "complexity": 27.108
   },
   {
     "surah": 41,
@@ -245,63 +305,79 @@
     "unique": 203,
     "hapax": 99,
     "entropy": 7.167,
-    "hapax_density": 12.47
+    "hapax_density": 12.469,
+    "info_density": 9.0264,
+    "complexity": 25.567
   },
   {
     "surah": 39,
     "words": 1172,
     "unique": 246,
     "hapax": 109,
-    "entropy": 7.164,
-    "hapax_density": 9.3
+    "entropy": 7.1645,
+    "hapax_density": 9.3,
+    "info_density": 6.113,
+    "complexity": 20.99
   },
   {
     "surah": 19,
     "words": 961,
     "unique": 239,
     "hapax": 122,
-    "entropy": 7.15,
-    "hapax_density": 12.7
+    "entropy": 7.1501,
+    "hapax_density": 12.695,
+    "info_density": 7.4403,
+    "complexity": 24.87
   },
   {
     "surah": 42,
     "words": 860,
     "unique": 206,
     "hapax": 95,
-    "entropy": 7.132,
-    "hapax_density": 11.05
+    "entropy": 7.1315,
+    "hapax_density": 11.047,
+    "info_density": 8.2924,
+    "complexity": 23.953
   },
   {
     "surah": 8,
     "words": 1233,
     "unique": 266,
     "hapax": 130,
-    "entropy": 7.13,
-    "hapax_density": 10.54
+    "entropy": 7.1303,
+    "hapax_density": 10.543,
+    "info_density": 5.7829,
+    "complexity": 21.573
   },
   {
     "surah": 15,
     "words": 655,
     "unique": 201,
     "hapax": 121,
-    "entropy": 7.117,
-    "hapax_density": 18.47
+    "entropy": 7.1173,
+    "hapax_density": 18.473,
+    "info_density": 10.8661,
+    "complexity": 30.687
   },
   {
     "surah": 34,
     "words": 883,
     "unique": 221,
     "hapax": 127,
-    "entropy": 7.104,
-    "hapax_density": 14.38
+    "entropy": 7.1039,
+    "hapax_density": 14.383,
+    "info_density": 8.0452,
+    "complexity": 25.028
   },
   {
     "surah": 26,
     "words": 1318,
     "unique": 265,
     "hapax": 151,
-    "entropy": 7.046,
-    "hapax_density": 11.46
+    "entropy": 7.0461,
+    "hapax_density": 11.457,
+    "info_density": 5.3461,
+    "complexity": 20.106
   },
   {
     "surah": 30,
@@ -309,31 +385,39 @@
     "unique": 195,
     "hapax": 99,
     "entropy": 6.995,
-    "hapax_density": 12.12
+    "hapax_density": 12.118,
+    "info_density": 8.5618,
+    "complexity": 23.868
   },
   {
     "surah": 29,
     "words": 976,
     "unique": 223,
     "hapax": 117,
-    "entropy": 6.987,
-    "hapax_density": 11.99
+    "entropy": 6.9875,
+    "hapax_density": 11.988,
+    "info_density": 7.1593,
+    "complexity": 22.848
   },
   {
     "surah": 31,
     "words": 546,
     "unique": 184,
     "hapax": 118,
-    "entropy": 6.982,
-    "hapax_density": 21.61
+    "entropy": 6.9823,
+    "hapax_density": 21.612,
+    "info_density": 12.7881,
+    "complexity": 33.7
   },
   {
     "surah": 46,
     "words": 643,
     "unique": 177,
     "hapax": 102,
-    "entropy": 6.894,
-    "hapax_density": 15.86
+    "entropy": 6.8942,
+    "hapax_density": 15.863,
+    "info_density": 10.7219,
+    "complexity": 27.527
   },
   {
     "surah": 50,
@@ -341,119 +425,149 @@
     "unique": 147,
     "hapax": 100,
     "entropy": 6.861,
-    "hapax_density": 26.81
+    "hapax_density": 26.81,
+    "info_density": 18.394,
+    "complexity": 39.41
   },
   {
     "surah": 57,
     "words": 574,
     "unique": 175,
     "hapax": 101,
-    "entropy": 6.852,
-    "hapax_density": 17.6
+    "entropy": 6.8518,
+    "hapax_density": 17.596,
+    "info_density": 11.9369,
+    "complexity": 30.488
   },
   {
     "surah": 52,
     "words": 312,
     "unique": 133,
     "hapax": 95,
-    "entropy": 6.808,
-    "hapax_density": 30.45
+    "entropy": 6.8081,
+    "hapax_density": 30.449,
+    "info_density": 21.8207,
+    "complexity": 42.628
   },
   {
     "surah": 51,
     "words": 360,
     "unique": 141,
     "hapax": 100,
-    "entropy": 6.798,
-    "hapax_density": 27.78
-  },
-  {
-    "surah": 47,
-    "words": 539,
-    "unique": 164,
-    "hapax": 98,
-    "entropy": 6.796,
-    "hapax_density": 18.18
+    "entropy": 6.7975,
+    "hapax_density": 27.778,
+    "info_density": 18.882,
+    "complexity": 39.167
   },
   {
     "surah": 48,
     "words": 560,
     "unique": 176,
     "hapax": 97,
-    "entropy": 6.796,
-    "hapax_density": 17.32
+    "entropy": 6.7961,
+    "hapax_density": 17.321,
+    "info_density": 12.1359,
+    "complexity": 31.429
+  },
+  {
+    "surah": 47,
+    "words": 539,
+    "unique": 164,
+    "hapax": 98,
+    "entropy": 6.7959,
+    "hapax_density": 18.182,
+    "info_density": 12.6084,
+    "complexity": 30.427
   },
   {
     "surah": 59,
     "words": 445,
     "unique": 157,
     "hapax": 103,
-    "entropy": 6.758,
-    "hapax_density": 23.15
+    "entropy": 6.7583,
+    "hapax_density": 23.146,
+    "info_density": 15.1873,
+    "complexity": 35.281
   },
   {
     "surah": 56,
     "words": 379,
     "unique": 141,
     "hapax": 90,
-    "entropy": 6.756,
-    "hapax_density": 23.75
+    "entropy": 6.7558,
+    "hapax_density": 23.747,
+    "info_density": 17.8253,
+    "complexity": 37.203
   },
   {
     "surah": 54,
     "words": 342,
     "unique": 140,
     "hapax": 94,
-    "entropy": 6.71,
-    "hapax_density": 27.49
+    "entropy": 6.7097,
+    "hapax_density": 27.485,
+    "info_density": 19.619,
+    "complexity": 40.936
   },
   {
     "surah": 32,
     "words": 372,
     "unique": 131,
     "hapax": 81,
-    "entropy": 6.682,
-    "hapax_density": 21.77
+    "entropy": 6.6818,
+    "hapax_density": 21.774,
+    "info_density": 17.9617,
+    "complexity": 35.215
   },
   {
     "surah": 67,
     "words": 333,
     "unique": 127,
     "hapax": 91,
-    "entropy": 6.646,
-    "hapax_density": 27.33
+    "entropy": 6.6462,
+    "hapax_density": 27.327,
+    "info_density": 19.9587,
+    "complexity": 38.138
   },
   {
     "surah": 68,
     "words": 300,
     "unique": 123,
     "hapax": 88,
-    "entropy": 6.626,
-    "hapax_density": 29.33
+    "entropy": 6.6258,
+    "hapax_density": 29.333,
+    "info_density": 22.0859,
+    "complexity": 41.0
   },
   {
     "surah": 69,
     "words": 258,
     "unique": 113,
     "hapax": 76,
-    "entropy": 6.622,
-    "hapax_density": 29.46
+    "entropy": 6.6219,
+    "hapax_density": 29.457,
+    "info_density": 25.6664,
+    "complexity": 43.798
   },
   {
     "surah": 53,
     "words": 360,
     "unique": 120,
     "hapax": 73,
-    "entropy": 6.585,
-    "hapax_density": 20.28
+    "entropy": 6.5846,
+    "hapax_density": 20.278,
+    "info_density": 18.2905,
+    "complexity": 33.333
   },
   {
     "surah": 44,
     "words": 346,
     "unique": 122,
     "hapax": 76,
-    "entropy": 6.579,
-    "hapax_density": 21.97
+    "entropy": 6.5794,
+    "hapax_density": 21.965,
+    "info_density": 19.0155,
+    "complexity": 35.26
   },
   {
     "surah": 74,
@@ -461,111 +575,139 @@
     "unique": 109,
     "hapax": 78,
     "entropy": 6.549,
-    "hapax_density": 30.59
+    "hapax_density": 30.588,
+    "info_density": 25.6825,
+    "complexity": 42.745
   },
   {
     "surah": 76,
     "words": 243,
     "unique": 112,
     "hapax": 77,
-    "entropy": 6.541,
-    "hapax_density": 31.69
+    "entropy": 6.5412,
+    "hapax_density": 31.687,
+    "info_density": 26.9184,
+    "complexity": 46.091
   },
   {
     "surah": 45,
     "words": 488,
     "unique": 132,
     "hapax": 68,
-    "entropy": 6.539,
-    "hapax_density": 13.93
+    "entropy": 6.5394,
+    "hapax_density": 13.934,
+    "info_density": 13.4005,
+    "complexity": 27.049
   },
   {
     "surah": 70,
     "words": 217,
     "unique": 105,
     "hapax": 80,
-    "entropy": 6.537,
-    "hapax_density": 36.87
+    "entropy": 6.5369,
+    "hapax_density": 36.866,
+    "info_density": 30.1241,
+    "complexity": 48.387
   },
   {
     "surah": 78,
     "words": 173,
     "unique": 100,
     "hapax": 81,
-    "entropy": 6.451,
-    "hapax_density": 46.82
+    "entropy": 6.4514,
+    "hapax_density": 46.821,
+    "info_density": 37.2916,
+    "complexity": 57.803
   },
   {
     "surah": 58,
     "words": 472,
     "unique": 143,
     "hapax": 87,
-    "entropy": 6.444,
-    "hapax_density": 18.43
+    "entropy": 6.4435,
+    "hapax_density": 18.432,
+    "info_density": 13.6516,
+    "complexity": 30.297
   },
   {
     "surah": 79,
     "words": 179,
     "unique": 93,
     "hapax": 72,
-    "entropy": 6.391,
-    "hapax_density": 40.22
+    "entropy": 6.3908,
+    "hapax_density": 40.223,
+    "info_density": 35.7027,
+    "complexity": 51.955
   },
   {
     "surah": 72,
     "words": 285,
     "unique": 100,
     "hapax": 64,
-    "entropy": 6.264,
-    "hapax_density": 22.46
+    "entropy": 6.2644,
+    "hapax_density": 22.456,
+    "info_density": 21.9802,
+    "complexity": 35.088
   },
   {
     "surah": 73,
     "words": 199,
     "unique": 91,
     "hapax": 63,
-    "entropy": 6.244,
-    "hapax_density": 31.66
+    "entropy": 6.2439,
+    "hapax_density": 31.658,
+    "info_density": 31.3764,
+    "complexity": 45.729
   },
   {
     "surah": 66,
     "words": 249,
     "unique": 96,
     "hapax": 61,
-    "entropy": 6.201,
-    "hapax_density": 24.5
+    "entropy": 6.2008,
+    "hapax_density": 24.498,
+    "info_density": 24.9027,
+    "complexity": 38.554
   },
   {
     "surah": 60,
     "words": 348,
     "unique": 107,
     "hapax": 69,
-    "entropy": 6.19,
-    "hapax_density": 19.83
+    "entropy": 6.1904,
+    "hapax_density": 19.828,
+    "info_density": 17.7884,
+    "complexity": 30.747
   },
   {
     "surah": 49,
     "words": 347,
     "unique": 112,
     "hapax": 68,
-    "entropy": 6.18,
-    "hapax_density": 19.6
+    "entropy": 6.1802,
+    "hapax_density": 19.597,
+    "info_density": 17.8103,
+    "complexity": 32.277
   },
   {
     "surah": 71,
     "words": 226,
     "unique": 87,
     "hapax": 55,
-    "entropy": 6.128,
-    "hapax_density": 24.34
+    "entropy": 6.1282,
+    "hapax_density": 24.336,
+    "info_density": 27.1159,
+    "complexity": 38.496
   },
   {
     "surah": 64,
     "words": 241,
     "unique": 96,
     "hapax": 61,
-    "entropy": 6.097,
-    "hapax_density": 25.31
+    "entropy": 6.0969,
+    "hapax_density": 25.311,
+    "info_density": 25.2982,
+    "complexity": 39.834
   },
   {
     "surah": 65,
@@ -573,71 +715,89 @@
     "unique": 97,
     "hapax": 51,
     "entropy": 6.085,
-    "hapax_density": 17.77
+    "hapax_density": 17.77,
+    "info_density": 21.2022,
+    "complexity": 33.798
   },
   {
     "surah": 80,
     "words": 133,
     "unique": 70,
     "hapax": 56,
-    "entropy": 6.01,
-    "hapax_density": 42.11
+    "entropy": 6.0105,
+    "hapax_density": 42.105,
+    "info_density": 45.1914,
+    "complexity": 52.632
   },
   {
     "surah": 77,
     "words": 181,
     "unique": 79,
     "hapax": 60,
-    "entropy": 5.998,
-    "hapax_density": 33.15
+    "entropy": 5.9982,
+    "hapax_density": 33.149,
+    "info_density": 33.1393,
+    "complexity": 43.646
   },
   {
     "surah": 75,
     "words": 164,
     "unique": 73,
     "hapax": 51,
-    "entropy": 5.991,
-    "hapax_density": 31.1
-  },
-  {
-    "surah": 62,
-    "words": 175,
-    "unique": 76,
-    "hapax": 56,
-    "entropy": 5.911,
-    "hapax_density": 32.0
+    "entropy": 5.9908,
+    "hapax_density": 31.098,
+    "info_density": 36.529,
+    "complexity": 44.512
   },
   {
     "surah": 83,
     "words": 169,
     "unique": 68,
     "hapax": 45,
-    "entropy": 5.911,
-    "hapax_density": 26.63
+    "entropy": 5.9106,
+    "hapax_density": 26.627,
+    "info_density": 34.9739,
+    "complexity": 40.237
+  },
+  {
+    "surah": 62,
+    "words": 175,
+    "unique": 76,
+    "hapax": 56,
+    "entropy": 5.9105,
+    "hapax_density": 32.0,
+    "info_density": 33.7743,
+    "complexity": 43.429
   },
   {
     "surah": 61,
     "words": 221,
     "unique": 81,
     "hapax": 55,
-    "entropy": 5.832,
-    "hapax_density": 24.89
+    "entropy": 5.8322,
+    "hapax_density": 24.887,
+    "info_density": 26.39,
+    "complexity": 36.652
   },
   {
     "surah": 89,
     "words": 137,
     "unique": 64,
     "hapax": 46,
-    "entropy": 5.773,
-    "hapax_density": 33.58
+    "entropy": 5.7733,
+    "hapax_density": 33.577,
+    "info_density": 42.1412,
+    "complexity": 46.715
   },
   {
     "surah": 81,
     "words": 104,
     "unique": 58,
     "hapax": 53,
-    "entropy": 5.768,
-    "hapax_density": 50.96
+    "entropy": 5.7677,
+    "hapax_density": 50.962,
+    "info_density": 55.4582,
+    "complexity": 55.769
   },
   {
     "surah": 63,
@@ -645,15 +805,19 @@
     "unique": 73,
     "hapax": 56,
     "entropy": 5.718,
-    "hapax_density": 31.11
+    "hapax_density": 31.111,
+    "info_density": 31.7666,
+    "complexity": 40.556
   },
   {
     "surah": 84,
     "words": 107,
     "unique": 52,
     "hapax": 37,
-    "entropy": 5.587,
-    "hapax_density": 34.58
+    "entropy": 5.5868,
+    "hapax_density": 34.579,
+    "info_density": 52.2129,
+    "complexity": 48.598
   },
   {
     "surah": 85,
@@ -661,151 +825,189 @@
     "unique": 53,
     "hapax": 46,
     "entropy": 5.554,
-    "hapax_density": 42.2
+    "hapax_density": 42.202,
+    "info_density": 50.9543,
+    "complexity": 48.624
   },
   {
     "surah": 88,
     "words": 92,
     "unique": 50,
     "hapax": 42,
-    "entropy": 5.54,
-    "hapax_density": 45.65
+    "entropy": 5.5402,
+    "hapax_density": 45.652,
+    "info_density": 60.2198,
+    "complexity": 54.348
   },
   {
     "surah": 55,
     "words": 351,
     "unique": 105,
     "hapax": 74,
-    "entropy": 5.495,
-    "hapax_density": 21.08
+    "entropy": 5.4947,
+    "hapax_density": 21.083,
+    "info_density": 15.6545,
+    "complexity": 29.915
   },
   {
     "surah": 90,
     "words": 82,
     "unique": 45,
     "hapax": 38,
-    "entropy": 5.431,
-    "hapax_density": 46.34
+    "entropy": 5.4312,
+    "hapax_density": 46.341,
+    "info_density": 66.2343,
+    "complexity": 54.878
   },
   {
     "surah": 92,
     "words": 71,
     "unique": 41,
     "hapax": 35,
-    "entropy": 5.278,
-    "hapax_density": 49.3
+    "entropy": 5.2776,
+    "hapax_density": 49.296,
+    "info_density": 74.332,
+    "complexity": 57.746
   },
   {
     "surah": 87,
     "words": 72,
     "unique": 41,
     "hapax": 35,
-    "entropy": 5.247,
-    "hapax_density": 48.61
+    "entropy": 5.2474,
+    "hapax_density": 48.611,
+    "info_density": 72.88,
+    "complexity": 56.944
   },
   {
     "surah": 98,
     "words": 94,
     "unique": 42,
     "hapax": 29,
-    "entropy": 5.236,
-    "hapax_density": 30.85
+    "entropy": 5.2358,
+    "hapax_density": 30.851,
+    "info_density": 55.7001,
+    "complexity": 44.681
   },
   {
     "surah": 91,
     "words": 54,
     "unique": 36,
     "hapax": 33,
-    "entropy": 5.132,
-    "hapax_density": 61.11
+    "entropy": 5.1316,
+    "hapax_density": 61.111,
+    "info_density": 95.0288,
+    "complexity": 66.667
   },
   {
     "surah": 82,
     "words": 80,
     "unique": 37,
     "hapax": 29,
-    "entropy": 5.029,
-    "hapax_density": 36.25
+    "entropy": 5.0288,
+    "hapax_density": 36.25,
+    "info_density": 62.8595,
+    "complexity": 46.25
   },
   {
     "surah": 86,
     "words": 61,
     "unique": 33,
     "hapax": 27,
-    "entropy": 4.919,
-    "hapax_density": 44.26
+    "entropy": 4.9185,
+    "hapax_density": 44.262,
+    "info_density": 80.6316,
+    "complexity": 54.098
   },
   {
     "surah": 96,
     "words": 72,
     "unique": 32,
     "hapax": 22,
-    "entropy": 4.776,
-    "hapax_density": 30.56
+    "entropy": 4.7755,
+    "hapax_density": 30.556,
+    "info_density": 66.3269,
+    "complexity": 44.444
   },
   {
     "surah": 100,
     "words": 40,
     "unique": 23,
     "hapax": 22,
-    "entropy": 4.502,
-    "hapax_density": 55.0
+    "entropy": 4.5016,
+    "hapax_density": 55.0,
+    "info_density": 112.5407,
+    "complexity": 57.5
   },
   {
     "surah": 95,
     "words": 34,
     "unique": 22,
     "hapax": 19,
-    "entropy": 4.404,
-    "hapax_density": 55.88
+    "entropy": 4.4039,
+    "hapax_density": 55.882,
+    "info_density": 129.5252,
+    "complexity": 64.706
   },
   {
     "surah": 93,
     "words": 40,
     "unique": 23,
     "hapax": 20,
-    "entropy": 4.396,
-    "hapax_density": 50.0
+    "entropy": 4.3963,
+    "hapax_density": 50.0,
+    "info_density": 109.9073,
+    "complexity": 57.5
   },
   {
     "surah": 104,
     "words": 33,
     "unique": 19,
     "hapax": 17,
-    "entropy": 4.202,
-    "hapax_density": 51.52
+    "entropy": 4.2018,
+    "hapax_density": 51.515,
+    "info_density": 127.3285,
+    "complexity": 57.576
   },
   {
     "surah": 101,
     "words": 36,
     "unique": 19,
     "hapax": 15,
-    "entropy": 4.137,
-    "hapax_density": 41.67
+    "entropy": 4.1368,
+    "hapax_density": 41.667,
+    "info_density": 114.9123,
+    "complexity": 52.778
   },
   {
     "surah": 105,
     "words": 23,
     "unique": 17,
     "hapax": 16,
-    "entropy": 4.059,
-    "hapax_density": 69.57
+    "entropy": 4.0588,
+    "hapax_density": 69.565,
+    "info_density": 176.4702,
+    "complexity": 73.913
   },
   {
     "surah": 99,
     "words": 36,
     "unique": 18,
     "hapax": 12,
-    "entropy": 4.004,
-    "hapax_density": 33.33
+    "entropy": 4.0043,
+    "hapax_density": 33.333,
+    "info_density": 111.2318,
+    "complexity": 50.0
   },
   {
     "surah": 1,
     "words": 29,
     "unique": 18,
     "hapax": 15,
-    "entropy": 4.002,
-    "hapax_density": 51.72
+    "entropy": 4.0018,
+    "hapax_density": 51.724,
+    "info_density": 137.9939,
+    "complexity": 62.069
   },
   {
     "surah": 110,
@@ -813,23 +1015,29 @@
     "unique": 15,
     "hapax": 14,
     "entropy": 3.875,
-    "hapax_density": 73.68
+    "hapax_density": 73.684,
+    "info_density": 203.9474,
+    "complexity": 78.947
   },
   {
     "surah": 111,
     "words": 23,
     "unique": 15,
     "hapax": 13,
-    "entropy": 3.852,
-    "hapax_density": 56.52
+    "entropy": 3.8522,
+    "hapax_density": 56.522,
+    "info_density": 167.4856,
+    "complexity": 65.217
   },
   {
     "surah": 97,
     "words": 30,
     "unique": 16,
     "hapax": 13,
-    "entropy": 3.844,
-    "hapax_density": 43.33
+    "entropy": 3.8442,
+    "hapax_density": 43.333,
+    "info_density": 128.1411,
+    "complexity": 53.333
   },
   {
     "surah": 94,
@@ -837,23 +1045,29 @@
     "unique": 14,
     "hapax": 12,
     "entropy": 3.75,
-    "hapax_density": 44.44
+    "hapax_density": 44.444,
+    "info_density": 138.8889,
+    "complexity": 51.852
   },
   {
     "surah": 107,
     "words": 25,
     "unique": 12,
     "hapax": 10,
-    "entropy": 3.522,
-    "hapax_density": 40.0
+    "entropy": 3.5216,
+    "hapax_density": 40.0,
+    "info_density": 140.8656,
+    "complexity": 48.0
   },
   {
     "surah": 106,
     "words": 17,
     "unique": 11,
     "hapax": 10,
-    "entropy": 3.418,
-    "hapax_density": 58.82
+    "entropy": 3.4183,
+    "hapax_density": 58.824,
+    "info_density": 201.0762,
+    "complexity": 64.706
   },
   {
     "surah": 102,
@@ -861,54 +1075,68 @@
     "unique": 11,
     "hapax": 8,
     "entropy": 3.25,
-    "hapax_density": 28.57
+    "hapax_density": 28.571,
+    "info_density": 116.0714,
+    "complexity": 39.286
   },
   {
     "surah": 113,
     "words": 23,
     "unique": 11,
     "hapax": 9,
-    "entropy": 3.24,
-    "hapax_density": 39.13
+    "entropy": 3.2402,
+    "hapax_density": 39.13,
+    "info_density": 140.8793,
+    "complexity": 47.826
   },
   {
     "surah": 114,
     "words": 20,
     "unique": 11,
     "hapax": 9,
-    "entropy": 3.149,
-    "hapax_density": 45.0
+    "entropy": 3.1494,
+    "hapax_density": 45.0,
+    "info_density": 157.4699,
+    "complexity": 55.0
   },
   {
     "surah": 103,
     "words": 14,
     "unique": 9,
     "hapax": 8,
-    "entropy": 3.122,
-    "hapax_density": 57.14
+    "entropy": 3.1219,
+    "hapax_density": 57.143,
+    "info_density": 222.9949,
+    "complexity": 64.286
   },
   {
     "surah": 108,
     "words": 10,
     "unique": 7,
     "hapax": 7,
-    "entropy": 2.807,
-    "hapax_density": 70.0
+    "entropy": 2.8074,
+    "hapax_density": 70.0,
+    "info_density": 280.7355,
+    "complexity": 70.0
   },
   {
     "surah": 112,
     "words": 15,
     "unique": 7,
     "hapax": 4,
-    "entropy": 2.722,
-    "hapax_density": 26.67
+    "entropy": 2.7219,
+    "hapax_density": 26.667,
+    "info_density": 181.4619,
+    "complexity": 46.667
   },
   {
     "surah": 109,
     "words": 26,
     "unique": 4,
     "hapax": 2,
-    "entropy": 1.418,
-    "hapax_density": 7.69
+    "entropy": 1.4183,
+    "hapax_density": 7.692,
+    "info_density": 54.5498,
+    "complexity": 15.385
   }
 ]

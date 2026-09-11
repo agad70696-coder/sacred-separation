@@ -1,0 +1,16 @@
+{
+  "total_words": 77429,
+  "avg_entropy": 6.1029,
+  "std_entropy": 1.4103,
+  "top": {
+    "surah": 2,
+    "words": 6116,
+    "unique": 585,
+    "hapax": 187,
+    "entropy": 7.8763,
+    "hapax_density": 3.058,
+    "info_density": 1.2878,
+    "complexity": 9.565
+  },
+  "zipf_441": 90.01
+}

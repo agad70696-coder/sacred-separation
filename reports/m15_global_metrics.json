@@ -1,8 +1,11 @@
 {
+  "engine": "V5 DEEP",
   "total_words": 77429,
+  "total_unique_roots": 1642,
+  "hapax_total": 395,
   "avg_entropy": 6.1029,
   "std_entropy": 1.4103,
-  "top": {
+  "top_entropy": {
     "surah": 2,
     "words": 6116,
     "unique": 585,
@@ -12,5 +15,68 @@
     "info_density": 1.2878,
     "complexity": 9.565
   },
-  "zipf_441": 90.01
+  "top_root": {
+    "rank": 1,
+    "root": "Alh",
+    "freq": 2851,
+    "percent": 5.7058,
+    "cumulative_percent": 5.7058
+  },
+  "zipf_slope": -0.6691,
+  "zipf_alpha": 0.6691,
+  "zipf_r2": 0.9938,
+  "morphology": {
+    "total_unique": 1642,
+    "triliteral": 1602,
+    "quadriliteral": 40,
+    "quinqueliteral": 0,
+    "weak_waw": 0,
+    "weak_ya": 0,
+    "hamzated": 0,
+    "geminated": 153,
+    "avg_length": 3.024,
+    "triliteral_percent": 97.56
+  },
+  "most_similar_pair": {
+    "surah1": 2,
+    "surah2": 3,
+    "cosine": 0.9634,
+    "shared_roots": 331,
+    "type": "both_medinan"
+  },
+  "most_dissimilar_pair": {
+    "surah1": 111,
+    "surah2": 114,
+    "cosine": 0.0,
+    "shared_roots": 0,
+    "type": "both_meccan"
+  },
+  "top_central_root": {
+    "root": "Alh",
+    "degree": 89,
+    "weighted_degree": 10513,
+    "pagerank": 0.150526,
+    "rank": 1
+  },
+  "top_pmi_pair": {
+    "root1": "Eml",
+    "root2": "SlH",
+    "cooccur": 93,
+    "pmi": 9.2984,
+    "p1": 0.007205,
+    "p2": 0.003602,
+    "p_pair": 0.016342
+  },
+  "top_kl_surah": {
+    "surah": 108,
+    "kl_global": 8.6096,
+    "words": 7,
+    "entropy": 2.8074,
+    "group": "meccan"
+  },
+  "avg_kl_meccan": 3.0359,
+  "avg_kl_medinan": 1.7927,
+  "kl_gap": -1.2432,
+  "cooccurrence_pairs": 300,
+  "timestamp": "2026-09-12T02:29:32.306760"
 }

@@ -1,0 +1,911 @@
+{
+  "slope": -0.6691,
+  "intercept": 7.8751,
+  "r2": 0.9938,
+  "alpha": 0.6691,
+  "C": 2630.89,
+  "avg_rank_freq_product": 9132.25,
+  "top_n": 100,
+  "curve": [
+    {
+      "rank": 1,
+      "root": "Alh",
+      "freq": 2851,
+      "log_rank": 0.0,
+      "log_freq": 7.9554,
+      "expected_freq": 2630.89,
+      "zipf_product": 2851
+    },
+    {
+      "rank": 2,
+      "root": "qwl",
+      "freq": 1722,
+      "log_rank": 0.6931,
+      "log_freq": 7.4512,
+      "expected_freq": 1654.52,
+      "zipf_product": 3444
+    },
+    {
+      "rank": 3,
+      "root": "kwn",
+      "freq": 1390,
+      "log_rank": 1.0986,
+      "log_freq": 7.2371,
+      "expected_freq": 1261.38,
+      "zipf_product": 4170
+    },
+    {
+      "rank": 4,
+      "root": "rbb",
+      "freq": 980,
+      "log_rank": 1.3863,
+      "log_freq": 6.8876,
+      "expected_freq": 1040.5,
+      "zipf_product": 3920
+    },
+    {
+      "rank": 5,
+      "root": "Amn",
+      "freq": 879,
+      "log_rank": 1.6094,
+      "log_freq": 6.7788,
+      "expected_freq": 896.18,
+      "zipf_product": 4395
+    },
+    {
+      "rank": 6,
+      "root": "Elm",
+      "freq": 854,
+      "log_rank": 1.7918,
+      "log_freq": 6.7499,
+      "expected_freq": 793.26,
+      "zipf_product": 5124
+    },
+    {
+      "rank": 7,
+      "root": "qwm",
+      "freq": 660,
+      "log_rank": 1.9459,
+      "log_freq": 6.4922,
+      "expected_freq": 715.51,
+      "zipf_product": 4620
+    },
+    {
+      "rank": 8,
+      "root": "Aty",
+      "freq": 549,
+      "log_rank": 2.0794,
+      "log_freq": 6.3081,
+      "expected_freq": 654.36,
+      "zipf_product": 4392
+    },
+    {
+      "rank": 9,
+      "root": "kfr",
+      "freq": 525,
+      "log_rank": 2.1972,
+      "log_freq": 6.2634,
+      "expected_freq": 604.76,
+      "zipf_product": 4725
+    },
+    {
+      "rank": 10,
+      "root": "byn",
+      "freq": 523,
+      "log_rank": 2.3026,
+      "log_freq": 6.2596,
+      "expected_freq": 563.6,
+      "zipf_product": 5230
+    },
+    {
+      "rank": 11,
+      "root": "$yA",
+      "freq": 519,
+      "log_rank": 2.3979,
+      "log_freq": 6.2519,
+      "expected_freq": 528.77,
+      "zipf_product": 5709
+    },
+    {
+      "rank": 12,
+      "root": "rsl",
+      "freq": 513,
+      "log_rank": 2.4849,
+      "log_freq": 6.2403,
+      "expected_freq": 498.87,
+      "zipf_product": 6156
+    },
+    {
+      "rank": 13,
+      "root": "ArD",
+      "freq": 461,
+      "log_rank": 2.5649,
+      "log_freq": 6.1334,
+      "expected_freq": 472.85,
+      "zipf_product": 5993
+    },
+    {
+      "rank": 14,
+      "root": "ywm",
+      "freq": 405,
+      "log_rank": 2.6391,
+      "log_freq": 6.0039,
+      "expected_freq": 449.97,
+      "zipf_product": 5670
+    },
+    {
+      "rank": 15,
+      "root": "Ayy",
+      "freq": 382,
+      "log_rank": 2.7081,
+      "log_freq": 5.9454,
+      "expected_freq": 429.67,
+      "zipf_product": 5730
+    },
+    {
+      "rank": 16,
+      "root": "smw",
+      "freq": 381,
+      "log_rank": 2.7726,
+      "log_freq": 5.9428,
+      "expected_freq": 411.51,
+      "zipf_product": 6096
+    },
+    {
+      "rank": 17,
+      "root": "kll",
+      "freq": 377,
+      "log_rank": 2.8332,
+      "log_freq": 5.9322,
+      "expected_freq": 395.15,
+      "zipf_product": 6409
+    },
+    {
+      "rank": 18,
+      "root": "E*b",
+      "freq": 373,
+      "log_rank": 2.8904,
+      "log_freq": 5.9216,
+      "expected_freq": 380.33,
+      "zipf_product": 6714
+    },
+    {
+      "rank": 19,
+      "root": "Eml",
+      "freq": 360,
+      "log_rank": 2.9444,
+      "log_freq": 5.8861,
+      "expected_freq": 366.81,
+      "zipf_product": 6840
+    },
+    {
+      "rank": 20,
+      "root": "jEl",
+      "freq": 346,
+      "log_rank": 2.9957,
+      "log_freq": 5.8464,
+      "expected_freq": 354.44,
+      "zipf_product": 6920
+    },
+    {
+      "rank": 21,
+      "root": "rHm",
+      "freq": 339,
+      "log_rank": 3.0445,
+      "log_freq": 5.826,
+      "expected_freq": 343.05,
+      "zipf_product": 7119
+    },
+    {
+      "rank": 22,
+      "root": "rAy",
+      "freq": 328,
+      "log_rank": 3.091,
+      "log_freq": 5.793,
+      "expected_freq": 332.54,
+      "zipf_product": 7216
+    },
+    {
+      "rank": 23,
+      "root": "ktb",
+      "freq": 319,
+      "log_rank": 3.1355,
+      "log_freq": 5.7652,
+      "expected_freq": 322.79,
+      "zipf_product": 7337
+    },
+    {
+      "rank": 24,
+      "root": "hdy",
+      "freq": 316,
+      "log_rank": 3.1781,
+      "log_freq": 5.7557,
+      "expected_freq": 313.73,
+      "zipf_product": 7584
+    },
+    {
+      "rank": 25,
+      "root": "Zlm",
+      "freq": 315,
+      "log_rank": 3.2189,
+      "log_freq": 5.7526,
+      "expected_freq": 305.28,
+      "zipf_product": 7875
+    },
+    {
+      "rank": 26,
+      "root": "nfs",
+      "freq": 298,
+      "log_rank": 3.2581,
+      "log_freq": 5.6971,
+      "expected_freq": 297.37,
+      "zipf_product": 7748
+    },
+    {
+      "rank": 27,
+      "root": "qbl",
+      "freq": 294,
+      "log_rank": 3.2958,
+      "log_freq": 5.6836,
+      "expected_freq": 289.95,
+      "zipf_product": 7938
+    },
+    {
+      "rank": 28,
+      "root": "nzl",
+      "freq": 293,
+      "log_rank": 3.3322,
+      "log_freq": 5.6802,
+      "expected_freq": 282.98,
+      "zipf_product": 8204
+    },
+    {
+      "rank": 29,
+      "root": "*kr",
+      "freq": 292,
+      "log_rank": 3.3673,
+      "log_freq": 5.6768,
+      "expected_freq": 276.41,
+      "zipf_product": 8468
+    },
+    {
+      "rank": 30,
+      "root": "Hqq",
+      "freq": 287,
+      "log_rank": 3.4012,
+      "log_freq": 5.6595,
+      "expected_freq": 270.21,
+      "zipf_product": 8610
+    },
+    {
+      "rank": 31,
+      "root": "k*b",
+      "freq": 282,
+      "log_rank": 3.434,
+      "log_freq": 5.6419,
+      "expected_freq": 264.35,
+      "zipf_product": 8742
+    },
+    {
+      "rank": 32,
+      "root": "jyA",
+      "freq": 278,
+      "log_rank": 3.4657,
+      "log_freq": 5.6276,
+      "expected_freq": 258.79,
+      "zipf_product": 8896
+    },
+    {
+      "rank": 33,
+      "root": "Ebd",
+      "freq": 275,
+      "log_rank": 3.4965,
+      "log_freq": 5.6168,
+      "expected_freq": 253.52,
+      "zipf_product": 9075
+    },
+    {
+      "rank": 34,
+      "root": "Ax*",
+      "freq": 273,
+      "log_rank": 3.5264,
+      "log_freq": 5.6095,
+      "expected_freq": 248.51,
+      "zipf_product": 9282
+    },
+    {
+      "rank": 35,
+      "root": "xlq",
+      "freq": 261,
+      "log_rank": 3.5553,
+      "log_freq": 5.5645,
+      "expected_freq": 243.73,
+      "zipf_product": 9135
+    },
+    {
+      "rank": 36,
+      "root": "wqy",
+      "freq": 258,
+      "log_rank": 3.5835,
+      "log_freq": 5.553,
+      "expected_freq": 239.18,
+      "zipf_product": 9288
+    },
+    {
+      "rank": 37,
+      "root": "Axr",
+      "freq": 250,
+      "log_rank": 3.6109,
+      "log_freq": 5.5215,
+      "expected_freq": 234.84,
+      "zipf_product": 9250
+    },
+    {
+      "rank": 38,
+      "root": "Amr",
+      "freq": 248,
+      "log_rank": 3.6376,
+      "log_freq": 5.5134,
+      "expected_freq": 230.68,
+      "zipf_product": 9424
+    },
+    {
+      "rank": 39,
+      "root": "nws",
+      "freq": 241,
+      "log_rank": 3.6636,
+      "log_freq": 5.4848,
+      "expected_freq": 226.71,
+      "zipf_product": 9399
+    },
+    {
+      "rank": 40,
+      "root": "bEd",
+      "freq": 235,
+      "log_rank": 3.6889,
+      "log_freq": 5.4596,
+      "expected_freq": 222.9,
+      "zipf_product": 9400
+    },
+    {
+      "rank": 41,
+      "root": "gfr",
+      "freq": 234,
+      "log_rank": 3.7136,
+      "log_freq": 5.4553,
+      "expected_freq": 219.25,
+      "zipf_product": 9594
+    },
+    {
+      "rank": 42,
+      "root": "wly",
+      "freq": 232,
+      "log_rank": 3.7377,
+      "log_freq": 5.4467,
+      "expected_freq": 215.74,
+      "zipf_product": 9744
+    },
+    {
+      "rank": 43,
+      "root": "dEw",
+      "freq": 212,
+      "log_rank": 3.7612,
+      "log_freq": 5.3566,
+      "expected_freq": 212.37,
+      "zipf_product": 9116
+    },
+    {
+      "rank": 44,
+      "root": "Hkm",
+      "freq": 210,
+      "log_rank": 3.7842,
+      "log_freq": 5.3471,
+      "expected_freq": 209.13,
+      "zipf_product": 9240
+    },
+    {
+      "rank": 45,
+      "root": "mlk",
+      "freq": 206,
+      "log_rank": 3.8067,
+      "log_freq": 5.3279,
+      "expected_freq": 206.01,
+      "zipf_product": 9270
+    },
+    {
+      "rank": 46,
+      "root": "jnn",
+      "freq": 201,
+      "log_rank": 3.8286,
+      "log_freq": 5.3033,
+      "expected_freq": 203.0,
+      "zipf_product": 9246
+    },
+    {
+      "rank": 47,
+      "root": "End",
+      "freq": 201,
+      "log_rank": 3.8501,
+      "log_freq": 5.3033,
+      "expected_freq": 200.1,
+      "zipf_product": 9447
+    },
+    {
+      "rank": 48,
+      "root": "xyr",
+      "freq": 196,
+      "log_rank": 3.8712,
+      "log_freq": 5.2781,
+      "expected_freq": 197.3,
+      "zipf_product": 9408
+    },
+    {
+      "rank": 49,
+      "root": "nwr",
+      "freq": 194,
+      "log_rank": 3.8918,
+      "log_freq": 5.2679,
+      "expected_freq": 194.6,
+      "zipf_product": 9506
+    },
+    {
+      "rank": 50,
+      "root": "Hsn",
+      "freq": 194,
+      "log_rank": 3.912,
+      "log_freq": 5.2679,
+      "expected_freq": 191.98,
+      "zipf_product": 9700
+    },
+    {
+      "rank": 51,
+      "root": "Dll",
+      "freq": 191,
+      "log_rank": 3.9318,
+      "log_freq": 5.2523,
+      "expected_freq": 189.46,
+      "zipf_product": 9741
+    },
+    {
+      "rank": 52,
+      "root": "smE",
+      "freq": 185,
+      "log_rank": 3.9512,
+      "log_freq": 5.2204,
+      "expected_freq": 187.01,
+      "zipf_product": 9620
+    },
+    {
+      "rank": 53,
+      "root": "bny",
+      "freq": 184,
+      "log_rank": 3.9703,
+      "log_freq": 5.2149,
+      "expected_freq": 184.64,
+      "zipf_product": 9752
+    },
+    {
+      "rank": 54,
+      "root": "Hyy",
+      "freq": 184,
+      "log_rank": 3.989,
+      "log_freq": 5.2149,
+      "expected_freq": 182.35,
+      "zipf_product": 9936
+    },
+    {
+      "rank": 55,
+      "root": "xrj",
+      "freq": 182,
+      "log_rank": 4.0073,
+      "log_freq": 5.204,
+      "expected_freq": 180.12,
+      "zipf_product": 10010
+    },
+    {
+      "rank": 56,
+      "root": "SlH",
+      "freq": 180,
+      "log_rank": 4.0254,
+      "log_freq": 5.193,
+      "expected_freq": 177.96,
+      "zipf_product": 10080
+    },
+    {
+      "rank": 57,
+      "root": "sbl",
+      "freq": 176,
+      "log_rank": 4.0431,
+      "log_freq": 5.1705,
+      "expected_freq": 175.87,
+      "zipf_product": 10032
+    },
+    {
+      "rank": 58,
+      "root": "tbE",
+      "freq": 172,
+      "log_rank": 4.0604,
+      "log_freq": 5.1475,
+      "expected_freq": 173.83,
+      "zipf_product": 9976
+    },
+    {
+      "rank": 59,
+      "root": "Awl",
+      "freq": 170,
+      "log_rank": 4.0775,
+      "log_freq": 5.1358,
+      "expected_freq": 171.86,
+      "zipf_product": 10030
+    },
+    {
+      "rank": 60,
+      "root": "qtl",
+      "freq": 170,
+      "log_rank": 4.0943,
+      "log_freq": 5.1358,
+      "expected_freq": 169.93,
+      "zipf_product": 10200
+    },
+    {
+      "rank": 61,
+      "root": "mvl",
+      "freq": 169,
+      "log_rank": 4.1109,
+      "log_freq": 5.1299,
+      "expected_freq": 168.06,
+      "zipf_product": 10309
+    },
+    {
+      "rank": 62,
+      "root": "qlb",
+      "freq": 168,
+      "log_rank": 4.1271,
+      "log_freq": 5.124,
+      "expected_freq": 166.25,
+      "zipf_product": 10416
+    },
+    {
+      "rank": 63,
+      "root": "$rk",
+      "freq": 168,
+      "log_rank": 4.1431,
+      "log_freq": 5.124,
+      "expected_freq": 164.48,
+      "zipf_product": 10584
+    },
+    {
+      "rank": 64,
+      "root": "kvr",
+      "freq": 167,
+      "log_rank": 4.1589,
+      "log_freq": 5.118,
+      "expected_freq": 162.75,
+      "zipf_product": 10688
+    },
+    {
+      "rank": 65,
+      "root": "swA",
+      "freq": 167,
+      "log_rank": 4.1744,
+      "log_freq": 5.118,
+      "expected_freq": 161.07,
+      "zipf_product": 10855
+    },
+    {
+      "rank": 66,
+      "root": "mwt",
+      "freq": 165,
+      "log_rank": 4.1897,
+      "log_freq": 5.1059,
+      "expected_freq": 159.43,
+      "zipf_product": 10890
+    },
+    {
+      "rank": 67,
+      "root": "kbr",
+      "freq": 161,
+      "log_rank": 4.2047,
+      "log_freq": 5.0814,
+      "expected_freq": 157.84,
+      "zipf_product": 10787
+    },
+    {
+      "rank": 68,
+      "root": "$hd",
+      "freq": 160,
+      "log_rank": 4.2195,
+      "log_freq": 5.0752,
+      "expected_freq": 156.28,
+      "zipf_product": 10880
+    },
+    {
+      "rank": 69,
+      "root": "nbA",
+      "freq": 160,
+      "log_rank": 4.2341,
+      "log_freq": 5.0752,
+      "expected_freq": 154.76,
+      "zipf_product": 11040
+    },
+    {
+      "rank": 70,
+      "root": "bED",
+      "freq": 158,
+      "log_rank": 4.2485,
+      "log_freq": 5.0626,
+      "expected_freq": 153.28,
+      "zipf_product": 11060
+    },
+    {
+      "rank": 71,
+      "root": "nSr",
+      "freq": 158,
+      "log_rank": 4.2627,
+      "log_freq": 5.0626,
+      "expected_freq": 151.83,
+      "zipf_product": 11218
+    },
+    {
+      "rank": 72,
+      "root": "Sdq",
+      "freq": 155,
+      "log_rank": 4.2767,
+      "log_freq": 5.0434,
+      "expected_freq": 150.42,
+      "zipf_product": 11160
+    },
+    {
+      "rank": 73,
+      "root": "gyr",
+      "freq": 154,
+      "log_rank": 4.2905,
+      "log_freq": 5.037,
+      "expected_freq": 149.03,
+      "zipf_product": 11242
+    },
+    {
+      "rank": 74,
+      "root": "wEd",
+      "freq": 151,
+      "log_rank": 4.3041,
+      "log_freq": 5.0173,
+      "expected_freq": 147.68,
+      "zipf_product": 11174
+    },
+    {
+      "rank": 75,
+      "root": "bSr",
+      "freq": 148,
+      "log_rank": 4.3175,
+      "log_freq": 4.9972,
+      "expected_freq": 146.36,
+      "zipf_product": 11100
+    },
+    {
+      "rank": 76,
+      "root": "rwd",
+      "freq": 148,
+      "log_rank": 4.3307,
+      "log_freq": 4.9972,
+      "expected_freq": 145.07,
+      "zipf_product": 11248
+    },
+    {
+      "rank": 77,
+      "root": "lqy",
+      "freq": 146,
+      "log_rank": 4.3438,
+      "log_freq": 4.9836,
+      "expected_freq": 143.81,
+      "zipf_product": 11242
+    },
+    {
+      "rank": 78,
+      "root": "dwn",
+      "freq": 144,
+      "log_rank": 4.3567,
+      "log_freq": 4.9698,
+      "expected_freq": 142.57,
+      "zipf_product": 11232
+    },
+    {
+      "rank": 79,
+      "root": "nEm",
+      "freq": 140,
+      "log_rank": 4.3694,
+      "log_freq": 4.9416,
+      "expected_freq": 141.36,
+      "zipf_product": 11060
+    },
+    {
+      "rank": 80,
+      "root": "slm",
+      "freq": 140,
+      "log_rank": 4.382,
+      "log_freq": 4.9416,
+      "expected_freq": 140.18,
+      "zipf_product": 11200
+    },
+    {
+      "rank": 81,
+      "root": "dnw",
+      "freq": 133,
+      "log_rank": 4.3944,
+      "log_freq": 4.8903,
+      "expected_freq": 139.02,
+      "zipf_product": 10773
+    },
+    {
+      "rank": 82,
+      "root": "qdr",
+      "freq": 132,
+      "log_rank": 4.4067,
+      "log_freq": 4.8828,
+      "expected_freq": 137.88,
+      "zipf_product": 10824
+    },
+    {
+      "rank": 83,
+      "root": "n*r",
+      "freq": 130,
+      "log_rank": 4.4188,
+      "log_freq": 4.8675,
+      "expected_freq": 136.77,
+      "zipf_product": 10790
+    },
+    {
+      "rank": 84,
+      "root": "jmE",
+      "freq": 129,
+      "log_rank": 4.4308,
+      "log_freq": 4.8598,
+      "expected_freq": 135.67,
+      "zipf_product": 10836
+    },
+    {
+      "rank": 85,
+      "root": "nZr",
+      "freq": 129,
+      "log_rank": 4.4427,
+      "log_freq": 4.8598,
+      "expected_freq": 134.6,
+      "zipf_product": 10965
+    },
+    {
+      "rank": 86,
+      "root": "sAl",
+      "freq": 129,
+      "log_rank": 4.4543,
+      "log_freq": 4.8598,
+      "expected_freq": 133.56,
+      "zipf_product": 11094
+    },
+    {
+      "rank": 87,
+      "root": "TwE",
+      "freq": 129,
+      "log_rank": 4.4659,
+      "log_freq": 4.8598,
+      "expected_freq": 132.53,
+      "zipf_product": 11223
+    },
+    {
+      "rank": 88,
+      "root": "EZm",
+      "freq": 128,
+      "log_rank": 4.4773,
+      "log_freq": 4.852,
+      "expected_freq": 131.52,
+      "zipf_product": 11264
+    },
+    {
+      "rank": 89,
+      "root": "xlf",
+      "freq": 127,
+      "log_rank": 4.4886,
+      "log_freq": 4.8442,
+      "expected_freq": 130.53,
+      "zipf_product": 11303
+    },
+    {
+      "rank": 90,
+      "root": "Ahl",
+      "freq": 127,
+      "log_rank": 4.4998,
+      "log_freq": 4.8442,
+      "expected_freq": 129.55,
+      "zipf_product": 11430
+    },
+    {
+      "rank": 91,
+      "root": "dxl",
+      "freq": 126,
+      "log_rank": 4.5109,
+      "log_freq": 4.8363,
+      "expected_freq": 128.6,
+      "zipf_product": 11466
+    },
+    {
+      "rank": 92,
+      "root": "xwf",
+      "freq": 124,
+      "log_rank": 4.5218,
+      "log_freq": 4.8203,
+      "expected_freq": 127.66,
+      "zipf_product": 11408
+    },
+    {
+      "rank": 93,
+      "root": "rzq",
+      "freq": 123,
+      "log_rank": 4.5326,
+      "log_freq": 4.8122,
+      "expected_freq": 126.74,
+      "zipf_product": 11439
+    },
+    {
+      "rank": 94,
+      "root": "b$r",
+      "freq": 123,
+      "log_rank": 4.5433,
+      "log_freq": 4.8122,
+      "expected_freq": 125.84,
+      "zipf_product": 11562
+    },
+    {
+      "rank": 95,
+      "root": "ydy",
+      "freq": 120,
+      "log_rank": 4.5539,
+      "log_freq": 4.7875,
+      "expected_freq": 124.95,
+      "zipf_product": 11400
+    },
+    {
+      "rank": 96,
+      "root": "Ezz",
+      "freq": 119,
+      "log_rank": 4.5643,
+      "log_freq": 4.7791,
+      "expected_freq": 124.08,
+      "zipf_product": 11424
+    },
+    {
+      "rank": 97,
+      "root": "jzy",
+      "freq": 118,
+      "log_rank": 4.5747,
+      "log_freq": 4.7707,
+      "expected_freq": 123.22,
+      "zipf_product": 11446
+    },
+    {
+      "rank": 98,
+      "root": "Amm",
+      "freq": 118,
+      "log_rank": 4.585,
+      "log_freq": 4.7707,
+      "expected_freq": 122.38,
+      "zipf_product": 11564
+    },
+    {
+      "rank": 99,
+      "root": "Abw",
+      "freq": 117,
+      "log_rank": 4.5951,
+      "log_freq": 4.7622,
+      "expected_freq": 121.55,
+      "zipf_product": 11583
+    },
+    {
+      "rank": 100,
+      "root": "nhr",
+      "freq": 113,
+      "log_rank": 4.6052,
+      "log_freq": 4.7274,
+      "expected_freq": 120.73,
+      "zipf_product": 11300
+    }
+  ]
+}

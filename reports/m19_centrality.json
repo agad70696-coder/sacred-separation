@@ -1,0 +1,702 @@
+[
+  {
+    "root": "Alh",
+    "degree": 89,
+    "weighted_degree": 10513,
+    "pagerank": 0.150526,
+    "rank": 1
+  },
+  {
+    "root": "qwl",
+    "degree": 53,
+    "weighted_degree": 5304,
+    "pagerank": 0.071807,
+    "rank": 2
+  },
+  {
+    "root": "kwn",
+    "degree": 48,
+    "weighted_degree": 4423,
+    "pagerank": 0.06263,
+    "rank": 3
+  },
+  {
+    "root": "rbb",
+    "degree": 31,
+    "weighted_degree": 2539,
+    "pagerank": 0.038307,
+    "rank": 4
+  },
+  {
+    "root": "Amn",
+    "degree": 27,
+    "weighted_degree": 2488,
+    "pagerank": 0.034072,
+    "rank": 5
+  },
+  {
+    "root": "Elm",
+    "degree": 17,
+    "weighted_degree": 1876,
+    "pagerank": 0.020899,
+    "rank": 6
+  },
+  {
+    "root": "qwm",
+    "degree": 16,
+    "weighted_degree": 1509,
+    "pagerank": 0.019422,
+    "rank": 7
+  },
+  {
+    "root": "$yA",
+    "degree": 14,
+    "weighted_degree": 1262,
+    "pagerank": 0.017805,
+    "rank": 8
+  },
+  {
+    "root": "byn",
+    "degree": 15,
+    "weighted_degree": 1229,
+    "pagerank": 0.018083,
+    "rank": 9
+  },
+  {
+    "root": "Aty",
+    "degree": 14,
+    "weighted_degree": 1211,
+    "pagerank": 0.017015,
+    "rank": 10
+  },
+  {
+    "root": "ArD",
+    "degree": 11,
+    "weighted_degree": 1076,
+    "pagerank": 0.014106,
+    "rank": 11
+  },
+  {
+    "root": "rsl",
+    "degree": 12,
+    "weighted_degree": 1009,
+    "pagerank": 0.014845,
+    "rank": 12
+  },
+  {
+    "root": "kfr",
+    "degree": 11,
+    "weighted_degree": 1007,
+    "pagerank": 0.013738,
+    "rank": 13
+  },
+  {
+    "root": "smw",
+    "degree": 10,
+    "weighted_degree": 898,
+    "pagerank": 0.013148,
+    "rank": 14
+  },
+  {
+    "root": "kll",
+    "degree": 9,
+    "weighted_degree": 705,
+    "pagerank": 0.011618,
+    "rank": 15
+  },
+  {
+    "root": "Ayy",
+    "degree": 8,
+    "weighted_degree": 599,
+    "pagerank": 0.010442,
+    "rank": 16
+  },
+  {
+    "root": "ktb",
+    "degree": 8,
+    "weighted_degree": 573,
+    "pagerank": 0.010502,
+    "rank": 17
+  },
+  {
+    "root": "Eml",
+    "degree": 6,
+    "weighted_degree": 568,
+    "pagerank": 0.008814,
+    "rank": 18
+  },
+  {
+    "root": "nzl",
+    "degree": 8,
+    "weighted_degree": 521,
+    "pagerank": 0.010602,
+    "rank": 19
+  },
+  {
+    "root": "ywm",
+    "degree": 6,
+    "weighted_degree": 521,
+    "pagerank": 0.008469,
+    "rank": 20
+  },
+  {
+    "root": "E*b",
+    "degree": 7,
+    "weighted_degree": 516,
+    "pagerank": 0.009585,
+    "rank": 21
+  },
+  {
+    "root": "jyA",
+    "degree": 7,
+    "weighted_degree": 515,
+    "pagerank": 0.0094,
+    "rank": 22
+  },
+  {
+    "root": "rHm",
+    "degree": 6,
+    "weighted_degree": 508,
+    "pagerank": 0.008533,
+    "rank": 23
+  },
+  {
+    "root": "hdy",
+    "degree": 7,
+    "weighted_degree": 501,
+    "pagerank": 0.009711,
+    "rank": 24
+  },
+  {
+    "root": "qbl",
+    "degree": 6,
+    "weighted_degree": 464,
+    "pagerank": 0.008358,
+    "rank": 25
+  },
+  {
+    "root": "Zlm",
+    "degree": 6,
+    "weighted_degree": 458,
+    "pagerank": 0.008648,
+    "rank": 26
+  },
+  {
+    "root": "gfr",
+    "degree": 6,
+    "weighted_degree": 423,
+    "pagerank": 0.008533,
+    "rank": 27
+  },
+  {
+    "root": "Hqq",
+    "degree": 5,
+    "weighted_degree": 393,
+    "pagerank": 0.007325,
+    "rank": 28
+  },
+  {
+    "root": "nfs",
+    "degree": 4,
+    "weighted_degree": 348,
+    "pagerank": 0.006425,
+    "rank": 29
+  },
+  {
+    "root": "Ebd",
+    "degree": 4,
+    "weighted_degree": 328,
+    "pagerank": 0.006252,
+    "rank": 30
+  },
+  {
+    "root": "Axr",
+    "degree": 4,
+    "weighted_degree": 297,
+    "pagerank": 0.006916,
+    "rank": 31
+  },
+  {
+    "root": "Hkm",
+    "degree": 4,
+    "weighted_degree": 295,
+    "pagerank": 0.006971,
+    "rank": 32
+  },
+  {
+    "root": "rAy",
+    "degree": 3,
+    "weighted_degree": 291,
+    "pagerank": 0.005201,
+    "rank": 33
+  },
+  {
+    "root": "Amr",
+    "degree": 4,
+    "weighted_degree": 287,
+    "pagerank": 0.006252,
+    "rank": 34
+  },
+  {
+    "root": "nws",
+    "degree": 4,
+    "weighted_degree": 286,
+    "pagerank": 0.006246,
+    "rank": 35
+  },
+  {
+    "root": "mlk",
+    "degree": 4,
+    "weighted_degree": 276,
+    "pagerank": 0.006282,
+    "rank": 36
+  },
+  {
+    "root": "dEw",
+    "degree": 4,
+    "weighted_degree": 254,
+    "pagerank": 0.006252,
+    "rank": 37
+  },
+  {
+    "root": "End",
+    "degree": 3,
+    "weighted_degree": 245,
+    "pagerank": 0.005142,
+    "rank": 38
+  },
+  {
+    "root": "SlH",
+    "degree": 3,
+    "weighted_degree": 241,
+    "pagerank": 0.00526,
+    "rank": 39
+  },
+  {
+    "root": "Dll",
+    "degree": 4,
+    "weighted_degree": 240,
+    "pagerank": 0.00638,
+    "rank": 40
+  },
+  {
+    "root": "jEl",
+    "degree": 3,
+    "weighted_degree": 239,
+    "pagerank": 0.005142,
+    "rank": 41
+  },
+  {
+    "root": "*kr",
+    "degree": 4,
+    "weighted_degree": 237,
+    "pagerank": 0.006252,
+    "rank": 42
+  },
+  {
+    "root": "Ax*",
+    "degree": 3,
+    "weighted_degree": 237,
+    "pagerank": 0.005201,
+    "rank": 43
+  },
+  {
+    "root": "k*b",
+    "degree": 4,
+    "weighted_degree": 236,
+    "pagerank": 0.006252,
+    "rank": 44
+  },
+  {
+    "root": "xlq",
+    "degree": 3,
+    "weighted_degree": 212,
+    "pagerank": 0.005146,
+    "rank": 45
+  },
+  {
+    "root": "Hyy",
+    "degree": 3,
+    "weighted_degree": 204,
+    "pagerank": 0.0068,
+    "rank": 46
+  },
+  {
+    "root": "Sdq",
+    "degree": 3,
+    "weighted_degree": 198,
+    "pagerank": 0.005201,
+    "rank": 47
+  },
+  {
+    "root": "xyr",
+    "degree": 3,
+    "weighted_degree": 196,
+    "pagerank": 0.005201,
+    "rank": 48
+  },
+  {
+    "root": "wqy",
+    "degree": 2,
+    "weighted_degree": 190,
+    "pagerank": 0.004012,
+    "rank": 49
+  },
+  {
+    "root": "$rk",
+    "degree": 3,
+    "weighted_degree": 189,
+    "pagerank": 0.005201,
+    "rank": 50
+  },
+  {
+    "root": "dnw",
+    "degree": 3,
+    "weighted_degree": 186,
+    "pagerank": 0.006334,
+    "rank": 51
+  },
+  {
+    "root": "nbA",
+    "degree": 3,
+    "weighted_degree": 183,
+    "pagerank": 0.005201,
+    "rank": 52
+  },
+  {
+    "root": "bEd",
+    "degree": 2,
+    "weighted_degree": 162,
+    "pagerank": 0.004048,
+    "rank": 53
+  },
+  {
+    "root": "kbr",
+    "degree": 3,
+    "weighted_degree": 157,
+    "pagerank": 0.005201,
+    "rank": 54
+  },
+  {
+    "root": "qlb",
+    "degree": 2,
+    "weighted_degree": 143,
+    "pagerank": 0.004012,
+    "rank": 55
+  },
+  {
+    "root": "mwt",
+    "degree": 2,
+    "weighted_degree": 129,
+    "pagerank": 0.004865,
+    "rank": 56
+  },
+  {
+    "root": "qdr",
+    "degree": 2,
+    "weighted_degree": 128,
+    "pagerank": 0.00402,
+    "rank": 57
+  },
+  {
+    "root": "bny",
+    "degree": 2,
+    "weighted_degree": 124,
+    "pagerank": 0.004091,
+    "rank": 58
+  },
+  {
+    "root": "tbE",
+    "degree": 2,
+    "weighted_degree": 124,
+    "pagerank": 0.004091,
+    "rank": 59
+  },
+  {
+    "root": "wly",
+    "degree": 1,
+    "weighted_degree": 124,
+    "pagerank": 0.002939,
+    "rank": 60
+  },
+  {
+    "root": "$hd",
+    "degree": 2,
+    "weighted_degree": 120,
+    "pagerank": 0.004048,
+    "rank": 61
+  },
+  {
+    "root": "xrj",
+    "degree": 2,
+    "weighted_degree": 119,
+    "pagerank": 0.004091,
+    "rank": 62
+  },
+  {
+    "root": "smE",
+    "degree": 2,
+    "weighted_degree": 119,
+    "pagerank": 0.004091,
+    "rank": 63
+  },
+  {
+    "root": "Ezz",
+    "degree": 2,
+    "weighted_degree": 118,
+    "pagerank": 0.00442,
+    "rank": 64
+  },
+  {
+    "root": "swA",
+    "degree": 2,
+    "weighted_degree": 116,
+    "pagerank": 0.004048,
+    "rank": 65
+  },
+  {
+    "root": "sbl",
+    "degree": 1,
+    "weighted_degree": 112,
+    "pagerank": 0.002939,
+    "rank": 66
+  },
+  {
+    "root": "dwn",
+    "degree": 1,
+    "weighted_degree": 109,
+    "pagerank": 0.002939,
+    "rank": 67
+  },
+  {
+    "root": "Awl",
+    "degree": 2,
+    "weighted_degree": 99,
+    "pagerank": 0.004091,
+    "rank": 68
+  },
+  {
+    "root": "jnn",
+    "degree": 2,
+    "weighted_degree": 99,
+    "pagerank": 0.004091,
+    "rank": 69
+  },
+  {
+    "root": "b$r",
+    "degree": 2,
+    "weighted_degree": 94,
+    "pagerank": 0.004091,
+    "rank": 70
+  },
+  {
+    "root": "gyr",
+    "degree": 1,
+    "weighted_degree": 86,
+    "pagerank": 0.002939,
+    "rank": 71
+  },
+  {
+    "root": "Hsn",
+    "degree": 1,
+    "weighted_degree": 86,
+    "pagerank": 0.002939,
+    "rank": 72
+  },
+  {
+    "root": "kvr",
+    "degree": 1,
+    "weighted_degree": 83,
+    "pagerank": 0.002939,
+    "rank": 73
+  },
+  {
+    "root": "nSr",
+    "degree": 1,
+    "weighted_degree": 80,
+    "pagerank": 0.002939,
+    "rank": 74
+  },
+  {
+    "root": "qtl",
+    "degree": 1,
+    "weighted_degree": 79,
+    "pagerank": 0.002939,
+    "rank": 75
+  },
+  {
+    "root": "nwr",
+    "degree": 1,
+    "weighted_degree": 75,
+    "pagerank": 0.002939,
+    "rank": 76
+  },
+  {
+    "root": "TwE",
+    "degree": 1,
+    "weighted_degree": 72,
+    "pagerank": 0.002939,
+    "rank": 77
+  },
+  {
+    "root": "mvl",
+    "degree": 1,
+    "weighted_degree": 71,
+    "pagerank": 0.002939,
+    "rank": 78
+  },
+  {
+    "root": "EZm",
+    "degree": 1,
+    "weighted_degree": 69,
+    "pagerank": 0.002939,
+    "rank": 79
+  },
+  {
+    "root": "rwd",
+    "degree": 1,
+    "weighted_degree": 65,
+    "pagerank": 0.002939,
+    "rank": 80
+  },
+  {
+    "root": "bSr",
+    "degree": 1,
+    "weighted_degree": 60,
+    "pagerank": 0.002939,
+    "rank": 81
+  },
+  {
+    "root": "Abw",
+    "degree": 1,
+    "weighted_degree": 60,
+    "pagerank": 0.002652,
+    "rank": 82
+  },
+  {
+    "root": "rzq",
+    "degree": 1,
+    "weighted_degree": 59,
+    "pagerank": 0.002939,
+    "rank": 83
+  },
+  {
+    "root": "nEm",
+    "degree": 1,
+    "weighted_degree": 58,
+    "pagerank": 0.002939,
+    "rank": 84
+  },
+  {
+    "root": "xlf",
+    "degree": 1,
+    "weighted_degree": 58,
+    "pagerank": 0.002939,
+    "rank": 85
+  },
+  {
+    "root": "slm",
+    "degree": 1,
+    "weighted_degree": 57,
+    "pagerank": 0.002939,
+    "rank": 86
+  },
+  {
+    "root": "jmE",
+    "degree": 1,
+    "weighted_degree": 53,
+    "pagerank": 0.002939,
+    "rank": 87
+  },
+  {
+    "root": "ydy",
+    "degree": 1,
+    "weighted_degree": 53,
+    "pagerank": 0.002939,
+    "rank": 88
+  },
+  {
+    "root": "bED",
+    "degree": 1,
+    "weighted_degree": 50,
+    "pagerank": 0.002939,
+    "rank": 89
+  },
+  {
+    "root": "wEd",
+    "degree": 1,
+    "weighted_degree": 50,
+    "pagerank": 0.002939,
+    "rank": 90
+  },
+  {
+    "root": "dxl",
+    "degree": 1,
+    "weighted_degree": 48,
+    "pagerank": 0.002939,
+    "rank": 91
+  },
+  {
+    "root": "n*r",
+    "degree": 0,
+    "weighted_degree": 0,
+    "pagerank": 0.0015,
+    "rank": 92
+  },
+  {
+    "root": "sAl",
+    "degree": 0,
+    "weighted_degree": 0,
+    "pagerank": 0.0015,
+    "rank": 93
+  },
+  {
+    "root": "xwf",
+    "degree": 0,
+    "weighted_degree": 0,
+    "pagerank": 0.0015,
+    "rank": 94
+  },
+  {
+    "root": "Ahl",
+    "degree": 0,
+    "weighted_degree": 0,
+    "pagerank": 0.0015,
+    "rank": 95
+  },
+  {
+    "root": "lqy",
+    "degree": 0,
+    "weighted_degree": 0,
+    "pagerank": 0.0015,
+    "rank": 96
+  },
+  {
+    "root": "nhr",
+    "degree": 0,
+    "weighted_degree": 0,
+    "pagerank": 0.0015,
+    "rank": 97
+  },
+  {
+    "root": "nZr",
+    "degree": 0,
+    "weighted_degree": 0,
+    "pagerank": 0.0015,
+    "rank": 98
+  },
+  {
+    "root": "Amm",
+    "degree": 0,
+    "weighted_degree": 0,
+    "pagerank": 0.0015,
+    "rank": 99
+  },
+  {
+    "root": "jzy",
+    "degree": 0,
+    "weighted_degree": 0,
+    "pagerank": 0.0015,
+    "rank": 100
+  }
+]

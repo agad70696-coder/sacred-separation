@@ -1,0 +1,800 @@
+[
+  {
+    "surah": 108,
+    "kl_global": 8.6096,
+    "words": 7,
+    "entropy": 2.8074,
+    "group": "meccan"
+  },
+  {
+    "surah": 113,
+    "kl_global": 8.0971,
+    "words": 15,
+    "entropy": 3.2402,
+    "group": "meccan"
+  },
+  {
+    "surah": 111,
+    "kl_global": 7.8196,
+    "words": 17,
+    "entropy": 3.8522,
+    "group": "meccan"
+  },
+  {
+    "surah": 106,
+    "kl_global": 7.2079,
+    "words": 12,
+    "entropy": 3.4183,
+    "group": "meccan"
+  },
+  {
+    "surah": 107,
+    "kl_global": 7.1409,
+    "words": 14,
+    "entropy": 3.5216,
+    "group": "meccan"
+  },
+  {
+    "surah": 94,
+    "kl_global": 6.983,
+    "words": 16,
+    "entropy": 3.75,
+    "group": "meccan"
+  },
+  {
+    "surah": 101,
+    "kl_global": 6.6094,
+    "words": 24,
+    "entropy": 4.1368,
+    "group": "meccan"
+  },
+  {
+    "surah": 104,
+    "kl_global": 6.4144,
+    "words": 21,
+    "entropy": 4.2018,
+    "group": "meccan"
+  },
+  {
+    "surah": 100,
+    "kl_global": 6.2839,
+    "words": 24,
+    "entropy": 4.5016,
+    "group": "meccan"
+  },
+  {
+    "surah": 109,
+    "kl_global": 6.0297,
+    "words": 12,
+    "entropy": 1.4183,
+    "group": "meccan"
+  },
+  {
+    "surah": 103,
+    "kl_global": 5.9309,
+    "words": 10,
+    "entropy": 3.1219,
+    "group": "meccan"
+  },
+  {
+    "surah": 105,
+    "kl_global": 5.873,
+    "words": 18,
+    "entropy": 4.0588,
+    "group": "meccan"
+  },
+  {
+    "surah": 112,
+    "kl_global": 5.8559,
+    "words": 10,
+    "entropy": 2.7219,
+    "group": "meccan"
+  },
+  {
+    "surah": 114,
+    "kl_global": 5.7546,
+    "words": 16,
+    "entropy": 3.1494,
+    "group": "meccan"
+  },
+  {
+    "surah": 102,
+    "kl_global": 5.6641,
+    "words": 16,
+    "entropy": 3.25,
+    "group": "meccan"
+  },
+  {
+    "surah": 93,
+    "kl_global": 5.4234,
+    "words": 28,
+    "entropy": 4.3963,
+    "group": "meccan"
+  },
+  {
+    "surah": 97,
+    "kl_global": 5.0492,
+    "words": 21,
+    "entropy": 3.8442,
+    "group": "meccan"
+  },
+  {
+    "surah": 99,
+    "kl_global": 4.9891,
+    "words": 27,
+    "entropy": 4.0043,
+    "group": "medinan"
+  },
+  {
+    "surah": 86,
+    "kl_global": 4.9025,
+    "words": 41,
+    "entropy": 4.9185,
+    "group": "meccan"
+  },
+  {
+    "surah": 91,
+    "kl_global": 4.7331,
+    "words": 39,
+    "entropy": 5.1316,
+    "group": "meccan"
+  },
+  {
+    "surah": 95,
+    "kl_global": 4.6044,
+    "words": 25,
+    "entropy": 4.4039,
+    "group": "meccan"
+  },
+  {
+    "surah": 90,
+    "kl_global": 4.5301,
+    "words": 52,
+    "entropy": 5.4312,
+    "group": "meccan"
+  },
+  {
+    "surah": 88,
+    "kl_global": 4.2386,
+    "words": 60,
+    "entropy": 5.5402,
+    "group": "meccan"
+  },
+  {
+    "surah": 92,
+    "kl_global": 4.1553,
+    "words": 48,
+    "entropy": 5.2776,
+    "group": "meccan"
+  },
+  {
+    "surah": 81,
+    "kl_global": 4.0892,
+    "words": 66,
+    "entropy": 5.7677,
+    "group": "meccan"
+  },
+  {
+    "surah": 82,
+    "kl_global": 4.0795,
+    "words": 50,
+    "entropy": 5.0288,
+    "group": "meccan"
+  },
+  {
+    "surah": 110,
+    "kl_global": 4.0434,
+    "words": 16,
+    "entropy": 3.875,
+    "group": "medinan"
+  },
+  {
+    "surah": 80,
+    "kl_global": 4.0274,
+    "words": 88,
+    "entropy": 6.0105,
+    "group": "meccan"
+  },
+  {
+    "surah": 96,
+    "kl_global": 3.8358,
+    "words": 49,
+    "entropy": 4.7755,
+    "group": "meccan"
+  },
+  {
+    "surah": 87,
+    "kl_global": 3.8207,
+    "words": 49,
+    "entropy": 5.2474,
+    "group": "meccan"
+  },
+  {
+    "surah": 55,
+    "kl_global": 3.768,
+    "words": 256,
+    "entropy": 5.4947,
+    "group": "medinan"
+  },
+  {
+    "surah": 1,
+    "kl_global": 3.7555,
+    "words": 23,
+    "entropy": 4.0018,
+    "group": "meccan"
+  },
+  {
+    "surah": 89,
+    "kl_global": 3.7515,
+    "words": 92,
+    "entropy": 5.7733,
+    "group": "meccan"
+  },
+  {
+    "surah": 77,
+    "kl_global": 3.5398,
+    "words": 115,
+    "entropy": 5.9982,
+    "group": "meccan"
+  },
+  {
+    "surah": 84,
+    "kl_global": 3.4886,
+    "words": 69,
+    "entropy": 5.5868,
+    "group": "meccan"
+  },
+  {
+    "surah": 75,
+    "kl_global": 3.4878,
+    "words": 106,
+    "entropy": 5.9908,
+    "group": "meccan"
+  },
+  {
+    "surah": 83,
+    "kl_global": 3.4127,
+    "words": 101,
+    "entropy": 5.9106,
+    "group": "meccan"
+  },
+  {
+    "surah": 79,
+    "kl_global": 3.2706,
+    "words": 122,
+    "entropy": 6.3908,
+    "group": "meccan"
+  },
+  {
+    "surah": 85,
+    "kl_global": 3.2302,
+    "words": 66,
+    "entropy": 5.554,
+    "group": "meccan"
+  },
+  {
+    "surah": 98,
+    "kl_global": 2.9198,
+    "words": 60,
+    "entropy": 5.2358,
+    "group": "medinan"
+  },
+  {
+    "surah": 56,
+    "kl_global": 2.8972,
+    "words": 255,
+    "entropy": 6.7558,
+    "group": "meccan"
+  },
+  {
+    "surah": 78,
+    "kl_global": 2.8514,
+    "words": 131,
+    "entropy": 6.4514,
+    "group": "meccan"
+  },
+  {
+    "surah": 70,
+    "kl_global": 2.8268,
+    "words": 142,
+    "entropy": 6.5369,
+    "group": "meccan"
+  },
+  {
+    "surah": 69,
+    "kl_global": 2.7764,
+    "words": 168,
+    "entropy": 6.6219,
+    "group": "meccan"
+  },
+  {
+    "surah": 76,
+    "kl_global": 2.676,
+    "words": 175,
+    "entropy": 6.5412,
+    "group": "medinan"
+  },
+  {
+    "surah": 73,
+    "kl_global": 2.5466,
+    "words": 142,
+    "entropy": 6.2439,
+    "group": "meccan"
+  },
+  {
+    "surah": 68,
+    "kl_global": 2.5313,
+    "words": 191,
+    "entropy": 6.6258,
+    "group": "meccan"
+  },
+  {
+    "surah": 72,
+    "kl_global": 2.4917,
+    "words": 178,
+    "entropy": 6.2644,
+    "group": "meccan"
+  },
+  {
+    "surah": 53,
+    "kl_global": 2.3875,
+    "words": 213,
+    "entropy": 6.5846,
+    "group": "meccan"
+  },
+  {
+    "surah": 74,
+    "kl_global": 2.3543,
+    "words": 162,
+    "entropy": 6.549,
+    "group": "meccan"
+  },
+  {
+    "surah": 54,
+    "kl_global": 2.3441,
+    "words": 252,
+    "entropy": 6.7097,
+    "group": "meccan"
+  },
+  {
+    "surah": 71,
+    "kl_global": 2.2439,
+    "words": 153,
+    "entropy": 6.1282,
+    "group": "meccan"
+  },
+  {
+    "surah": 52,
+    "kl_global": 2.2384,
+    "words": 202,
+    "entropy": 6.8081,
+    "group": "meccan"
+  },
+  {
+    "surah": 63,
+    "kl_global": 2.2002,
+    "words": 117,
+    "entropy": 5.718,
+    "group": "medinan"
+  },
+  {
+    "surah": 62,
+    "kl_global": 2.1461,
+    "words": 117,
+    "entropy": 5.9105,
+    "group": "medinan"
+  },
+  {
+    "surah": 66,
+    "kl_global": 2.0802,
+    "words": 171,
+    "entropy": 6.2008,
+    "group": "medinan"
+  },
+  {
+    "surah": 67,
+    "kl_global": 2.0599,
+    "words": 208,
+    "entropy": 6.6462,
+    "group": "meccan"
+  },
+  {
+    "surah": 50,
+    "kl_global": 2.0258,
+    "words": 245,
+    "entropy": 6.861,
+    "group": "meccan"
+  },
+  {
+    "surah": 65,
+    "kl_global": 2.0257,
+    "words": 202,
+    "entropy": 6.085,
+    "group": "medinan"
+  },
+  {
+    "surah": 61,
+    "kl_global": 1.9702,
+    "words": 145,
+    "entropy": 5.8322,
+    "group": "medinan"
+  },
+  {
+    "surah": 44,
+    "kl_global": 1.8954,
+    "words": 222,
+    "entropy": 6.5794,
+    "group": "meccan"
+  },
+  {
+    "surah": 60,
+    "kl_global": 1.8569,
+    "words": 215,
+    "entropy": 6.1904,
+    "group": "medinan"
+  },
+  {
+    "surah": 49,
+    "kl_global": 1.8454,
+    "words": 234,
+    "entropy": 6.1802,
+    "group": "medinan"
+  },
+  {
+    "surah": 51,
+    "kl_global": 1.8407,
+    "words": 229,
+    "entropy": 6.7975,
+    "group": "meccan"
+  },
+  {
+    "surah": 58,
+    "kl_global": 1.7011,
+    "words": 297,
+    "entropy": 6.4435,
+    "group": "medinan"
+  },
+  {
+    "surah": 47,
+    "kl_global": 1.6873,
+    "words": 350,
+    "entropy": 6.7959,
+    "group": "medinan"
+  },
+  {
+    "surah": 64,
+    "kl_global": 1.6724,
+    "words": 171,
+    "entropy": 6.0969,
+    "group": "medinan"
+  },
+  {
+    "surah": 38,
+    "kl_global": 1.5711,
+    "words": 468,
+    "entropy": 7.4234,
+    "group": "meccan"
+  },
+  {
+    "surah": 59,
+    "kl_global": 1.5703,
+    "words": 286,
+    "entropy": 6.7583,
+    "group": "medinan"
+  },
+  {
+    "surah": 32,
+    "kl_global": 1.57,
+    "words": 237,
+    "entropy": 6.6818,
+    "group": "meccan"
+  },
+  {
+    "surah": 15,
+    "kl_global": 1.5396,
+    "words": 410,
+    "entropy": 7.1173,
+    "group": "meccan"
+  },
+  {
+    "surah": 31,
+    "kl_global": 1.495,
+    "words": 352,
+    "entropy": 6.9823,
+    "group": "meccan"
+  },
+  {
+    "surah": 37,
+    "kl_global": 1.4194,
+    "words": 541,
+    "entropy": 7.2835,
+    "group": "meccan"
+  },
+  {
+    "surah": 48,
+    "kl_global": 1.3859,
+    "words": 404,
+    "entropy": 6.7961,
+    "group": "medinan"
+  },
+  {
+    "surah": 57,
+    "kl_global": 1.3239,
+    "words": 390,
+    "entropy": 6.8518,
+    "group": "medinan"
+  },
+  {
+    "surah": 36,
+    "kl_global": 1.3009,
+    "words": 438,
+    "entropy": 7.2156,
+    "group": "meccan"
+  },
+  {
+    "surah": 45,
+    "kl_global": 1.2889,
+    "words": 320,
+    "entropy": 6.5394,
+    "group": "meccan"
+  },
+  {
+    "surah": 19,
+    "kl_global": 1.2848,
+    "words": 657,
+    "entropy": 7.1501,
+    "group": "meccan"
+  },
+  {
+    "surah": 35,
+    "kl_global": 1.2202,
+    "words": 507,
+    "entropy": 7.2767,
+    "group": "meccan"
+  },
+  {
+    "surah": 20,
+    "kl_global": 1.21,
+    "words": 836,
+    "entropy": 7.6171,
+    "group": "meccan"
+  },
+  {
+    "surah": 30,
+    "kl_global": 1.2094,
+    "words": 528,
+    "entropy": 6.995,
+    "group": "meccan"
+  },
+  {
+    "surah": 12,
+    "kl_global": 1.2043,
+    "words": 1126,
+    "entropy": 7.4593,
+    "group": "meccan"
+  },
+  {
+    "surah": 34,
+    "kl_global": 1.1871,
+    "words": 544,
+    "entropy": 7.1039,
+    "group": "meccan"
+  },
+  {
+    "surah": 43,
+    "kl_global": 1.1473,
+    "words": 512,
+    "entropy": 7.2433,
+    "group": "meccan"
+  },
+  {
+    "surah": 41,
+    "kl_global": 1.145,
+    "words": 497,
+    "entropy": 7.167,
+    "group": "meccan"
+  },
+  {
+    "surah": 46,
+    "kl_global": 1.1342,
+    "words": 405,
+    "entropy": 6.8942,
+    "group": "meccan"
+  },
+  {
+    "surah": 24,
+    "kl_global": 1.132,
+    "words": 859,
+    "entropy": 7.3764,
+    "group": "medinan"
+  },
+  {
+    "surah": 25,
+    "kl_global": 1.1209,
+    "words": 608,
+    "entropy": 7.362,
+    "group": "meccan"
+  },
+  {
+    "surah": 42,
+    "kl_global": 1.114,
+    "words": 517,
+    "entropy": 7.1315,
+    "group": "meccan"
+  },
+  {
+    "surah": 14,
+    "kl_global": 1.0971,
+    "words": 556,
+    "entropy": 7.1696,
+    "group": "meccan"
+  },
+  {
+    "surah": 8,
+    "kl_global": 1.0875,
+    "words": 803,
+    "entropy": 7.1303,
+    "group": "medinan"
+  },
+  {
+    "surah": 21,
+    "kl_global": 1.0799,
+    "words": 716,
+    "entropy": 7.3822,
+    "group": "meccan"
+  },
+  {
+    "surah": 26,
+    "kl_global": 1.0738,
+    "words": 821,
+    "entropy": 7.0461,
+    "group": "meccan"
+  },
+  {
+    "surah": 13,
+    "kl_global": 1.072,
+    "words": 563,
+    "entropy": 7.3369,
+    "group": "medinan"
+  },
+  {
+    "surah": 33,
+    "kl_global": 1.0655,
+    "words": 881,
+    "entropy": 7.1837,
+    "group": "medinan"
+  },
+  {
+    "surah": 18,
+    "kl_global": 1.044,
+    "words": 1057,
+    "entropy": 7.7485,
+    "group": "meccan"
+  },
+  {
+    "surah": 23,
+    "kl_global": 1.027,
+    "words": 637,
+    "entropy": 7.4168,
+    "group": "meccan"
+  },
+  {
+    "surah": 27,
+    "kl_global": 0.978,
+    "words": 737,
+    "entropy": 7.2655,
+    "group": "meccan"
+  },
+  {
+    "surah": 22,
+    "kl_global": 0.9628,
+    "words": 826,
+    "entropy": 7.5855,
+    "group": "medinan"
+  },
+  {
+    "surah": 17,
+    "kl_global": 0.9491,
+    "words": 1043,
+    "entropy": 7.6626,
+    "group": "meccan"
+  },
+  {
+    "surah": 28,
+    "kl_global": 0.8938,
+    "words": 882,
+    "entropy": 7.419,
+    "group": "meccan"
+  },
+  {
+    "surah": 29,
+    "kl_global": 0.8853,
+    "words": 627,
+    "entropy": 6.9875,
+    "group": "meccan"
+  },
+  {
+    "surah": 39,
+    "kl_global": 0.872,
+    "words": 771,
+    "entropy": 7.1645,
+    "group": "meccan"
+  },
+  {
+    "surah": 9,
+    "kl_global": 0.8697,
+    "words": 1646,
+    "entropy": 7.4053,
+    "group": "medinan"
+  },
+  {
+    "surah": 40,
+    "kl_global": 0.8178,
+    "words": 788,
+    "entropy": 7.1908,
+    "group": "meccan"
+  },
+  {
+    "surah": 11,
+    "kl_global": 0.7765,
+    "words": 1162,
+    "entropy": 7.5216,
+    "group": "meccan"
+  },
+  {
+    "surah": 16,
+    "kl_global": 0.7076,
+    "words": 1184,
+    "entropy": 7.5621,
+    "group": "meccan"
+  },
+  {
+    "surah": 10,
+    "kl_global": 0.6494,
+    "words": 1129,
+    "entropy": 7.248,
+    "group": "meccan"
+  },
+  {
+    "surah": 4,
+    "kl_global": 0.6331,
+    "words": 2462,
+    "entropy": 7.5879,
+    "group": "medinan"
+  },
+  {
+    "surah": 5,
+    "kl_global": 0.6276,
+    "words": 1798,
+    "entropy": 7.6011,
+    "group": "medinan"
+  },
+  {
+    "surah": 6,
+    "kl_global": 0.5645,
+    "words": 1946,
+    "entropy": 7.6189,
+    "group": "meccan"
+  },
+  {
+    "surah": 7,
+    "kl_global": 0.4971,
+    "words": 2144,
+    "entropy": 7.7843,
+    "group": "meccan"
+  },
+  {
+    "surah": 3,
+    "kl_global": 0.4877,
+    "words": 2274,
+    "entropy": 7.5112,
+    "group": "medinan"
+  },
+  {
+    "surah": 2,
+    "kl_global": 0.3948,
+    "words": 3884,
+    "entropy": 7.8763,
+    "group": "medinan"
+  }
+]

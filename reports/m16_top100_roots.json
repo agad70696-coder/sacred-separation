@@ -1,0 +1,702 @@
+[
+  {
+    "rank": 1,
+    "root": "Alh",
+    "freq": 2851,
+    "percent": 5.7058,
+    "cumulative_percent": 5.7058
+  },
+  {
+    "rank": 2,
+    "root": "qwl",
+    "freq": 1722,
+    "percent": 3.4463,
+    "cumulative_percent": 9.152
+  },
+  {
+    "rank": 3,
+    "root": "kwn",
+    "freq": 1390,
+    "percent": 2.7818,
+    "cumulative_percent": 11.9339
+  },
+  {
+    "rank": 4,
+    "root": "rbb",
+    "freq": 980,
+    "percent": 1.9613,
+    "cumulative_percent": 13.8952
+  },
+  {
+    "rank": 5,
+    "root": "Amn",
+    "freq": 879,
+    "percent": 1.7592,
+    "cumulative_percent": 15.6543
+  },
+  {
+    "rank": 6,
+    "root": "Elm",
+    "freq": 854,
+    "percent": 1.7091,
+    "cumulative_percent": 17.3635
+  },
+  {
+    "rank": 7,
+    "root": "qwm",
+    "freq": 660,
+    "percent": 1.3209,
+    "cumulative_percent": 18.6843
+  },
+  {
+    "rank": 8,
+    "root": "Aty",
+    "freq": 549,
+    "percent": 1.0987,
+    "cumulative_percent": 19.7831
+  },
+  {
+    "rank": 9,
+    "root": "kfr",
+    "freq": 525,
+    "percent": 1.0507,
+    "cumulative_percent": 20.8338
+  },
+  {
+    "rank": 10,
+    "root": "byn",
+    "freq": 523,
+    "percent": 1.0467,
+    "cumulative_percent": 21.8804
+  },
+  {
+    "rank": 11,
+    "root": "$yA",
+    "freq": 519,
+    "percent": 1.0387,
+    "cumulative_percent": 22.9191
+  },
+  {
+    "rank": 12,
+    "root": "rsl",
+    "freq": 513,
+    "percent": 1.0267,
+    "cumulative_percent": 23.9458
+  },
+  {
+    "rank": 13,
+    "root": "ArD",
+    "freq": 461,
+    "percent": 0.9226,
+    "cumulative_percent": 24.8684
+  },
+  {
+    "rank": 14,
+    "root": "ywm",
+    "freq": 405,
+    "percent": 0.8105,
+    "cumulative_percent": 25.6789
+  },
+  {
+    "rank": 15,
+    "root": "Ayy",
+    "freq": 382,
+    "percent": 0.7645,
+    "cumulative_percent": 26.4435
+  },
+  {
+    "rank": 16,
+    "root": "smw",
+    "freq": 381,
+    "percent": 0.7625,
+    "cumulative_percent": 27.206
+  },
+  {
+    "rank": 17,
+    "root": "kll",
+    "freq": 377,
+    "percent": 0.7545,
+    "cumulative_percent": 27.9605
+  },
+  {
+    "rank": 18,
+    "root": "E*b",
+    "freq": 373,
+    "percent": 0.7465,
+    "cumulative_percent": 28.7069
+  },
+  {
+    "rank": 19,
+    "root": "Eml",
+    "freq": 360,
+    "percent": 0.7205,
+    "cumulative_percent": 29.4274
+  },
+  {
+    "rank": 20,
+    "root": "jEl",
+    "freq": 346,
+    "percent": 0.6925,
+    "cumulative_percent": 30.1199
+  },
+  {
+    "rank": 21,
+    "root": "rHm",
+    "freq": 339,
+    "percent": 0.6784,
+    "cumulative_percent": 30.7983
+  },
+  {
+    "rank": 22,
+    "root": "rAy",
+    "freq": 328,
+    "percent": 0.6564,
+    "cumulative_percent": 31.4548
+  },
+  {
+    "rank": 23,
+    "root": "ktb",
+    "freq": 319,
+    "percent": 0.6384,
+    "cumulative_percent": 32.0932
+  },
+  {
+    "rank": 24,
+    "root": "hdy",
+    "freq": 316,
+    "percent": 0.6324,
+    "cumulative_percent": 32.7256
+  },
+  {
+    "rank": 25,
+    "root": "Zlm",
+    "freq": 315,
+    "percent": 0.6304,
+    "cumulative_percent": 33.356
+  },
+  {
+    "rank": 26,
+    "root": "nfs",
+    "freq": 298,
+    "percent": 0.5964,
+    "cumulative_percent": 33.9524
+  },
+  {
+    "rank": 27,
+    "root": "qbl",
+    "freq": 294,
+    "percent": 0.5884,
+    "cumulative_percent": 34.5408
+  },
+  {
+    "rank": 28,
+    "root": "nzl",
+    "freq": 293,
+    "percent": 0.5864,
+    "cumulative_percent": 35.1272
+  },
+  {
+    "rank": 29,
+    "root": "*kr",
+    "freq": 292,
+    "percent": 0.5844,
+    "cumulative_percent": 35.7116
+  },
+  {
+    "rank": 30,
+    "root": "Hqq",
+    "freq": 287,
+    "percent": 0.5744,
+    "cumulative_percent": 36.2859
+  },
+  {
+    "rank": 31,
+    "root": "k*b",
+    "freq": 282,
+    "percent": 0.5644,
+    "cumulative_percent": 36.8503
+  },
+  {
+    "rank": 32,
+    "root": "jyA",
+    "freq": 278,
+    "percent": 0.5564,
+    "cumulative_percent": 37.4067
+  },
+  {
+    "rank": 33,
+    "root": "Ebd",
+    "freq": 275,
+    "percent": 0.5504,
+    "cumulative_percent": 37.9571
+  },
+  {
+    "rank": 34,
+    "root": "Ax*",
+    "freq": 273,
+    "percent": 0.5464,
+    "cumulative_percent": 38.5034
+  },
+  {
+    "rank": 35,
+    "root": "xlq",
+    "freq": 261,
+    "percent": 0.5223,
+    "cumulative_percent": 39.0258
+  },
+  {
+    "rank": 36,
+    "root": "wqy",
+    "freq": 258,
+    "percent": 0.5163,
+    "cumulative_percent": 39.5421
+  },
+  {
+    "rank": 37,
+    "root": "Axr",
+    "freq": 250,
+    "percent": 0.5003,
+    "cumulative_percent": 40.0424
+  },
+  {
+    "rank": 38,
+    "root": "Amr",
+    "freq": 248,
+    "percent": 0.4963,
+    "cumulative_percent": 40.5388
+  },
+  {
+    "rank": 39,
+    "root": "nws",
+    "freq": 241,
+    "percent": 0.4823,
+    "cumulative_percent": 41.0211
+  },
+  {
+    "rank": 40,
+    "root": "bEd",
+    "freq": 235,
+    "percent": 0.4703,
+    "cumulative_percent": 41.4914
+  },
+  {
+    "rank": 41,
+    "root": "gfr",
+    "freq": 234,
+    "percent": 0.4683,
+    "cumulative_percent": 41.9597
+  },
+  {
+    "rank": 42,
+    "root": "wly",
+    "freq": 232,
+    "percent": 0.4643,
+    "cumulative_percent": 42.424
+  },
+  {
+    "rank": 43,
+    "root": "dEw",
+    "freq": 212,
+    "percent": 0.4243,
+    "cumulative_percent": 42.8483
+  },
+  {
+    "rank": 44,
+    "root": "Hkm",
+    "freq": 210,
+    "percent": 0.4203,
+    "cumulative_percent": 43.2686
+  },
+  {
+    "rank": 45,
+    "root": "mlk",
+    "freq": 206,
+    "percent": 0.4123,
+    "cumulative_percent": 43.6808
+  },
+  {
+    "rank": 46,
+    "root": "jnn",
+    "freq": 201,
+    "percent": 0.4023,
+    "cumulative_percent": 44.0831
+  },
+  {
+    "rank": 47,
+    "root": "End",
+    "freq": 201,
+    "percent": 0.4023,
+    "cumulative_percent": 44.4854
+  },
+  {
+    "rank": 48,
+    "root": "xyr",
+    "freq": 196,
+    "percent": 0.3923,
+    "cumulative_percent": 44.8776
+  },
+  {
+    "rank": 49,
+    "root": "nwr",
+    "freq": 194,
+    "percent": 0.3883,
+    "cumulative_percent": 45.2659
+  },
+  {
+    "rank": 50,
+    "root": "Hsn",
+    "freq": 194,
+    "percent": 0.3883,
+    "cumulative_percent": 45.6541
+  },
+  {
+    "rank": 51,
+    "root": "Dll",
+    "freq": 191,
+    "percent": 0.3823,
+    "cumulative_percent": 46.0364
+  },
+  {
+    "rank": 52,
+    "root": "smE",
+    "freq": 185,
+    "percent": 0.3702,
+    "cumulative_percent": 46.4066
+  },
+  {
+    "rank": 53,
+    "root": "bny",
+    "freq": 184,
+    "percent": 0.3682,
+    "cumulative_percent": 46.7749
+  },
+  {
+    "rank": 54,
+    "root": "Hyy",
+    "freq": 184,
+    "percent": 0.3682,
+    "cumulative_percent": 47.1431
+  },
+  {
+    "rank": 55,
+    "root": "xrj",
+    "freq": 182,
+    "percent": 0.3642,
+    "cumulative_percent": 47.5074
+  },
+  {
+    "rank": 56,
+    "root": "SlH",
+    "freq": 180,
+    "percent": 0.3602,
+    "cumulative_percent": 47.8676
+  },
+  {
+    "rank": 57,
+    "root": "sbl",
+    "freq": 176,
+    "percent": 0.3522,
+    "cumulative_percent": 48.2198
+  },
+  {
+    "rank": 58,
+    "root": "tbE",
+    "freq": 172,
+    "percent": 0.3442,
+    "cumulative_percent": 48.5641
+  },
+  {
+    "rank": 59,
+    "root": "Awl",
+    "freq": 170,
+    "percent": 0.3402,
+    "cumulative_percent": 48.9043
+  },
+  {
+    "rank": 60,
+    "root": "qtl",
+    "freq": 170,
+    "percent": 0.3402,
+    "cumulative_percent": 49.2445
+  },
+  {
+    "rank": 61,
+    "root": "mvl",
+    "freq": 169,
+    "percent": 0.3382,
+    "cumulative_percent": 49.5827
+  },
+  {
+    "rank": 62,
+    "root": "qlb",
+    "freq": 168,
+    "percent": 0.3362,
+    "cumulative_percent": 49.9189
+  },
+  {
+    "rank": 63,
+    "root": "$rk",
+    "freq": 168,
+    "percent": 0.3362,
+    "cumulative_percent": 50.2552
+  },
+  {
+    "rank": 64,
+    "root": "kvr",
+    "freq": 167,
+    "percent": 0.3342,
+    "cumulative_percent": 50.5894
+  },
+  {
+    "rank": 65,
+    "root": "swA",
+    "freq": 167,
+    "percent": 0.3342,
+    "cumulative_percent": 50.9236
+  },
+  {
+    "rank": 66,
+    "root": "mwt",
+    "freq": 165,
+    "percent": 0.3302,
+    "cumulative_percent": 51.2538
+  },
+  {
+    "rank": 67,
+    "root": "kbr",
+    "freq": 161,
+    "percent": 0.3222,
+    "cumulative_percent": 51.576
+  },
+  {
+    "rank": 68,
+    "root": "$hd",
+    "freq": 160,
+    "percent": 0.3202,
+    "cumulative_percent": 51.8963
+  },
+  {
+    "rank": 69,
+    "root": "nbA",
+    "freq": 160,
+    "percent": 0.3202,
+    "cumulative_percent": 52.2165
+  },
+  {
+    "rank": 70,
+    "root": "bED",
+    "freq": 158,
+    "percent": 0.3162,
+    "cumulative_percent": 52.5327
+  },
+  {
+    "rank": 71,
+    "root": "nSr",
+    "freq": 158,
+    "percent": 0.3162,
+    "cumulative_percent": 52.8489
+  },
+  {
+    "rank": 72,
+    "root": "Sdq",
+    "freq": 155,
+    "percent": 0.3102,
+    "cumulative_percent": 53.1591
+  },
+  {
+    "rank": 73,
+    "root": "gyr",
+    "freq": 154,
+    "percent": 0.3082,
+    "cumulative_percent": 53.4673
+  },
+  {
+    "rank": 74,
+    "root": "wEd",
+    "freq": 151,
+    "percent": 0.3022,
+    "cumulative_percent": 53.7695
+  },
+  {
+    "rank": 75,
+    "root": "bSr",
+    "freq": 148,
+    "percent": 0.2962,
+    "cumulative_percent": 54.0657
+  },
+  {
+    "rank": 76,
+    "root": "rwd",
+    "freq": 148,
+    "percent": 0.2962,
+    "cumulative_percent": 54.3619
+  },
+  {
+    "rank": 77,
+    "root": "lqy",
+    "freq": 146,
+    "percent": 0.2922,
+    "cumulative_percent": 54.6541
+  },
+  {
+    "rank": 78,
+    "root": "dwn",
+    "freq": 144,
+    "percent": 0.2882,
+    "cumulative_percent": 54.9423
+  },
+  {
+    "rank": 79,
+    "root": "nEm",
+    "freq": 140,
+    "percent": 0.2802,
+    "cumulative_percent": 55.2224
+  },
+  {
+    "rank": 80,
+    "root": "slm",
+    "freq": 140,
+    "percent": 0.2802,
+    "cumulative_percent": 55.5026
+  },
+  {
+    "rank": 81,
+    "root": "dnw",
+    "freq": 133,
+    "percent": 0.2662,
+    "cumulative_percent": 55.7688
+  },
+  {
+    "rank": 82,
+    "root": "qdr",
+    "freq": 132,
+    "percent": 0.2642,
+    "cumulative_percent": 56.033
+  },
+  {
+    "rank": 83,
+    "root": "n*r",
+    "freq": 130,
+    "percent": 0.2602,
+    "cumulative_percent": 56.2932
+  },
+  {
+    "rank": 84,
+    "root": "jmE",
+    "freq": 129,
+    "percent": 0.2582,
+    "cumulative_percent": 56.5513
+  },
+  {
+    "rank": 85,
+    "root": "nZr",
+    "freq": 129,
+    "percent": 0.2582,
+    "cumulative_percent": 56.8095
+  },
+  {
+    "rank": 86,
+    "root": "sAl",
+    "freq": 129,
+    "percent": 0.2582,
+    "cumulative_percent": 57.0677
+  },
+  {
+    "rank": 87,
+    "root": "TwE",
+    "freq": 129,
+    "percent": 0.2582,
+    "cumulative_percent": 57.3258
+  },
+  {
+    "rank": 88,
+    "root": "EZm",
+    "freq": 128,
+    "percent": 0.2562,
+    "cumulative_percent": 57.582
+  },
+  {
+    "rank": 89,
+    "root": "xlf",
+    "freq": 127,
+    "percent": 0.2542,
+    "cumulative_percent": 57.8362
+  },
+  {
+    "rank": 90,
+    "root": "Ahl",
+    "freq": 127,
+    "percent": 0.2542,
+    "cumulative_percent": 58.0903
+  },
+  {
+    "rank": 91,
+    "root": "dxl",
+    "freq": 126,
+    "percent": 0.2522,
+    "cumulative_percent": 58.3425
+  },
+  {
+    "rank": 92,
+    "root": "xwf",
+    "freq": 124,
+    "percent": 0.2482,
+    "cumulative_percent": 58.5907
+  },
+  {
+    "rank": 93,
+    "root": "rzq",
+    "freq": 123,
+    "percent": 0.2462,
+    "cumulative_percent": 58.8368
+  },
+  {
+    "rank": 94,
+    "root": "b$r",
+    "freq": 123,
+    "percent": 0.2462,
+    "cumulative_percent": 59.083
+  },
+  {
+    "rank": 95,
+    "root": "ydy",
+    "freq": 120,
+    "percent": 0.2402,
+    "cumulative_percent": 59.3232
+  },
+  {
+    "rank": 96,
+    "root": "Ezz",
+    "freq": 119,
+    "percent": 0.2382,
+    "cumulative_percent": 59.5613
+  },
+  {
+    "rank": 97,
+    "root": "jzy",
+    "freq": 118,
+    "percent": 0.2362,
+    "cumulative_percent": 59.7975
+  },
+  {
+    "rank": 98,
+    "root": "Amm",
+    "freq": 118,
+    "percent": 0.2362,
+    "cumulative_percent": 60.0336
+  },
+  {
+    "rank": 99,
+    "root": "Abw",
+    "freq": 117,
+    "percent": 0.2342,
+    "cumulative_percent": 60.2678
+  },
+  {
+    "rank": 100,
+    "root": "nhr",
+    "freq": 113,
+    "percent": 0.2261,
+    "cumulative_percent": 60.4939
+  }
+]

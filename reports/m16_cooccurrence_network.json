@@ -1,0 +1,1802 @@
+[
+  {
+    "root1": "Alh",
+    "root2": "qwl",
+    "count": 514,
+    "strength": 1.0
+  },
+  {
+    "root1": "Alh",
+    "root2": "kwn",
+    "count": 441,
+    "strength": 0.858
+  },
+  {
+    "root1": "Alh",
+    "root2": "Elm",
+    "count": 408,
+    "strength": 0.7938
+  },
+  {
+    "root1": "Alh",
+    "root2": "Amn",
+    "count": 372,
+    "strength": 0.7237
+  },
+  {
+    "root1": "kwn",
+    "root2": "qwl",
+    "count": 369,
+    "strength": 0.7179
+  },
+  {
+    "root1": "qwl",
+    "root2": "rbb",
+    "count": 329,
+    "strength": 0.6401
+  },
+  {
+    "root1": "$yA",
+    "root2": "Alh",
+    "count": 282,
+    "strength": 0.5486
+  },
+  {
+    "root1": "Alh",
+    "root2": "qwm",
+    "count": 242,
+    "strength": 0.4708
+  },
+  {
+    "root1": "Elm",
+    "root2": "qwl",
+    "count": 230,
+    "strength": 0.4475
+  },
+  {
+    "root1": "Alh",
+    "root2": "kfr",
+    "count": 225,
+    "strength": 0.4377
+  },
+  {
+    "root1": "ArD",
+    "root2": "smw",
+    "count": 224,
+    "strength": 0.4358
+  },
+  {
+    "root1": "Alh",
+    "root2": "ArD",
+    "count": 215,
+    "strength": 0.4183
+  },
+  {
+    "root1": "Alh",
+    "root2": "rsl",
+    "count": 211,
+    "strength": 0.4105
+  },
+  {
+    "root1": "Alh",
+    "root2": "byn",
+    "count": 207,
+    "strength": 0.4027
+  },
+  {
+    "root1": "Alh",
+    "root2": "rbb",
+    "count": 204,
+    "strength": 0.3969
+  },
+  {
+    "root1": "Alh",
+    "root2": "Aty",
+    "count": 198,
+    "strength": 0.3852
+  },
+  {
+    "root1": "Amn",
+    "root2": "kwn",
+    "count": 197,
+    "strength": 0.3833
+  },
+  {
+    "root1": "qwl",
+    "root2": "qwm",
+    "count": 186,
+    "strength": 0.3619
+  },
+  {
+    "root1": "Alh",
+    "root2": "smw",
+    "count": 185,
+    "strength": 0.3599
+  },
+  {
+    "root1": "Amn",
+    "root2": "qwl",
+    "count": 185,
+    "strength": 0.3599
+  },
+  {
+    "root1": "kwn",
+    "root2": "rbb",
+    "count": 159,
+    "strength": 0.3093
+  },
+  {
+    "root1": "Elm",
+    "root2": "kwn",
+    "count": 157,
+    "strength": 0.3054
+  },
+  {
+    "root1": "Aty",
+    "root2": "qwl",
+    "count": 154,
+    "strength": 0.2996
+  },
+  {
+    "root1": "Alh",
+    "root2": "kll",
+    "count": 149,
+    "strength": 0.2899
+  },
+  {
+    "root1": "Alh",
+    "root2": "Eml",
+    "count": 141,
+    "strength": 0.2743
+  },
+  {
+    "root1": "Alh",
+    "root2": "nfs",
+    "count": 139,
+    "strength": 0.2704
+  },
+  {
+    "root1": "byn",
+    "root2": "qwl",
+    "count": 137,
+    "strength": 0.2665
+  },
+  {
+    "root1": "$yA",
+    "root2": "kll",
+    "count": 135,
+    "strength": 0.2626
+  },
+  {
+    "root1": "Alh",
+    "root2": "wqy",
+    "count": 135,
+    "strength": 0.2626
+  },
+  {
+    "root1": "Alh",
+    "root2": "Ebd",
+    "count": 134,
+    "strength": 0.2607
+  },
+  {
+    "root1": "Alh",
+    "root2": "E*b",
+    "count": 133,
+    "strength": 0.2588
+  },
+  {
+    "root1": "kfr",
+    "root2": "qwl",
+    "count": 132,
+    "strength": 0.2568
+  },
+  {
+    "root1": "Alh",
+    "root2": "Zlm",
+    "count": 131,
+    "strength": 0.2549
+  },
+  {
+    "root1": "kwn",
+    "root2": "qwm",
+    "count": 131,
+    "strength": 0.2549
+  },
+  {
+    "root1": "Alh",
+    "root2": "rHm",
+    "count": 130,
+    "strength": 0.2529
+  },
+  {
+    "root1": "Alh",
+    "root2": "hdy",
+    "count": 130,
+    "strength": 0.2529
+  },
+  {
+    "root1": "Elm",
+    "root2": "rbb",
+    "count": 129,
+    "strength": 0.251
+  },
+  {
+    "root1": "Alh",
+    "root2": "nws",
+    "count": 129,
+    "strength": 0.251
+  },
+  {
+    "root1": "Alh",
+    "root2": "Hkm",
+    "count": 127,
+    "strength": 0.2471
+  },
+  {
+    "root1": "Amn",
+    "root2": "kfr",
+    "count": 126,
+    "strength": 0.2451
+  },
+  {
+    "root1": "Alh",
+    "root2": "nzl",
+    "count": 126,
+    "strength": 0.2451
+  },
+  {
+    "root1": "Alh",
+    "root2": "ywm",
+    "count": 125,
+    "strength": 0.2432
+  },
+  {
+    "root1": "Alh",
+    "root2": "wly",
+    "count": 124,
+    "strength": 0.2412
+  },
+  {
+    "root1": "Alh",
+    "root2": "Axr",
+    "count": 123,
+    "strength": 0.2393
+  },
+  {
+    "root1": "kfr",
+    "root2": "kwn",
+    "count": 123,
+    "strength": 0.2393
+  },
+  {
+    "root1": "Alh",
+    "root2": "ktb",
+    "count": 123,
+    "strength": 0.2393
+  },
+  {
+    "root1": "Aty",
+    "root2": "kwn",
+    "count": 122,
+    "strength": 0.2374
+  },
+  {
+    "root1": "Alh",
+    "root2": "rAy",
+    "count": 121,
+    "strength": 0.2354
+  },
+  {
+    "root1": "Alh",
+    "root2": "Ayy",
+    "count": 121,
+    "strength": 0.2354
+  },
+  {
+    "root1": "Alh",
+    "root2": "Hqq",
+    "count": 120,
+    "strength": 0.2335
+  },
+  {
+    "root1": "Alh",
+    "root2": "gfr",
+    "count": 120,
+    "strength": 0.2335
+  },
+  {
+    "root1": "qwl",
+    "root2": "rsl",
+    "count": 120,
+    "strength": 0.2335
+  },
+  {
+    "root1": "Alh",
+    "root2": "jEl",
+    "count": 118,
+    "strength": 0.2296
+  },
+  {
+    "root1": "jyA",
+    "root2": "qwl",
+    "count": 118,
+    "strength": 0.2296
+  },
+  {
+    "root1": "$yA",
+    "root2": "qwl",
+    "count": 113,
+    "strength": 0.2198
+  },
+  {
+    "root1": "Alh",
+    "root2": "Ax*",
+    "count": 113,
+    "strength": 0.2198
+  },
+  {
+    "root1": "qwl",
+    "root2": "rAy",
+    "count": 113,
+    "strength": 0.2198
+  },
+  {
+    "root1": "byn",
+    "root2": "kwn",
+    "count": 113,
+    "strength": 0.2198
+  },
+  {
+    "root1": "Amn",
+    "root2": "rbb",
+    "count": 112,
+    "strength": 0.2179
+  },
+  {
+    "root1": "Alh",
+    "root2": "Amr",
+    "count": 112,
+    "strength": 0.2179
+  },
+  {
+    "root1": "Alh",
+    "root2": "bEd",
+    "count": 112,
+    "strength": 0.2179
+  },
+  {
+    "root1": "Alh",
+    "root2": "End",
+    "count": 112,
+    "strength": 0.2179
+  },
+  {
+    "root1": "Alh",
+    "root2": "sbl",
+    "count": 112,
+    "strength": 0.2179
+  },
+  {
+    "root1": "qwm",
+    "root2": "rbb",
+    "count": 112,
+    "strength": 0.2179
+  },
+  {
+    "root1": "Eml",
+    "root2": "kwn",
+    "count": 110,
+    "strength": 0.214
+  },
+  {
+    "root1": "Alh",
+    "root2": "dwn",
+    "count": 109,
+    "strength": 0.2121
+  },
+  {
+    "root1": "Amn",
+    "root2": "rsl",
+    "count": 107,
+    "strength": 0.2082
+  },
+  {
+    "root1": "kwn",
+    "root2": "qbl",
+    "count": 105,
+    "strength": 0.2043
+  },
+  {
+    "root1": "qwm",
+    "root2": "ywm",
+    "count": 104,
+    "strength": 0.2023
+  },
+  {
+    "root1": "Amn",
+    "root2": "qwm",
+    "count": 102,
+    "strength": 0.1984
+  },
+  {
+    "root1": "ArD",
+    "root2": "qwl",
+    "count": 101,
+    "strength": 0.1965
+  },
+  {
+    "root1": "Amn",
+    "root2": "Eml",
+    "count": 101,
+    "strength": 0.1965
+  },
+  {
+    "root1": "Alh",
+    "root2": "mlk",
+    "count": 101,
+    "strength": 0.1965
+  },
+  {
+    "root1": "kwn",
+    "root2": "rsl",
+    "count": 100,
+    "strength": 0.1946
+  },
+  {
+    "root1": "Amn",
+    "root2": "Elm",
+    "count": 99,
+    "strength": 0.1926
+  },
+  {
+    "root1": "Alh",
+    "root2": "xyr",
+    "count": 99,
+    "strength": 0.1926
+  },
+  {
+    "root1": "$yA",
+    "root2": "kwn",
+    "count": 98,
+    "strength": 0.1907
+  },
+  {
+    "root1": "Ayy",
+    "root2": "kwn",
+    "count": 98,
+    "strength": 0.1907
+  },
+  {
+    "root1": "Alh",
+    "root2": "qbl",
+    "count": 98,
+    "strength": 0.1907
+  },
+  {
+    "root1": "Alh",
+    "root2": "jyA",
+    "count": 97,
+    "strength": 0.1887
+  },
+  {
+    "root1": "$yA",
+    "root2": "Elm",
+    "count": 95,
+    "strength": 0.1848
+  },
+  {
+    "root1": "Alh",
+    "root2": "qlb",
+    "count": 94,
+    "strength": 0.1829
+  },
+  {
+    "root1": "qwl",
+    "root2": "ywm",
+    "count": 94,
+    "strength": 0.1829
+  },
+  {
+    "root1": "Eml",
+    "root2": "SlH",
+    "count": 93,
+    "strength": 0.1809
+  },
+  {
+    "root1": "kwn",
+    "root2": "ywm",
+    "count": 92,
+    "strength": 0.179
+  },
+  {
+    "root1": "ArD",
+    "root2": "kwn",
+    "count": 91,
+    "strength": 0.177
+  },
+  {
+    "root1": "rHm",
+    "root2": "rbb",
+    "count": 91,
+    "strength": 0.177
+  },
+  {
+    "root1": "*kr",
+    "root2": "Alh",
+    "count": 91,
+    "strength": 0.177
+  },
+  {
+    "root1": "gfr",
+    "root2": "rHm",
+    "count": 91,
+    "strength": 0.177
+  },
+  {
+    "root1": "Alh",
+    "root2": "dEw",
+    "count": 88,
+    "strength": 0.1712
+  },
+  {
+    "root1": "kwn",
+    "root2": "nfs",
+    "count": 87,
+    "strength": 0.1693
+  },
+  {
+    "root1": "qbl",
+    "root2": "qwl",
+    "count": 86,
+    "strength": 0.1673
+  },
+  {
+    "root1": "Alh",
+    "root2": "gyr",
+    "count": 86,
+    "strength": 0.1673
+  },
+  {
+    "root1": "Alh",
+    "root2": "Hsn",
+    "count": 86,
+    "strength": 0.1673
+  },
+  {
+    "root1": "Aty",
+    "root2": "Elm",
+    "count": 86,
+    "strength": 0.1673
+  },
+  {
+    "root1": "ArD",
+    "root2": "Elm",
+    "count": 85,
+    "strength": 0.1654
+  },
+  {
+    "root1": "Ebd",
+    "root2": "qwl",
+    "count": 85,
+    "strength": 0.1654
+  },
+  {
+    "root1": "$rk",
+    "root2": "Alh",
+    "count": 85,
+    "strength": 0.1654
+  },
+  {
+    "root1": "Alh",
+    "root2": "kvr",
+    "count": 83,
+    "strength": 0.1615
+  },
+  {
+    "root1": "Hqq",
+    "root2": "qwl",
+    "count": 83,
+    "strength": 0.1615
+  },
+  {
+    "root1": "Aty",
+    "root2": "qwm",
+    "count": 83,
+    "strength": 0.1615
+  },
+  {
+    "root1": "Amn",
+    "root2": "SlH",
+    "count": 82,
+    "strength": 0.1595
+  },
+  {
+    "root1": "Alh",
+    "root2": "xlq",
+    "count": 82,
+    "strength": 0.1595
+  },
+  {
+    "root1": "Elm",
+    "root2": "byn",
+    "count": 82,
+    "strength": 0.1595
+  },
+  {
+    "root1": "Amn",
+    "root2": "Aty",
+    "count": 81,
+    "strength": 0.1576
+  },
+  {
+    "root1": "Alh",
+    "root2": "Dll",
+    "count": 80,
+    "strength": 0.1556
+  },
+  {
+    "root1": "mlk",
+    "root2": "qwl",
+    "count": 80,
+    "strength": 0.1556
+  },
+  {
+    "root1": "Zlm",
+    "root2": "kwn",
+    "count": 80,
+    "strength": 0.1556
+  },
+  {
+    "root1": "Alh",
+    "root2": "nSr",
+    "count": 80,
+    "strength": 0.1556
+  },
+  {
+    "root1": "hdy",
+    "root2": "qwl",
+    "count": 79,
+    "strength": 0.1537
+  },
+  {
+    "root1": "Zlm",
+    "root2": "qwl",
+    "count": 79,
+    "strength": 0.1537
+  },
+  {
+    "root1": "Alh",
+    "root2": "qtl",
+    "count": 79,
+    "strength": 0.1537
+  },
+  {
+    "root1": "Amn",
+    "root2": "byn",
+    "count": 79,
+    "strength": 0.1537
+  },
+  {
+    "root1": "Aty",
+    "root2": "ktb",
+    "count": 78,
+    "strength": 0.1518
+  },
+  {
+    "root1": "Ayy",
+    "root2": "qwl",
+    "count": 78,
+    "strength": 0.1518
+  },
+  {
+    "root1": "E*b",
+    "root2": "qwl",
+    "count": 78,
+    "strength": 0.1518
+  },
+  {
+    "root1": "Aty",
+    "root2": "rbb",
+    "count": 78,
+    "strength": 0.1518
+  },
+  {
+    "root1": "E*b",
+    "root2": "kwn",
+    "count": 77,
+    "strength": 0.1498
+  },
+  {
+    "root1": "kll",
+    "root2": "kwn",
+    "count": 77,
+    "strength": 0.1498
+  },
+  {
+    "root1": "Alh",
+    "root2": "nwr",
+    "count": 75,
+    "strength": 0.1459
+  },
+  {
+    "root1": "Elm",
+    "root2": "qwm",
+    "count": 75,
+    "strength": 0.1459
+  },
+  {
+    "root1": "byn",
+    "root2": "rbb",
+    "count": 75,
+    "strength": 0.1459
+  },
+  {
+    "root1": "$yA",
+    "root2": "rbb",
+    "count": 75,
+    "strength": 0.1459
+  },
+  {
+    "root1": "$yA",
+    "root2": "ArD",
+    "count": 74,
+    "strength": 0.144
+  },
+  {
+    "root1": "Sdq",
+    "root2": "kwn",
+    "count": 73,
+    "strength": 0.142
+  },
+  {
+    "root1": "Alh",
+    "root2": "Hyy",
+    "count": 73,
+    "strength": 0.142
+  },
+  {
+    "root1": "Elm",
+    "root2": "kll",
+    "count": 73,
+    "strength": 0.142
+  },
+  {
+    "root1": "qwl",
+    "root2": "rHm",
+    "count": 73,
+    "strength": 0.142
+  },
+  {
+    "root1": "Alh",
+    "root2": "nbA",
+    "count": 73,
+    "strength": 0.142
+  },
+  {
+    "root1": "jyA",
+    "root2": "kwn",
+    "count": 73,
+    "strength": 0.142
+  },
+  {
+    "root1": "Elm",
+    "root2": "smw",
+    "count": 72,
+    "strength": 0.1401
+  },
+  {
+    "root1": "Eml",
+    "root2": "qwl",
+    "count": 72,
+    "strength": 0.1401
+  },
+  {
+    "root1": "Alh",
+    "root2": "TwE",
+    "count": 72,
+    "strength": 0.1401
+  },
+  {
+    "root1": "Alh",
+    "root2": "mvl",
+    "count": 71,
+    "strength": 0.1381
+  },
+  {
+    "root1": "Alh",
+    "root2": "Sdq",
+    "count": 71,
+    "strength": 0.1381
+  },
+  {
+    "root1": "kwn",
+    "root2": "smw",
+    "count": 71,
+    "strength": 0.1381
+  },
+  {
+    "root1": "Elm",
+    "root2": "Hkm",
+    "count": 71,
+    "strength": 0.1381
+  },
+  {
+    "root1": "End",
+    "root2": "qwl",
+    "count": 71,
+    "strength": 0.1381
+  },
+  {
+    "root1": "nzl",
+    "root2": "qwl",
+    "count": 71,
+    "strength": 0.1381
+  },
+  {
+    "root1": "Alh",
+    "root2": "smE",
+    "count": 70,
+    "strength": 0.1362
+  },
+  {
+    "root1": "$hd",
+    "root2": "Alh",
+    "count": 70,
+    "strength": 0.1362
+  },
+  {
+    "root1": "kfr",
+    "root2": "rbb",
+    "count": 70,
+    "strength": 0.1362
+  },
+  {
+    "root1": "Alh",
+    "root2": "EZm",
+    "count": 69,
+    "strength": 0.1342
+  },
+  {
+    "root1": "Amr",
+    "root2": "qwl",
+    "count": 69,
+    "strength": 0.1342
+  },
+  {
+    "root1": "byn",
+    "root2": "rsl",
+    "count": 69,
+    "strength": 0.1342
+  },
+  {
+    "root1": "Alh",
+    "root2": "Ezz",
+    "count": 69,
+    "strength": 0.1342
+  },
+  {
+    "root1": "Alh",
+    "root2": "k*b",
+    "count": 68,
+    "strength": 0.1323
+  },
+  {
+    "root1": "Alh",
+    "root2": "bny",
+    "count": 68,
+    "strength": 0.1323
+  },
+  {
+    "root1": "Hqq",
+    "root2": "kwn",
+    "count": 68,
+    "strength": 0.1323
+  },
+  {
+    "root1": "E*b",
+    "root2": "kfr",
+    "count": 68,
+    "strength": 0.1323
+  },
+  {
+    "root1": "$yA",
+    "root2": "Amn",
+    "count": 68,
+    "strength": 0.1323
+  },
+  {
+    "root1": "Hqq",
+    "root2": "rbb",
+    "count": 67,
+    "strength": 0.1304
+  },
+  {
+    "root1": "nfs",
+    "root2": "qwl",
+    "count": 67,
+    "strength": 0.1304
+  },
+  {
+    "root1": "byn",
+    "root2": "qwm",
+    "count": 67,
+    "strength": 0.1304
+  },
+  {
+    "root1": "Ayy",
+    "root2": "qwm",
+    "count": 67,
+    "strength": 0.1304
+  },
+  {
+    "root1": "hdy",
+    "root2": "qwm",
+    "count": 66,
+    "strength": 0.1284
+  },
+  {
+    "root1": "Alh",
+    "root2": "xrj",
+    "count": 66,
+    "strength": 0.1284
+  },
+  {
+    "root1": "smw",
+    "root2": "xlq",
+    "count": 66,
+    "strength": 0.1284
+  },
+  {
+    "root1": "qwl",
+    "root2": "smw",
+    "count": 66,
+    "strength": 0.1284
+  },
+  {
+    "root1": "Alh",
+    "root2": "SlH",
+    "count": 66,
+    "strength": 0.1284
+  },
+  {
+    "root1": "Hyy",
+    "root2": "dnw",
+    "count": 66,
+    "strength": 0.1284
+  },
+  {
+    "root1": "Alh",
+    "root2": "swA",
+    "count": 66,
+    "strength": 0.1284
+  },
+  {
+    "root1": "Alh",
+    "root2": "rwd",
+    "count": 65,
+    "strength": 0.1265
+  },
+  {
+    "root1": "Hyy",
+    "root2": "mwt",
+    "count": 65,
+    "strength": 0.1265
+  },
+  {
+    "root1": "byn",
+    "root2": "jyA",
+    "count": 65,
+    "strength": 0.1265
+  },
+  {
+    "root1": "ktb",
+    "root2": "kwn",
+    "count": 65,
+    "strength": 0.1265
+  },
+  {
+    "root1": "Alh",
+    "root2": "tbE",
+    "count": 65,
+    "strength": 0.1265
+  },
+  {
+    "root1": "k*b",
+    "root2": "kwn",
+    "count": 64,
+    "strength": 0.1245
+  },
+  {
+    "root1": "Alh",
+    "root2": "mwt",
+    "count": 64,
+    "strength": 0.1245
+  },
+  {
+    "root1": "$yA",
+    "root2": "qdr",
+    "count": 64,
+    "strength": 0.1245
+  },
+  {
+    "root1": "Alh",
+    "root2": "qdr",
+    "count": 64,
+    "strength": 0.1245
+  },
+  {
+    "root1": "Aty",
+    "root2": "qbl",
+    "count": 64,
+    "strength": 0.1245
+  },
+  {
+    "root1": "ArD",
+    "root2": "xlq",
+    "count": 64,
+    "strength": 0.1245
+  },
+  {
+    "root1": "Amn",
+    "root2": "Ayy",
+    "count": 64,
+    "strength": 0.1245
+  },
+  {
+    "root1": "kwn",
+    "root2": "rHm",
+    "count": 64,
+    "strength": 0.1245
+  },
+  {
+    "root1": "Ax*",
+    "root2": "qwl",
+    "count": 63,
+    "strength": 0.1226
+  },
+  {
+    "root1": "Alh",
+    "root2": "dnw",
+    "count": 63,
+    "strength": 0.1226
+  },
+  {
+    "root1": "dEw",
+    "root2": "qwl",
+    "count": 63,
+    "strength": 0.1226
+  },
+  {
+    "root1": "ktb",
+    "root2": "qwl",
+    "count": 63,
+    "strength": 0.1226
+  },
+  {
+    "root1": "Amn",
+    "root2": "ktb",
+    "count": 63,
+    "strength": 0.1226
+  },
+  {
+    "root1": "ktb",
+    "root2": "nzl",
+    "count": 63,
+    "strength": 0.1226
+  },
+  {
+    "root1": "Ebd",
+    "root2": "kwn",
+    "count": 62,
+    "strength": 0.1206
+  },
+  {
+    "root1": "ArD",
+    "root2": "kll",
+    "count": 62,
+    "strength": 0.1206
+  },
+  {
+    "root1": "jEl",
+    "root2": "qwl",
+    "count": 62,
+    "strength": 0.1206
+  },
+  {
+    "root1": "End",
+    "root2": "rbb",
+    "count": 62,
+    "strength": 0.1206
+  },
+  {
+    "root1": "Aty",
+    "root2": "byn",
+    "count": 62,
+    "strength": 0.1206
+  },
+  {
+    "root1": "jyA",
+    "root2": "rsl",
+    "count": 62,
+    "strength": 0.1206
+  },
+  {
+    "root1": "gfr",
+    "root2": "rbb",
+    "count": 62,
+    "strength": 0.1206
+  },
+  {
+    "root1": "hdy",
+    "root2": "rbb",
+    "count": 61,
+    "strength": 0.1187
+  },
+  {
+    "root1": "kll",
+    "root2": "qwl",
+    "count": 61,
+    "strength": 0.1187
+  },
+  {
+    "root1": "Ax*",
+    "root2": "kwn",
+    "count": 61,
+    "strength": 0.1187
+  },
+  {
+    "root1": "Elm",
+    "root2": "ktb",
+    "count": 61,
+    "strength": 0.1187
+  },
+  {
+    "root1": "Ayy",
+    "root2": "byn",
+    "count": 61,
+    "strength": 0.1187
+  },
+  {
+    "root1": "rbb",
+    "root2": "smw",
+    "count": 61,
+    "strength": 0.1187
+  },
+  {
+    "root1": "Alh",
+    "root2": "bSr",
+    "count": 60,
+    "strength": 0.1167
+  },
+  {
+    "root1": "Abw",
+    "root2": "qwl",
+    "count": 60,
+    "strength": 0.1167
+  },
+  {
+    "root1": "Alh",
+    "root2": "rzq",
+    "count": 59,
+    "strength": 0.1148
+  },
+  {
+    "root1": "Dll",
+    "root2": "qwl",
+    "count": 59,
+    "strength": 0.1148
+  },
+  {
+    "root1": "jEl",
+    "root2": "rbb",
+    "count": 59,
+    "strength": 0.1148
+  },
+  {
+    "root1": "qwl",
+    "root2": "tbE",
+    "count": 59,
+    "strength": 0.1148
+  },
+  {
+    "root1": "Ayy",
+    "root2": "rbb",
+    "count": 59,
+    "strength": 0.1148
+  },
+  {
+    "root1": "Amr",
+    "root2": "kwn",
+    "count": 59,
+    "strength": 0.1148
+  },
+  {
+    "root1": "Axr",
+    "root2": "kwn",
+    "count": 59,
+    "strength": 0.1148
+  },
+  {
+    "root1": "Elm",
+    "root2": "rsl",
+    "count": 59,
+    "strength": 0.1148
+  },
+  {
+    "root1": "Amn",
+    "root2": "rHm",
+    "count": 59,
+    "strength": 0.1148
+  },
+  {
+    "root1": "Amn",
+    "root2": "Axr",
+    "count": 58,
+    "strength": 0.1128
+  },
+  {
+    "root1": "Amn",
+    "root2": "ywm",
+    "count": 58,
+    "strength": 0.1128
+  },
+  {
+    "root1": "kwn",
+    "root2": "nzl",
+    "count": 58,
+    "strength": 0.1128
+  },
+  {
+    "root1": "ArD",
+    "root2": "rbb",
+    "count": 58,
+    "strength": 0.1128
+  },
+  {
+    "root1": "kwn",
+    "root2": "nbA",
+    "count": 58,
+    "strength": 0.1128
+  },
+  {
+    "root1": "Alh",
+    "root2": "xlf",
+    "count": 58,
+    "strength": 0.1128
+  },
+  {
+    "root1": "Aty",
+    "root2": "rsl",
+    "count": 58,
+    "strength": 0.1128
+  },
+  {
+    "root1": "qbl",
+    "root2": "rsl",
+    "count": 58,
+    "strength": 0.1128
+  },
+  {
+    "root1": "Alh",
+    "root2": "nEm",
+    "count": 58,
+    "strength": 0.1128
+  },
+  {
+    "root1": "qwm",
+    "root2": "rsl",
+    "count": 58,
+    "strength": 0.1128
+  },
+  {
+    "root1": "nws",
+    "root2": "qwl",
+    "count": 57,
+    "strength": 0.1109
+  },
+  {
+    "root1": "hdy",
+    "root2": "kwn",
+    "count": 57,
+    "strength": 0.1109
+  },
+  {
+    "root1": "Zlm",
+    "root2": "qwm",
+    "count": 57,
+    "strength": 0.1109
+  },
+  {
+    "root1": "E*b",
+    "root2": "rbb",
+    "count": 57,
+    "strength": 0.1109
+  },
+  {
+    "root1": "Axr",
+    "root2": "dnw",
+    "count": 57,
+    "strength": 0.1109
+  },
+  {
+    "root1": "byn",
+    "root2": "ktb",
+    "count": 57,
+    "strength": 0.1109
+  },
+  {
+    "root1": "Alh",
+    "root2": "slm",
+    "count": 57,
+    "strength": 0.1109
+  },
+  {
+    "root1": "kwn",
+    "root2": "rAy",
+    "count": 57,
+    "strength": 0.1109
+  },
+  {
+    "root1": "$yA",
+    "root2": "qwm",
+    "count": 56,
+    "strength": 0.1089
+  },
+  {
+    "root1": "Amn",
+    "root2": "hdy",
+    "count": 56,
+    "strength": 0.1089
+  },
+  {
+    "root1": "$yA",
+    "root2": "smw",
+    "count": 56,
+    "strength": 0.1089
+  },
+  {
+    "root1": "bny",
+    "root2": "qwl",
+    "count": 56,
+    "strength": 0.1089
+  },
+  {
+    "root1": "nzl",
+    "root2": "rbb",
+    "count": 56,
+    "strength": 0.1089
+  },
+  {
+    "root1": "Zlm",
+    "root2": "rbb",
+    "count": 56,
+    "strength": 0.1089
+  },
+  {
+    "root1": "k*b",
+    "root2": "qwl",
+    "count": 56,
+    "strength": 0.1089
+  },
+  {
+    "root1": "Amn",
+    "root2": "Hqq",
+    "count": 55,
+    "strength": 0.107
+  },
+  {
+    "root1": "Amn",
+    "root2": "wqy",
+    "count": 55,
+    "strength": 0.107
+  },
+  {
+    "root1": "Zlm",
+    "root2": "nfs",
+    "count": 55,
+    "strength": 0.107
+  },
+  {
+    "root1": "Amn",
+    "root2": "E*b",
+    "count": 55,
+    "strength": 0.107
+  },
+  {
+    "root1": "kfr",
+    "root2": "qwm",
+    "count": 55,
+    "strength": 0.107
+  },
+  {
+    "root1": "Amn",
+    "root2": "nzl",
+    "count": 54,
+    "strength": 0.1051
+  },
+  {
+    "root1": "dEw",
+    "root2": "kwn",
+    "count": 54,
+    "strength": 0.1051
+  },
+  {
+    "root1": "Sdq",
+    "root2": "qwl",
+    "count": 54,
+    "strength": 0.1051
+  },
+  {
+    "root1": "kfr",
+    "root2": "rsl",
+    "count": 54,
+    "strength": 0.1051
+  },
+  {
+    "root1": "byn",
+    "root2": "kfr",
+    "count": 54,
+    "strength": 0.1051
+  },
+  {
+    "root1": "$rk",
+    "root2": "qwl",
+    "count": 54,
+    "strength": 0.1051
+  },
+  {
+    "root1": "Alh",
+    "root2": "kbr",
+    "count": 54,
+    "strength": 0.1051
+  },
+  {
+    "root1": "ArD",
+    "root2": "byn",
+    "count": 54,
+    "strength": 0.1051
+  },
+  {
+    "root1": "Amn",
+    "root2": "qbl",
+    "count": 53,
+    "strength": 0.1031
+  },
+  {
+    "root1": "kbr",
+    "root2": "qwl",
+    "count": 53,
+    "strength": 0.1031
+  },
+  {
+    "root1": "qwl",
+    "root2": "xrj",
+    "count": 53,
+    "strength": 0.1031
+  },
+  {
+    "root1": "Alh",
+    "root2": "ydy",
+    "count": 53,
+    "strength": 0.1031
+  },
+  {
+    "root1": "rbb",
+    "root2": "rsl",
+    "count": 53,
+    "strength": 0.1031
+  },
+  {
+    "root1": "Alh",
+    "root2": "jmE",
+    "count": 53,
+    "strength": 0.1031
+  },
+  {
+    "root1": "Dll",
+    "root2": "hdy",
+    "count": 52,
+    "strength": 0.1012
+  },
+  {
+    "root1": "jnn",
+    "root2": "qwl",
+    "count": 52,
+    "strength": 0.1012
+  },
+  {
+    "root1": "nbA",
+    "root2": "qwl",
+    "count": 52,
+    "strength": 0.1012
+  },
+  {
+    "root1": "kwn",
+    "root2": "nws",
+    "count": 52,
+    "strength": 0.1012
+  },
+  {
+    "root1": "$yA",
+    "root2": "Aty",
+    "count": 52,
+    "strength": 0.1012
+  },
+  {
+    "root1": "kll",
+    "root2": "rbb",
+    "count": 52,
+    "strength": 0.1012
+  },
+  {
+    "root1": "jyA",
+    "root2": "rbb",
+    "count": 52,
+    "strength": 0.1012
+  },
+  {
+    "root1": "Ayy",
+    "root2": "kfr",
+    "count": 51,
+    "strength": 0.0992
+  },
+  {
+    "root1": "gfr",
+    "root2": "qwl",
+    "count": 51,
+    "strength": 0.0992
+  },
+  {
+    "root1": "Eml",
+    "root2": "rbb",
+    "count": 51,
+    "strength": 0.0992
+  },
+  {
+    "root1": "Awl",
+    "root2": "qwl",
+    "count": 51,
+    "strength": 0.0992
+  },
+  {
+    "root1": "$hd",
+    "root2": "kwn",
+    "count": 50,
+    "strength": 0.0973
+  },
+  {
+    "root1": "Alh",
+    "root2": "bED",
+    "count": 50,
+    "strength": 0.0973
+  },
+  {
+    "root1": "kll",
+    "root2": "smw",
+    "count": 50,
+    "strength": 0.0973
+  },
+  {
+    "root1": "kbr",
+    "root2": "kwn",
+    "count": 50,
+    "strength": 0.0973
+  },
+  {
+    "root1": "qwl",
+    "root2": "xyr",
+    "count": 50,
+    "strength": 0.0973
+  },
+  {
+    "root1": "bEd",
+    "root2": "kwn",
+    "count": 50,
+    "strength": 0.0973
+  },
+  {
+    "root1": "*kr",
+    "root2": "kwn",
+    "count": 50,
+    "strength": 0.0973
+  },
+  {
+    "root1": "$rk",
+    "root2": "kwn",
+    "count": 50,
+    "strength": 0.0973
+  },
+  {
+    "root1": "Amn",
+    "root2": "gfr",
+    "count": 50,
+    "strength": 0.0973
+  },
+  {
+    "root1": "Alh",
+    "root2": "wEd",
+    "count": 50,
+    "strength": 0.0973
+  },
+  {
+    "root1": "kwn",
+    "root2": "swA",
+    "count": 50,
+    "strength": 0.0973
+  },
+  {
+    "root1": "Dll",
+    "root2": "kwn",
+    "count": 49,
+    "strength": 0.0953
+  },
+  {
+    "root1": "dEw",
+    "root2": "rbb",
+    "count": 49,
+    "strength": 0.0953
+  },
+  {
+    "root1": "Aty",
+    "root2": "kfr",
+    "count": 49,
+    "strength": 0.0953
+  },
+  {
+    "root1": "Amn",
+    "root2": "qlb",
+    "count": 49,
+    "strength": 0.0953
+  },
+  {
+    "root1": "qwl",
+    "root2": "smE",
+    "count": 49,
+    "strength": 0.0953
+  },
+  {
+    "root1": "Ezz",
+    "root2": "Hkm",
+    "count": 49,
+    "strength": 0.0953
+  },
+  {
+    "root1": "gfr",
+    "root2": "kwn",
+    "count": 49,
+    "strength": 0.0953
+  },
+  {
+    "root1": "Elm",
+    "root2": "nws",
+    "count": 48,
+    "strength": 0.0934
+  },
+  {
+    "root1": "kwn",
+    "root2": "mlk",
+    "count": 48,
+    "strength": 0.0934
+  },
+  {
+    "root1": "ArD",
+    "root2": "qwm",
+    "count": 48,
+    "strength": 0.0934
+  },
+  {
+    "root1": "E*b",
+    "root2": "ywm",
+    "count": 48,
+    "strength": 0.0934
+  },
+  {
+    "root1": "Alh",
+    "root2": "b$r",
+    "count": 48,
+    "strength": 0.0934
+  },
+  {
+    "root1": "Hkm",
+    "root2": "kwn",
+    "count": 48,
+    "strength": 0.0934
+  },
+  {
+    "root1": "Alh",
+    "root2": "dxl",
+    "count": 48,
+    "strength": 0.0934
+  },
+  {
+    "root1": "Alh",
+    "root2": "Awl",
+    "count": 48,
+    "strength": 0.0934
+  },
+  {
+    "root1": "*kr",
+    "root2": "rbb",
+    "count": 48,
+    "strength": 0.0934
+  },
+  {
+    "root1": "*kr",
+    "root2": "qwl",
+    "count": 48,
+    "strength": 0.0934
+  },
+  {
+    "root1": "Amn",
+    "root2": "jyA",
+    "count": 48,
+    "strength": 0.0934
+  },
+  {
+    "root1": "k*b",
+    "root2": "rbb",
+    "count": 48,
+    "strength": 0.0934
+  },
+  {
+    "root1": "Ebd",
+    "root2": "rbb",
+    "count": 47,
+    "strength": 0.0914
+  },
+  {
+    "root1": "nzl",
+    "root2": "smw",
+    "count": 47,
+    "strength": 0.0914
+  },
+  {
+    "root1": "kwn",
+    "root2": "xyr",
+    "count": 47,
+    "strength": 0.0914
+  },
+  {
+    "root1": "Amr",
+    "root2": "rbb",
+    "count": 47,
+    "strength": 0.0914
+  },
+  {
+    "root1": "$yA",
+    "root2": "byn",
+    "count": 47,
+    "strength": 0.0914
+  },
+  {
+    "root1": "Alh",
+    "root2": "jnn",
+    "count": 47,
+    "strength": 0.0914
+  },
+  {
+    "root1": "$yA",
+    "root2": "mlk",
+    "count": 47,
+    "strength": 0.0914
+  },
+  {
+    "root1": "Elm",
+    "root2": "nzl",
+    "count": 46,
+    "strength": 0.0895
+  },
+  {
+    "root1": "Aty",
+    "root2": "kll",
+    "count": 46,
+    "strength": 0.0895
+  },
+  {
+    "root1": "b$r",
+    "root2": "qwl",
+    "count": 46,
+    "strength": 0.0895
+  }
+]

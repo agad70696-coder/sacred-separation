@@ -1,0 +1,492 @@
+[
+  {
+    "surah1": 2,
+    "surah2": 3,
+    "cosine": 0.9634,
+    "shared_roots": 331,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 3,
+    "surah2": 5,
+    "cosine": 0.9503,
+    "shared_roots": 276,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 2,
+    "surah2": 5,
+    "cosine": 0.9456,
+    "shared_roots": 320,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 3,
+    "surah2": 4,
+    "cosine": 0.9227,
+    "shared_roots": 290,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 4,
+    "surah2": 33,
+    "cosine": 0.9222,
+    "shared_roots": 212,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 8,
+    "surah2": 9,
+    "cosine": 0.9207,
+    "shared_roots": 164,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 3,
+    "surah2": 9,
+    "cosine": 0.9198,
+    "shared_roots": 237,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 3,
+    "surah2": 8,
+    "cosine": 0.9194,
+    "shared_roots": 205,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 4,
+    "surah2": 9,
+    "cosine": 0.9183,
+    "shared_roots": 248,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 5,
+    "surah2": 9,
+    "cosine": 0.9177,
+    "shared_roots": 239,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 7,
+    "surah2": 11,
+    "cosine": 0.9149,
+    "shared_roots": 242,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 4,
+    "surah2": 5,
+    "cosine": 0.9134,
+    "shared_roots": 279,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 4,
+    "surah2": 8,
+    "cosine": 0.9103,
+    "shared_roots": 197,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 6,
+    "surah2": 7,
+    "cosine": 0.9088,
+    "shared_roots": 294,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 7,
+    "surah2": 28,
+    "cosine": 0.9065,
+    "shared_roots": 212,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 9,
+    "surah2": 48,
+    "cosine": 0.9059,
+    "shared_roots": 131,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 2,
+    "surah2": 4,
+    "cosine": 0.9049,
+    "shared_roots": 347,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 6,
+    "surah2": 10,
+    "cosine": 0.9023,
+    "shared_roots": 229,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 3,
+    "surah2": 16,
+    "cosine": 0.9018,
+    "shared_roots": 227,
+    "type": "mixed"
+  },
+  {
+    "surah1": 7,
+    "surah2": 23,
+    "cosine": 0.9014,
+    "shared_roots": 198,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 2,
+    "surah2": 29,
+    "cosine": 0.9008,
+    "shared_roots": 185,
+    "type": "mixed"
+  },
+  {
+    "surah1": 2,
+    "surah2": 16,
+    "cosine": 0.8998,
+    "shared_roots": 271,
+    "type": "mixed"
+  },
+  {
+    "surah1": 16,
+    "surah2": 39,
+    "cosine": 0.898,
+    "shared_roots": 171,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 7,
+    "surah2": 27,
+    "cosine": 0.8961,
+    "shared_roots": 199,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 16,
+    "surah2": 22,
+    "cosine": 0.8961,
+    "shared_roots": 198,
+    "type": "mixed"
+  },
+  {
+    "surah1": 9,
+    "surah2": 33,
+    "cosine": 0.8957,
+    "shared_roots": 180,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 2,
+    "surah2": 9,
+    "cosine": 0.8955,
+    "shared_roots": 274,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 27,
+    "surah2": 28,
+    "cosine": 0.895,
+    "shared_roots": 159,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 3,
+    "surah2": 22,
+    "cosine": 0.8946,
+    "shared_roots": 211,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 7,
+    "surah2": 10,
+    "cosine": 0.8943,
+    "shared_roots": 235,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 3,
+    "surah2": 39,
+    "cosine": 0.8942,
+    "shared_roots": 180,
+    "type": "mixed"
+  },
+  {
+    "surah1": 3,
+    "surah2": 33,
+    "cosine": 0.8925,
+    "shared_roots": 198,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 8,
+    "surah2": 33,
+    "cosine": 0.8918,
+    "shared_roots": 144,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 8,
+    "surah2": 22,
+    "cosine": 0.8895,
+    "shared_roots": 154,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 5,
+    "surah2": 8,
+    "cosine": 0.8894,
+    "shared_roots": 180,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 3,
+    "surah2": 40,
+    "cosine": 0.8891,
+    "shared_roots": 199,
+    "type": "mixed"
+  },
+  {
+    "surah1": 3,
+    "surah2": 24,
+    "cosine": 0.8889,
+    "shared_roots": 193,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 4,
+    "surah2": 48,
+    "cosine": 0.8878,
+    "shared_roots": 139,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 9,
+    "surah2": 24,
+    "cosine": 0.8874,
+    "shared_roots": 172,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 8,
+    "surah2": 48,
+    "cosine": 0.8859,
+    "shared_roots": 100,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 2,
+    "surah2": 39,
+    "cosine": 0.8851,
+    "shared_roots": 200,
+    "type": "mixed"
+  },
+  {
+    "surah1": 5,
+    "surah2": 48,
+    "cosine": 0.8842,
+    "shared_roots": 132,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 5,
+    "surah2": 16,
+    "cosine": 0.884,
+    "shared_roots": 214,
+    "type": "mixed"
+  },
+  {
+    "surah1": 6,
+    "surah2": 28,
+    "cosine": 0.884,
+    "shared_roots": 194,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 9,
+    "surah2": 58,
+    "cosine": 0.8838,
+    "shared_roots": 106,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 2,
+    "surah2": 8,
+    "cosine": 0.8828,
+    "shared_roots": 214,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 39,
+    "surah2": 40,
+    "cosine": 0.8822,
+    "shared_roots": 137,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 3,
+    "surah2": 29,
+    "cosine": 0.8817,
+    "shared_roots": 167,
+    "type": "mixed"
+  },
+  {
+    "surah1": 6,
+    "surah2": 27,
+    "cosine": 0.8816,
+    "shared_roots": 182,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 9,
+    "surah2": 59,
+    "cosine": 0.8807,
+    "shared_roots": 113,
+    "type": "both_medinan"
+  },
+  {
+    "surah1": 104,
+    "surah2": 108,
+    "cosine": 0.0,
+    "shared_roots": 0,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 104,
+    "surah2": 109,
+    "cosine": 0.0,
+    "shared_roots": 0,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 104,
+    "surah2": 113,
+    "cosine": 0.0,
+    "shared_roots": 0,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 105,
+    "surah2": 109,
+    "cosine": 0.0,
+    "shared_roots": 0,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 105,
+    "surah2": 111,
+    "cosine": 0.0,
+    "shared_roots": 0,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 105,
+    "surah2": 112,
+    "cosine": 0.0,
+    "shared_roots": 0,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 106,
+    "surah2": 111,
+    "cosine": 0.0,
+    "shared_roots": 0,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 106,
+    "surah2": 112,
+    "cosine": 0.0,
+    "shared_roots": 0,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 107,
+    "surah2": 111,
+    "cosine": 0.0,
+    "shared_roots": 0,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 107,
+    "surah2": 112,
+    "cosine": 0.0,
+    "shared_roots": 0,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 107,
+    "surah2": 113,
+    "cosine": 0.0,
+    "shared_roots": 0,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 107,
+    "surah2": 114,
+    "cosine": 0.0,
+    "shared_roots": 0,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 108,
+    "surah2": 109,
+    "cosine": 0.0,
+    "shared_roots": 0,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 108,
+    "surah2": 111,
+    "cosine": 0.0,
+    "shared_roots": 0,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 108,
+    "surah2": 112,
+    "cosine": 0.0,
+    "shared_roots": 0,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 109,
+    "surah2": 111,
+    "cosine": 0.0,
+    "shared_roots": 0,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 110,
+    "surah2": 111,
+    "cosine": 0.0,
+    "shared_roots": 0,
+    "type": "mixed"
+  },
+  {
+    "surah1": 111,
+    "surah2": 112,
+    "cosine": 0.0,
+    "shared_roots": 0,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 111,
+    "surah2": 113,
+    "cosine": 0.0,
+    "shared_roots": 0,
+    "type": "both_meccan"
+  },
+  {
+    "surah1": 111,
+    "surah2": 114,
+    "cosine": 0.0,
+    "shared_roots": 0,
+    "type": "both_meccan"
+  }
+]

@@ -1,0 +1,130 @@
+{
+  "total_tokens": 49967,
+  "unique_roots": 1642,
+  "coverage_targets": {
+    "80": {
+      "roots_needed": 249,
+      "coverage": 80.02881902055357
+    },
+    "90": {
+      "roots_needed": 441,
+      "coverage": 90.00940620809735
+    },
+    "95": {
+      "roots_needed": 663,
+      "coverage": 95.00670442492046
+    },
+    "99": {
+      "roots_needed": 1195,
+      "coverage": 99.00134088498409
+    },
+    "100": {
+      "roots_needed": 1642,
+      "coverage": 100.0
+    }
+  },
+  "top_20": [
+    {
+      "rank": 1,
+      "root": "Alh",
+      "freq": 2851
+    },
+    {
+      "rank": 2,
+      "root": "qwl",
+      "freq": 1722
+    },
+    {
+      "rank": 3,
+      "root": "kwn",
+      "freq": 1390
+    },
+    {
+      "rank": 4,
+      "root": "rbb",
+      "freq": 980
+    },
+    {
+      "rank": 5,
+      "root": "Amn",
+      "freq": 879
+    },
+    {
+      "rank": 6,
+      "root": "Elm",
+      "freq": 854
+    },
+    {
+      "rank": 7,
+      "root": "qwm",
+      "freq": 660
+    },
+    {
+      "rank": 8,
+      "root": "Aty",
+      "freq": 549
+    },
+    {
+      "rank": 9,
+      "root": "kfr",
+      "freq": 525
+    },
+    {
+      "rank": 10,
+      "root": "byn",
+      "freq": 523
+    },
+    {
+      "rank": 11,
+      "root": "$yA",
+      "freq": 519
+    },
+    {
+      "rank": 12,
+      "root": "rsl",
+      "freq": 513
+    },
+    {
+      "rank": 13,
+      "root": "ArD",
+      "freq": 461
+    },
+    {
+      "rank": 14,
+      "root": "ywm",
+      "freq": 405
+    },
+    {
+      "rank": 15,
+      "root": "Ayy",
+      "freq": 382
+    },
+    {
+      "rank": 16,
+      "root": "smw",
+      "freq": 381
+    },
+    {
+      "rank": 17,
+      "root": "kll",
+      "freq": 377
+    },
+    {
+      "rank": 18,
+      "root": "E*b",
+      "freq": 373
+    },
+    {
+      "rank": 19,
+      "root": "Eml",
+      "freq": 360
+    },
+    {
+      "rank": 20,
+      "root": "jEl",
+      "freq": 346
+    }
+  ],
+  "hapax_percent_vocab": 24.056029232643116,
+  "hapax_percent_tokens": 0.7905217443512719
+}

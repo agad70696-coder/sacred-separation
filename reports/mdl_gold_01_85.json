@@ -1,0 +1,74 @@
+{
+  "results": [
+    {
+      "model_id": "M10",
+      "gold_records": 85,
+      "exact_records": 85,
+      "exact_rate": 1.0,
+      "model_cost_bits": 92.0,
+      "data_cost_bits": 0,
+      "exception_cost_bits": 0,
+      "total_description_length_bits": 92.0,
+      "residual_counts": {
+        "domain": 0,
+        "family": 0
+      }
+    },
+    {
+      "model_id": "M9",
+      "gold_records": 85,
+      "exact_records": 0,
+      "exact_rate": 0.0,
+      "model_cost_bits": 0,
+      "data_cost_bits": 935,
+      "exception_cost_bits": 680,
+      "total_description_length_bits": 1615,
+      "residual_counts": {
+        "domain": 85,
+        "family": 85
+      }
+    },
+    {
+      "model_id": "M8",
+      "gold_records": 85,
+      "exact_records": 0,
+      "exact_rate": 0.0,
+      "model_cost_bits": 0,
+      "data_cost_bits": 935,
+      "exception_cost_bits": 680,
+      "total_description_length_bits": 1615,
+      "residual_counts": {
+        "domain": 85,
+        "family": 85
+      }
+    },
+    {
+      "model_id": "M7",
+      "gold_records": 85,
+      "exact_records": 0,
+      "exact_rate": 0.0,
+      "model_cost_bits": 0,
+      "data_cost_bits": 935,
+      "exception_cost_bits": 680,
+      "total_description_length_bits": 1615,
+      "residual_counts": {
+        "domain": 85,
+        "family": 85
+      }
+    },
+    {
+      "model_id": "M6",
+      "gold_records": 85,
+      "exact_records": 0,
+      "exact_rate": 0.0,
+      "model_cost_bits": 0,
+      "data_cost_bits": 935,
+      "exception_cost_bits": 680,
+      "total_description_length_bits": 1615,
+      "residual_counts": {
+        "domain": 85,
+        "family": 85
+      }
+    }
+  ]
+}

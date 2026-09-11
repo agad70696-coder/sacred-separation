@@ -1,0 +1,12 @@
+{
+  "model_id": "M7",
+  "version": "structural-grammar-v0.5",
+  "description": "Clausal entries unified under Clausal Domain",
+  "transform": {
+    "speech_to_entry": true,
+    "address_to_entry": true,
+    "predicate_to_entry": true,
+    "assertion_to_entry": true,
+    "constraint_grouping": false
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "results": [
+    {
+      "model_id": "M11",
+      "gold_records": 6236,
+      "evaluated": 6236,
+      "missing": 0,
+      "exact_records": 6236,
+      "exact_rate": 1.0,
+      "model_cost_bits": 2025.0,
+      "data_cost_bits": 0.0,
+      "exception_cost_bits": 0.0,
+      "total_description_length_bits": 2025.0,
+      "residual_counts": {
+        "domain": 0,
+        "family": 0
+      }
+    },
+    {
+      "model_id": "M10",
+      "gold_records": 6236,
+      "evaluated": 85,
+      "missing": 6151,
+      "exact_records": 37,
+      "exact_rate": 0.005933290570878769,
+      "model_cost_bits": 92.0,
+      "data_cost_bits": 68021.0,
+      "exception_cost_bits": 49480.0,
+      "total_description_length_bits": 117593.0,
+      "residual_counts": {
+        "domain": 6199,
+        "family": 6171
+      }
+    },
+    {
+      "model_id": "M9",
+      "gold_records": 6236,
+      "evaluated": 85,
+      "missing": 6151,
+      "exact_records": 0,
+      "exact_rate": 0.0,
+      "model_cost_bits": 0,
+      "data_cost_bits": 68596.0,
+      "exception_cost_bits": 49888.0,
+      "total_description_length_bits": 118484.0,
+      "residual_counts": {
+        "domain": 6236,
+        "family": 6236
+      }
+    },
+    {
+      "model_id": "M8",
+      "gold_records": 6236,
+      "evaluated": 85,
+      "missing": 6151,
+      "exact_records": 0,
+      "exact_rate": 0.0,
+      "model_cost_bits": 0,
+      "data_cost_bits": 68596.0,
+      "exception_cost_bits": 49888.0,
+      "total_description_length_bits": 118484.0,
+      "residual_counts": {
+        "domain": 6236,
+        "family": 6236
+      }
+    },
+    {
+      "model_id": "M7",
+      "gold_records": 6236,
+      "evaluated": 85,
+      "missing": 6151,
+      "exact_records": 0,
+      "exact_rate": 0.0,
+      "model_cost_bits": 0,
+      "data_cost_bits": 68596.0,
+      "exception_cost_bits": 49888.0,
+      "total_description_length_bits": 118484.0,
+      "residual_counts": {
+        "domain": 6236,
+        "family": 6236
+      }
+    },
+    {
+      "model_id": "M6",
+      "gold_records": 6236,
+      "evaluated": 85,
+      "missing": 6151,
+      "exact_records": 0,
+      "exact_rate": 0.0,
+      "model_cost_bits": 0,
+      "data_cost_bits": 68596.0,
+      "exception_cost_bits": 49888.0,
+      "total_description_length_bits": 118484.0,
+      "residual_counts": {
+        "domain": 6236,
+        "family": 6236
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "model_id": "M9",
+  "version": "structural-grammar-v0.5",
+  "description": "Full top-level family representation",
+  "transform": {
+    "speech_to_entry": false,
+    "address_to_entry": false,
+    "predicate_to_entry": false,
+    "assertion_to_entry": false,
+    "constraint_grouping": false
+  }
+}

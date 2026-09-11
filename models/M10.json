@@ -1,0 +1,44 @@
+{
+  "model_id": "M10",
+  "version": "structural-grammar-v0.6-REAL-QAC",
+  "description": "Real QAC POS as domain, ROOT as family - Clausal unification + Constraint grouping",
+  "transform": {
+    "speech_to_entry": true,
+    "address_to_entry": true,
+    "predicate_to_entry": true,
+    "assertion_to_entry": true,
+    "constraint_grouping": true
+  },
+  "domains": [
+    "ACC",
+    "CONJ",
+    "DEM",
+    "INC",
+    "INL",
+    "INTG",
+    "N",
+    "P",
+    "PN",
+    "PRON",
+    "REL",
+    "UNK",
+    "V"
+  ],
+  "families": [
+    "Alh",
+    "Smm",
+    "SrT",
+    "UNK",
+    "hdy",
+    "kwd",
+    "kyf",
+    "mlk",
+    "mvl",
+    "qwl",
+    "xdE",
+    "xtm"
+  ],
+  "domain_count": 13,
+  "family_count": 12,
+  "model_cost_bits": 92.0
+}

@@ -1,0 +1,12 @@
+{
+  "model_id": "M8",
+  "version": "structural-grammar-v0.5",
+  "description": "Speech demoted into Clausal Domain EntryType",
+  "transform": {
+    "speech_to_entry": true,
+    "address_to_entry": false,
+    "predicate_to_entry": false,
+    "assertion_to_entry": false,
+    "constraint_grouping": false
+  }
+}

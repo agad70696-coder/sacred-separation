@@ -1,0 +1,12 @@
+{
+  "model_id": "M6",
+  "version": "structural-grammar-v0.5",
+  "description": "Clausal unification plus Constraint grouping",
+  "transform": {
+    "speech_to_entry": true,
+    "address_to_entry": true,
+    "predicate_to_entry": true,
+    "assertion_to_entry": true,
+    "constraint_grouping": true
+  }
+}

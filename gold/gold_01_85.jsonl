@@ -1,85 +1,85 @@
-{"construction_id": "c001", "ayah": "1:1", "domain": "test_domain", "entry": "entry_1", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c002", "ayah": "1:2", "domain": "test_domain", "entry": "entry_2", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c003", "ayah": "1:3", "domain": "test_domain", "entry": "entry_3", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c004", "ayah": "1:4", "domain": "test_domain", "entry": "entry_4", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c005", "ayah": "1:5", "domain": "test_domain", "entry": "entry_5", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c006", "ayah": "1:6", "domain": "test_domain", "entry": "entry_6", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c007", "ayah": "1:7", "domain": "test_domain", "entry": "entry_7", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c008", "ayah": "1:8", "domain": "test_domain", "entry": "entry_8", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c009", "ayah": "1:9", "domain": "test_domain", "entry": "entry_9", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c010", "ayah": "1:10", "domain": "test_domain", "entry": "entry_10", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c011", "ayah": "1:11", "domain": "test_domain", "entry": "entry_11", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c012", "ayah": "1:12", "domain": "test_domain", "entry": "entry_12", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c013", "ayah": "1:13", "domain": "test_domain", "entry": "entry_13", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c014", "ayah": "1:14", "domain": "test_domain", "entry": "entry_14", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c015", "ayah": "1:15", "domain": "test_domain", "entry": "entry_15", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c016", "ayah": "1:16", "domain": "test_domain", "entry": "entry_16", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c017", "ayah": "1:17", "domain": "test_domain", "entry": "entry_17", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c018", "ayah": "1:18", "domain": "test_domain", "entry": "entry_18", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c019", "ayah": "1:19", "domain": "test_domain", "entry": "entry_19", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c020", "ayah": "1:20", "domain": "test_domain", "entry": "entry_20", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c021", "ayah": "1:21", "domain": "test_domain", "entry": "entry_21", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c022", "ayah": "1:22", "domain": "test_domain", "entry": "entry_22", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c023", "ayah": "1:23", "domain": "test_domain", "entry": "entry_23", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c024", "ayah": "1:24", "domain": "test_domain", "entry": "entry_24", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c025", "ayah": "1:25", "domain": "test_domain", "entry": "entry_25", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c026", "ayah": "1:26", "domain": "test_domain", "entry": "entry_26", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c027", "ayah": "1:27", "domain": "test_domain", "entry": "entry_27", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c028", "ayah": "1:28", "domain": "test_domain", "entry": "entry_28", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c029", "ayah": "1:29", "domain": "test_domain", "entry": "entry_29", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c030", "ayah": "1:30", "domain": "test_domain", "entry": "entry_30", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c031", "ayah": "1:31", "domain": "test_domain", "entry": "entry_31", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c032", "ayah": "1:32", "domain": "test_domain", "entry": "entry_32", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c033", "ayah": "1:33", "domain": "test_domain", "entry": "entry_33", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c034", "ayah": "1:34", "domain": "test_domain", "entry": "entry_34", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c035", "ayah": "1:35", "domain": "test_domain", "entry": "entry_35", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c036", "ayah": "1:36", "domain": "test_domain", "entry": "entry_36", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c037", "ayah": "1:37", "domain": "test_domain", "entry": "entry_37", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c038", "ayah": "1:38", "domain": "test_domain", "entry": "entry_38", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c039", "ayah": "1:39", "domain": "test_domain", "entry": "entry_39", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c040", "ayah": "1:40", "domain": "test_domain", "entry": "entry_40", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c041", "ayah": "1:41", "domain": "test_domain", "entry": "entry_41", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c042", "ayah": "1:42", "domain": "test_domain", "entry": "entry_42", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c043", "ayah": "1:43", "domain": "test_domain", "entry": "entry_43", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c044", "ayah": "1:44", "domain": "test_domain", "entry": "entry_44", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c045", "ayah": "1:45", "domain": "test_domain", "entry": "entry_45", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c046", "ayah": "1:46", "domain": "test_domain", "entry": "entry_46", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c047", "ayah": "1:47", "domain": "test_domain", "entry": "entry_47", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c048", "ayah": "1:48", "domain": "test_domain", "entry": "entry_48", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c049", "ayah": "1:49", "domain": "test_domain", "entry": "entry_49", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c050", "ayah": "1:50", "domain": "test_domain", "entry": "entry_50", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c051", "ayah": "1:51", "domain": "test_domain", "entry": "entry_51", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c052", "ayah": "1:52", "domain": "test_domain", "entry": "entry_52", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c053", "ayah": "1:53", "domain": "test_domain", "entry": "entry_53", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c054", "ayah": "1:54", "domain": "test_domain", "entry": "entry_54", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c055", "ayah": "1:55", "domain": "test_domain", "entry": "entry_55", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c056", "ayah": "1:56", "domain": "test_domain", "entry": "entry_56", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c057", "ayah": "1:57", "domain": "test_domain", "entry": "entry_57", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c058", "ayah": "1:58", "domain": "test_domain", "entry": "entry_58", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c059", "ayah": "1:59", "domain": "test_domain", "entry": "entry_59", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c060", "ayah": "1:60", "domain": "test_domain", "entry": "entry_60", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c061", "ayah": "1:61", "domain": "test_domain", "entry": "entry_61", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c062", "ayah": "1:62", "domain": "test_domain", "entry": "entry_62", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c063", "ayah": "1:63", "domain": "test_domain", "entry": "entry_63", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c064", "ayah": "1:64", "domain": "test_domain", "entry": "entry_64", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c065", "ayah": "1:65", "domain": "test_domain", "entry": "entry_65", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c066", "ayah": "1:66", "domain": "test_domain", "entry": "entry_66", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c067", "ayah": "1:67", "domain": "test_domain", "entry": "entry_67", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c068", "ayah": "1:68", "domain": "test_domain", "entry": "entry_68", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c069", "ayah": "1:69", "domain": "test_domain", "entry": "entry_69", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c070", "ayah": "1:70", "domain": "test_domain", "entry": "entry_70", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c071", "ayah": "1:71", "domain": "test_domain", "entry": "entry_71", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c072", "ayah": "1:72", "domain": "test_domain", "entry": "entry_72", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c073", "ayah": "1:73", "domain": "test_domain", "entry": "entry_73", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c074", "ayah": "1:74", "domain": "test_domain", "entry": "entry_74", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c075", "ayah": "1:75", "domain": "test_domain", "entry": "entry_75", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c076", "ayah": "1:76", "domain": "test_domain", "entry": "entry_76", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c077", "ayah": "1:77", "domain": "test_domain", "entry": "entry_77", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c078", "ayah": "1:78", "domain": "test_domain", "entry": "entry_78", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c079", "ayah": "1:79", "domain": "test_domain", "entry": "entry_79", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c080", "ayah": "1:80", "domain": "test_domain", "entry": "entry_80", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c081", "ayah": "1:81", "domain": "test_domain", "entry": "entry_81", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c082", "ayah": "1:82", "domain": "test_domain", "entry": "entry_82", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c083", "ayah": "1:83", "domain": "test_domain", "entry": "entry_83", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c084", "ayah": "1:84", "domain": "test_domain", "entry": "entry_84", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
-{"construction_id": "c085", "ayah": "1:85", "domain": "test_domain", "entry": "entry_85", "family": "family_01", "parent_id": "", "slot": 0, "span": [0, 1]}
+{"construction_id": "c001", "ayah": "1:1", "domain": "UNK", "entry": "bi", "family": "UNK", "parent_id": null, "slot": 0, "span": "1:1:1-7", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c002", "ayah": "1:2", "domain": "UNK", "entry": "{lo", "family": "UNK", "parent_id": null, "slot": 0, "span": "1:2:1-7", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c003", "ayah": "1:3", "domain": "UNK", "entry": "{l", "family": "UNK", "parent_id": null, "slot": 0, "span": "1:3:1-4", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c004", "ayah": "1:4", "domain": "N", "entry": "ma`liki", "family": "mlk", "parent_id": null, "slot": 0, "span": "1:4:1-4", "lemma": "ma`lik", "qac_features": "POS:N|ROOT:mlk"}
+{"construction_id": "c005", "ayah": "1:5", "domain": "PRON", "entry": "<iy~aAka", "family": "UNK", "parent_id": null, "slot": 0, "span": "1:5:1-5", "lemma": "<iy~aA", "qac_features": "POS:PRON|ROOT:UNK"}
+{"construction_id": "c006", "ayah": "1:6", "domain": "V", "entry": "{hodi", "family": "hdy", "parent_id": null, "slot": 0, "span": "1:6:1-6", "lemma": "hadaY", "qac_features": "POS:V|ROOT:hdy"}
+{"construction_id": "c007", "ayah": "1:7", "domain": "N", "entry": "Sira`Ta", "family": "SrT", "parent_id": null, "slot": 0, "span": "1:7:1-15", "lemma": "Sira`T", "qac_features": "POS:N|ROOT:SrT"}
+{"construction_id": "c008", "ayah": "2:1", "domain": "INL", "entry": "Al^m^", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:1:1-1", "lemma": "", "qac_features": "POS:INL|ROOT:UNK"}
+{"construction_id": "c009", "ayah": "2:2", "domain": "DEM", "entry": "*a`lika", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:2:1-11", "lemma": "*a`lik", "qac_features": "POS:DEM|ROOT:UNK"}
+{"construction_id": "c010", "ayah": "2:3", "domain": "REL", "entry": "{l~a*iyna", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:3:1-19", "lemma": "{l~a*iY", "qac_features": "POS:REL|ROOT:UNK"}
+{"construction_id": "c011", "ayah": "2:4", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:4:1-22", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c012", "ayah": "2:5", "domain": "DEM", "entry": ">uw@la`^}ika", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:5:1-11", "lemma": ">uwla`^}ik", "qac_features": "POS:DEM|ROOT:UNK"}
+{"construction_id": "c013", "ayah": "2:6", "domain": "ACC", "entry": "<in~a", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:6:1-18", "lemma": "<in~", "qac_features": "POS:ACC|ROOT:UNK"}
+{"construction_id": "c014", "ayah": "2:7", "domain": "V", "entry": "xatama", "family": "xtm", "parent_id": null, "slot": 0, "span": "2:7:1-19", "lemma": "xatama", "qac_features": "POS:V|ROOT:xtm"}
+{"construction_id": "c015", "ayah": "2:8", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:8:1-21", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c016", "ayah": "2:9", "domain": "V", "entry": "yuxa`diEu", "family": "xdE", "parent_id": null, "slot": 0, "span": "2:9:1-18", "lemma": "yuxa`diEu", "qac_features": "POS:V|ROOT:xdE"}
+{"construction_id": "c017", "ayah": "2:10", "domain": "P", "entry": "fiY", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:10:1-20", "lemma": "fiY", "qac_features": "POS:P|ROOT:UNK"}
+{"construction_id": "c018", "ayah": "2:11", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:11:1-17", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c019", "ayah": "2:12", "domain": "INC", "entry": ">alaA^", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:12:1-11", "lemma": ">alaA^", "qac_features": "POS:INC|ROOT:UNK"}
+{"construction_id": "c020", "ayah": "2:13", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:13:1-32", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c021", "ayah": "2:14", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:14:1-28", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c022", "ayah": "2:15", "domain": "PN", "entry": "{ll~ahu", "family": "Alh", "parent_id": null, "slot": 0, "span": "2:15:1-12", "lemma": "{ll~ah", "qac_features": "POS:PN|ROOT:Alh"}
+{"construction_id": "c023", "ayah": "2:16", "domain": "DEM", "entry": ">uw@la`^}ika", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:16:1-19", "lemma": ">uwla`^}ik", "qac_features": "POS:DEM|ROOT:UNK"}
+{"construction_id": "c024", "ayah": "2:17", "domain": "N", "entry": "mavalu", "family": "mvl", "parent_id": null, "slot": 0, "span": "2:17:1-26", "lemma": "maval", "qac_features": "POS:N|ROOT:mvl"}
+{"construction_id": "c025", "ayah": "2:18", "domain": "N", "entry": "Sum~N[", "family": "Smm", "parent_id": null, "slot": 0, "span": "2:18:1-8", "lemma": ">aSam~", "qac_features": "POS:N|ROOT:Smm"}
+{"construction_id": "c026", "ayah": "2:19", "domain": "CONJ", "entry": ">awo", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:19:1-32", "lemma": ">aw", "qac_features": "POS:CONJ|ROOT:UNK"}
+{"construction_id": "c027", "ayah": "2:20", "domain": "V", "entry": "yakaAdu", "family": "kwd", "parent_id": null, "slot": 0, "span": "2:20:1-39", "lemma": "kaAda", "qac_features": "POS:V|ROOT:kwd"}
+{"construction_id": "c028", "ayah": "2:21", "domain": "UNK", "entry": "ya`^", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:21:1-20", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c029", "ayah": "2:22", "domain": "REL", "entry": "{l~a*iY", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:22:1-38", "lemma": "{l~a*iY", "qac_features": "POS:REL|ROOT:UNK"}
+{"construction_id": "c030", "ayah": "2:23", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:23:1-33", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c031", "ayah": "2:24", "domain": "UNK", "entry": "fa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:24:1-26", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c032", "ayah": "2:25", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:25:1-54", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c033", "ayah": "2:26", "domain": "ACC", "entry": "<in~a", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:26:1-59", "lemma": "<in~", "qac_features": "POS:ACC|ROOT:UNK"}
+{"construction_id": "c034", "ayah": "2:27", "domain": "REL", "entry": "{l~a*iyna", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:27:1-29", "lemma": "{l~a*iY", "qac_features": "POS:REL|ROOT:UNK"}
+{"construction_id": "c035", "ayah": "2:28", "domain": "INTG", "entry": "kayofa", "family": "kyf", "parent_id": null, "slot": 0, "span": "2:28:1-23", "lemma": "kayof", "qac_features": "POS:INTG|ROOT:kyf"}
+{"construction_id": "c036", "ayah": "2:29", "domain": "PRON", "entry": "huwa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:29:1-26", "lemma": "", "qac_features": "POS:PRON|ROOT:UNK"}
+{"construction_id": "c037", "ayah": "2:30", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:30:1-47", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c038", "ayah": "2:31", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:31:1-25", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c039", "ayah": "2:32", "domain": "V", "entry": "qaAlu", "family": "qwl", "parent_id": null, "slot": 0, "span": "2:32:1-20", "lemma": "qaAla", "qac_features": "POS:V|ROOT:qwl"}
+{"construction_id": "c040", "ayah": "2:33", "domain": "V", "entry": "qaAla", "family": "qwl", "parent_id": null, "slot": 0, "span": "2:33:1-41", "lemma": "qaAla", "qac_features": "POS:V|ROOT:qwl"}
+{"construction_id": "c041", "ayah": "2:34", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:34:1-24", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c042", "ayah": "2:35", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:35:1-34", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c043", "ayah": "2:36", "domain": "UNK", "entry": "fa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:36:1-37", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c044", "ayah": "2:37", "domain": "UNK", "entry": "fa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:37:1-18", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c045", "ayah": "2:38", "domain": "V", "entry": "qulo", "family": "qwl", "parent_id": null, "slot": 0, "span": "2:38:1-30", "lemma": "qaAla", "qac_features": "POS:V|ROOT:qwl"}
+{"construction_id": "c046", "ayah": "2:39", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:39:1-18", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c047", "ayah": "2:40", "domain": "UNK", "entry": "ya`", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:40:1-28", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c048", "ayah": "2:41", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:41:1-35", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c049", "ayah": "2:42", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:42:1-18", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c050", "ayah": "2:43", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:43:1-16", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c051", "ayah": "2:44", "domain": "UNK", "entry": ">a", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:44:1-24", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c052", "ayah": "2:45", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:45:1-18", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c053", "ayah": "2:46", "domain": "REL", "entry": "{l~a*iyna", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:46:1-14", "lemma": "{l~a*iY", "qac_features": "POS:REL|ROOT:UNK"}
+{"construction_id": "c054", "ayah": "2:47", "domain": "UNK", "entry": "ya`", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:47:1-21", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c055", "ayah": "2:48", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:48:1-27", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c056", "ayah": "2:49", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:49:1-31", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c057", "ayah": "2:50", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:50:1-21", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c058", "ayah": "2:51", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:51:1-18", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c059", "ayah": "2:52", "domain": "CONJ", "entry": "vum~a", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:52:1-12", "lemma": "vum~", "qac_features": "POS:CONJ|ROOT:UNK"}
+{"construction_id": "c060", "ayah": "2:53", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:53:1-14", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c061", "ayah": "2:54", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:54:1-50", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c062", "ayah": "2:55", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:55:1-23", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c063", "ayah": "2:56", "domain": "CONJ", "entry": "vum~a", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:56:1-12", "lemma": "vum~", "qac_features": "POS:CONJ|ROOT:UNK"}
+{"construction_id": "c064", "ayah": "2:57", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:57:1-38", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c065", "ayah": "2:58", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:58:1-38", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c066", "ayah": "2:59", "domain": "UNK", "entry": "fa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:59:1-28", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c067", "ayah": "2:60", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:60:1-45", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c068", "ayah": "2:61", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:61:1-107", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c069", "ayah": "2:62", "domain": "ACC", "entry": "<in~a", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:62:1-44", "lemma": "<in~", "qac_features": "POS:ACC|ROOT:UNK"}
+{"construction_id": "c070", "ayah": "2:63", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:63:1-31", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c071", "ayah": "2:64", "domain": "CONJ", "entry": "vum~a", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:64:1-21", "lemma": "vum~", "qac_features": "POS:CONJ|ROOT:UNK"}
+{"construction_id": "c072", "ayah": "2:65", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:65:1-22", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c073", "ayah": "2:66", "domain": "UNK", "entry": "fa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:66:1-19", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c074", "ayah": "2:67", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:67:1-30", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c075", "ayah": "2:68", "domain": "V", "entry": "qaAlu", "family": "qwl", "parent_id": null, "slot": 0, "span": "2:68:1-33", "lemma": "qaAla", "qac_features": "POS:V|ROOT:qwl"}
+{"construction_id": "c076", "ayah": "2:69", "domain": "V", "entry": "qaAlu", "family": "qwl", "parent_id": null, "slot": 0, "span": "2:69:1-27", "lemma": "qaAla", "qac_features": "POS:V|ROOT:qwl"}
+{"construction_id": "c077", "ayah": "2:70", "domain": "V", "entry": "qaAlu", "family": "qwl", "parent_id": null, "slot": 0, "span": "2:70:1-26", "lemma": "qaAla", "qac_features": "POS:V|ROOT:qwl"}
+{"construction_id": "c078", "ayah": "2:71", "domain": "V", "entry": "qaAla", "family": "qwl", "parent_id": null, "slot": 0, "span": "2:71:1-41", "lemma": "qaAla", "qac_features": "POS:V|ROOT:qwl"}
+{"construction_id": "c079", "ayah": "2:72", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:72:1-18", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c080", "ayah": "2:73", "domain": "UNK", "entry": "fa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:73:1-24", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c081", "ayah": "2:74", "domain": "CONJ", "entry": "vum~a", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:74:1-59", "lemma": "vum~", "qac_features": "POS:CONJ|ROOT:UNK"}
+{"construction_id": "c082", "ayah": "2:75", "domain": "UNK", "entry": ">a", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:75:1-33", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c083", "ayah": "2:76", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:76:1-44", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c084", "ayah": "2:77", "domain": "UNK", "entry": ">a", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:77:1-15", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}
+{"construction_id": "c085", "ayah": "2:78", "domain": "UNK", "entry": "wa", "family": "UNK", "parent_id": null, "slot": 0, "span": "2:78:1-17", "lemma": "", "qac_features": "POS:UNK|ROOT:UNK"}

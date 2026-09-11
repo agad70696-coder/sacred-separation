@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Structural Grammar Gold Record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "construction_id",
+    "ayah",
+    "parent_id",
+    "family",
+    "domain",
+    "entry",
+    "slot",
+    "span"
+  ],
+  "properties": {
+    "construction_id": {
+      "type": "string",
+      "pattern": "^C[0-9]+$"
+    },
+    "ayah": {
+      "type": "string"
+    },
+    "parent_id": {
+      "type": ["string", "null"]
+    },
+    "family": {
+      "type": "string"
+    },
+    "domain": {
+      "type": "string"
+    },
+    "entry": {
+      "type": "string"
+    },
+    "slot": {
+      "type": ["string", "null"]
+    },
+    "span": {
+      "type": "string"
+    },
+    "expansion": {
+      "type": ["string", "null"]
+    },
+    "closure": {
+      "type": ["string", "null"]
+    },
+    "scope": {
+      "type": ["string", "null"]
+    },
+    "reference": {
+      "type": ["string", "null"]
+    },
+    "recurrence": {
+      "type": ["string", "null"]
+    },
+    "provenance": {
+      "type": ["object", "null"]
+    }
+  }
+}

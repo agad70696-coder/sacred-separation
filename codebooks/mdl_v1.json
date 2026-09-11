@@ -1,0 +1,49 @@
+{
+  "version": "mdl_v1",
+  "unit": "bits",
+  "deterministic": true,
+
+  "design_principle": {
+    "model_cost": "explicit symbols required by the grammar",
+    "data_cost": "residual information required to encode observations under the model",
+    "exception_cost": "explicit special-case encoding"
+  },
+
+  "costs": {
+    "domain_symbol": 3.0,
+    "family_symbol": 4.0,
+    "entry_symbol": 4.0,
+    "slot_symbol": 3.0,
+    "span_symbol": 2.0,
+    "transition_symbol": 3.0,
+
+    "parent_reference": 1.0,
+    "new_parent_reference": 2.0,
+
+    "residual_family": 6.0,
+    "residual_domain": 5.0,
+    "residual_entry": 5.0,
+    "residual_slot": 4.0,
+    "residual_span": 3.0,
+    "residual_parent": 3.0,
+
+    "exception": 8.0
+  },
+
+  "exception_policy": {
+    "allow": true,
+    "max_per_record": 10,
+    "all_exceptions_explicit": true
+  },
+
+  "selection_rule": {
+    "objective": "minimize_total_description_length",
+    "formula": "L(M) + L(D|M)",
+    "tie_break": [
+      "lower_data_cost",
+      "lower_exception_cost",
+      "lower_model_cost",
+      "lexicographic_model_id"
+    ]
+  }
+}

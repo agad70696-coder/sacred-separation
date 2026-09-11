@@ -1,0 +1,6 @@
+reports/engine.log
+reports/engine.pid
+reports/nohup.log
+__pycache__/
+*.pyc
+.pytest_cache/

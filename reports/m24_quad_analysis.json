@@ -1,0 +1,36 @@
+{
+  "m17": {
+    "total_unique": 1642,
+    "triliteral": 1602,
+    "quadriliteral": 40,
+    "quinqueliteral": 0,
+    "weak_waw": 0,
+    "weak_ya": 0,
+    "hamzated": 0,
+    "geminated": 153,
+    "avg_length": 3.024,
+    "triliteral_percent": 97.56
+  },
+  "quad_sample": [
+    "*b*b",
+    "Ebqr",
+    "Erjn",
+    "srdq",
+    "qTmr",
+    "kbkb",
+    "zmhr",
+    "hdhd",
+    "qmTr",
+    "SfSf",
+    "q$Er",
+    "dmdm",
+    "EsEs",
+    "$r*m",
+    "xrTm",
+    "HSHS",
+    "rfrf",
+    "drhm",
+    "DfdE"
+  ],
+  "count": 19
+}

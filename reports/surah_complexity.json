@@ -1,0 +1,802 @@
+{
+  "all": [
+    {
+      "surah": 110,
+      "words": 19,
+      "unique_roots": 15,
+      "unique_lemmas": 18,
+      "complexity_score": 173.68
+    },
+    {
+      "surah": 105,
+      "words": 23,
+      "unique_roots": 17,
+      "unique_lemmas": 21,
+      "complexity_score": 165.22
+    },
+    {
+      "surah": 95,
+      "words": 34,
+      "unique_roots": 22,
+      "unique_lemmas": 33,
+      "complexity_score": 161.76
+    },
+    {
+      "surah": 103,
+      "words": 14,
+      "unique_roots": 9,
+      "unique_lemmas": 13,
+      "complexity_score": 157.14
+    },
+    {
+      "surah": 106,
+      "words": 17,
+      "unique_roots": 11,
+      "unique_lemmas": 15,
+      "complexity_score": 152.94
+    },
+    {
+      "surah": 111,
+      "words": 23,
+      "unique_roots": 15,
+      "unique_lemmas": 20,
+      "complexity_score": 152.17
+    },
+    {
+      "surah": 108,
+      "words": 10,
+      "unique_roots": 7,
+      "unique_lemmas": 8,
+      "complexity_score": 150.0
+    },
+    {
+      "surah": 91,
+      "words": 54,
+      "unique_roots": 36,
+      "unique_lemmas": 44,
+      "complexity_score": 148.15
+    },
+    {
+      "surah": 1,
+      "words": 29,
+      "unique_roots": 18,
+      "unique_lemmas": 23,
+      "complexity_score": 141.38
+    },
+    {
+      "surah": 87,
+      "words": 72,
+      "unique_roots": 41,
+      "unique_lemmas": 60,
+      "complexity_score": 140.28
+    },
+    {
+      "surah": 104,
+      "words": 33,
+      "unique_roots": 19,
+      "unique_lemmas": 27,
+      "complexity_score": 139.39
+    },
+    {
+      "surah": 92,
+      "words": 71,
+      "unique_roots": 41,
+      "unique_lemmas": 56,
+      "complexity_score": 136.62
+    },
+    {
+      "surah": 100,
+      "words": 40,
+      "unique_roots": 23,
+      "unique_lemmas": 31,
+      "complexity_score": 135.0
+    },
+    {
+      "surah": 93,
+      "words": 40,
+      "unique_roots": 23,
+      "unique_lemmas": 30,
+      "complexity_score": 132.5
+    },
+    {
+      "surah": 90,
+      "words": 82,
+      "unique_roots": 45,
+      "unique_lemmas": 62,
+      "complexity_score": 130.49
+    },
+    {
+      "surah": 114,
+      "words": 20,
+      "unique_roots": 11,
+      "unique_lemmas": 15,
+      "complexity_score": 130.0
+    },
+    {
+      "surah": 94,
+      "words": 27,
+      "unique_roots": 14,
+      "unique_lemmas": 21,
+      "complexity_score": 129.63
+    },
+    {
+      "surah": 81,
+      "words": 104,
+      "unique_roots": 58,
+      "unique_lemmas": 76,
+      "complexity_score": 128.85
+    },
+    {
+      "surah": 80,
+      "words": 133,
+      "unique_roots": 70,
+      "unique_lemmas": 101,
+      "complexity_score": 128.57
+    },
+    {
+      "surah": 107,
+      "words": 25,
+      "unique_roots": 12,
+      "unique_lemmas": 20,
+      "complexity_score": 128.0
+    },
+    {
+      "surah": 78,
+      "words": 173,
+      "unique_roots": 100,
+      "unique_lemmas": 121,
+      "complexity_score": 127.75
+    },
+    {
+      "surah": 88,
+      "words": 92,
+      "unique_roots": 50,
+      "unique_lemmas": 67,
+      "complexity_score": 127.17
+    },
+    {
+      "surah": 97,
+      "words": 30,
+      "unique_roots": 16,
+      "unique_lemmas": 22,
+      "complexity_score": 126.67
+    },
+    {
+      "surah": 99,
+      "words": 36,
+      "unique_roots": 18,
+      "unique_lemmas": 27,
+      "complexity_score": 125.0
+    },
+    {
+      "surah": 86,
+      "words": 61,
+      "unique_roots": 33,
+      "unique_lemmas": 43,
+      "complexity_score": 124.59
+    },
+    {
+      "surah": 79,
+      "words": 179,
+      "unique_roots": 93,
+      "unique_lemmas": 126,
+      "complexity_score": 122.35
+    },
+    {
+      "surah": 84,
+      "words": 107,
+      "unique_roots": 52,
+      "unique_lemmas": 75,
+      "complexity_score": 118.69
+    },
+    {
+      "surah": 85,
+      "words": 109,
+      "unique_roots": 53,
+      "unique_lemmas": 76,
+      "complexity_score": 118.35
+    },
+    {
+      "surah": 113,
+      "words": 23,
+      "unique_roots": 11,
+      "unique_lemmas": 16,
+      "complexity_score": 117.39
+    },
+    {
+      "surah": 101,
+      "words": 36,
+      "unique_roots": 19,
+      "unique_lemmas": 23,
+      "complexity_score": 116.67
+    },
+    {
+      "surah": 89,
+      "words": 137,
+      "unique_roots": 64,
+      "unique_lemmas": 93,
+      "complexity_score": 114.6
+    },
+    {
+      "surah": 70,
+      "words": 217,
+      "unique_roots": 105,
+      "unique_lemmas": 141,
+      "complexity_score": 113.36
+    },
+    {
+      "surah": 82,
+      "words": 80,
+      "unique_roots": 37,
+      "unique_lemmas": 53,
+      "complexity_score": 112.5
+    },
+    {
+      "surah": 96,
+      "words": 72,
+      "unique_roots": 32,
+      "unique_lemmas": 49,
+      "complexity_score": 112.5
+    },
+    {
+      "surah": 73,
+      "words": 199,
+      "unique_roots": 91,
+      "unique_lemmas": 128,
+      "complexity_score": 110.05
+    },
+    {
+      "surah": 76,
+      "words": 243,
+      "unique_roots": 112,
+      "unique_lemmas": 154,
+      "complexity_score": 109.47
+    },
+    {
+      "surah": 102,
+      "words": 28,
+      "unique_roots": 11,
+      "unique_lemmas": 19,
+      "complexity_score": 107.14
+    },
+    {
+      "surah": 75,
+      "words": 164,
+      "unique_roots": 73,
+      "unique_lemmas": 102,
+      "complexity_score": 106.71
+    },
+    {
+      "surah": 98,
+      "words": 94,
+      "unique_roots": 42,
+      "unique_lemmas": 58,
+      "complexity_score": 106.38
+    },
+    {
+      "surah": 69,
+      "words": 258,
+      "unique_roots": 113,
+      "unique_lemmas": 156,
+      "complexity_score": 104.26
+    },
+    {
+      "surah": 74,
+      "words": 255,
+      "unique_roots": 109,
+      "unique_lemmas": 154,
+      "complexity_score": 103.14
+    },
+    {
+      "surah": 77,
+      "words": 181,
+      "unique_roots": 79,
+      "unique_lemmas": 107,
+      "complexity_score": 102.76
+    },
+    {
+      "surah": 62,
+      "words": 175,
+      "unique_roots": 76,
+      "unique_lemmas": 103,
+      "complexity_score": 102.29
+    },
+    {
+      "surah": 52,
+      "words": 312,
+      "unique_roots": 133,
+      "unique_lemmas": 181,
+      "complexity_score": 100.64
+    },
+    {
+      "surah": 112,
+      "words": 15,
+      "unique_roots": 7,
+      "unique_lemmas": 8,
+      "complexity_score": 100.0
+    },
+    {
+      "surah": 68,
+      "words": 300,
+      "unique_roots": 123,
+      "unique_lemmas": 170,
+      "complexity_score": 97.67
+    },
+    {
+      "surah": 63,
+      "words": 180,
+      "unique_roots": 73,
+      "unique_lemmas": 102,
+      "complexity_score": 97.22
+    },
+    {
+      "surah": 64,
+      "words": 241,
+      "unique_roots": 96,
+      "unique_lemmas": 137,
+      "complexity_score": 96.68
+    },
+    {
+      "surah": 83,
+      "words": 169,
+      "unique_roots": 68,
+      "unique_lemmas": 95,
+      "complexity_score": 96.45
+    },
+    {
+      "surah": 66,
+      "words": 249,
+      "unique_roots": 96,
+      "unique_lemmas": 143,
+      "complexity_score": 95.98
+    },
+    {
+      "surah": 54,
+      "words": 342,
+      "unique_roots": 140,
+      "unique_lemmas": 187,
+      "complexity_score": 95.61
+    },
+    {
+      "surah": 71,
+      "words": 226,
+      "unique_roots": 87,
+      "unique_lemmas": 127,
+      "complexity_score": 94.69
+    },
+    {
+      "surah": 50,
+      "words": 373,
+      "unique_roots": 147,
+      "unique_lemmas": 206,
+      "complexity_score": 94.64
+    },
+    {
+      "surah": 51,
+      "words": 360,
+      "unique_roots": 141,
+      "unique_lemmas": 193,
+      "complexity_score": 92.78
+    },
+    {
+      "surah": 61,
+      "words": 221,
+      "unique_roots": 81,
+      "unique_lemmas": 123,
+      "complexity_score": 92.31
+    },
+    {
+      "surah": 56,
+      "words": 379,
+      "unique_roots": 141,
+      "unique_lemmas": 205,
+      "complexity_score": 91.29
+    },
+    {
+      "surah": 67,
+      "words": 333,
+      "unique_roots": 127,
+      "unique_lemmas": 170,
+      "complexity_score": 89.19
+    },
+    {
+      "surah": 44,
+      "words": 346,
+      "unique_roots": 122,
+      "unique_lemmas": 182,
+      "complexity_score": 87.86
+    },
+    {
+      "surah": 32,
+      "words": 372,
+      "unique_roots": 131,
+      "unique_lemmas": 192,
+      "complexity_score": 86.83
+    },
+    {
+      "surah": 53,
+      "words": 360,
+      "unique_roots": 120,
+      "unique_lemmas": 187,
+      "complexity_score": 85.28
+    },
+    {
+      "surah": 65,
+      "words": 287,
+      "unique_roots": 97,
+      "unique_lemmas": 147,
+      "complexity_score": 85.02
+    },
+    {
+      "surah": 72,
+      "words": 285,
+      "unique_roots": 100,
+      "unique_lemmas": 137,
+      "complexity_score": 83.16
+    },
+    {
+      "surah": 59,
+      "words": 445,
+      "unique_roots": 157,
+      "unique_lemmas": 212,
+      "complexity_score": 82.92
+    },
+    {
+      "surah": 31,
+      "words": 546,
+      "unique_roots": 184,
+      "unique_lemmas": 247,
+      "complexity_score": 78.94
+    },
+    {
+      "surah": 49,
+      "words": 347,
+      "unique_roots": 112,
+      "unique_lemmas": 159,
+      "complexity_score": 78.1
+    },
+    {
+      "surah": 38,
+      "words": 733,
+      "unique_roots": 235,
+      "unique_lemmas": 337,
+      "complexity_score": 78.04
+    },
+    {
+      "surah": 48,
+      "words": 560,
+      "unique_roots": 176,
+      "unique_lemmas": 252,
+      "complexity_score": 76.43
+    },
+    {
+      "surah": 60,
+      "words": 348,
+      "unique_roots": 107,
+      "unique_lemmas": 157,
+      "complexity_score": 75.86
+    },
+    {
+      "surah": 15,
+      "words": 655,
+      "unique_roots": 201,
+      "unique_lemmas": 288,
+      "complexity_score": 74.66
+    },
+    {
+      "surah": 47,
+      "words": 539,
+      "unique_roots": 164,
+      "unique_lemmas": 238,
+      "complexity_score": 74.58
+    },
+    {
+      "surah": 57,
+      "words": 574,
+      "unique_roots": 175,
+      "unique_lemmas": 248,
+      "complexity_score": 73.69
+    },
+    {
+      "surah": 35,
+      "words": 775,
+      "unique_roots": 230,
+      "unique_lemmas": 334,
+      "complexity_score": 72.77
+    },
+    {
+      "surah": 58,
+      "words": 472,
+      "unique_roots": 143,
+      "unique_lemmas": 197,
+      "complexity_score": 72.03
+    },
+    {
+      "surah": 46,
+      "words": 643,
+      "unique_roots": 177,
+      "unique_lemmas": 274,
+      "complexity_score": 70.14
+    },
+    {
+      "surah": 55,
+      "words": 351,
+      "unique_roots": 105,
+      "unique_lemmas": 141,
+      "complexity_score": 70.09
+    },
+    {
+      "surah": 36,
+      "words": 725,
+      "unique_roots": 211,
+      "unique_lemmas": 297,
+      "complexity_score": 70.07
+    },
+    {
+      "surah": 37,
+      "words": 860,
+      "unique_roots": 240,
+      "unique_lemmas": 359,
+      "complexity_score": 69.65
+    },
+    {
+      "surah": 25,
+      "words": 893,
+      "unique_roots": 250,
+      "unique_lemmas": 371,
+      "complexity_score": 69.54
+    },
+    {
+      "surah": 13,
+      "words": 853,
+      "unique_roots": 244,
+      "unique_lemmas": 347,
+      "complexity_score": 69.28
+    },
+    {
+      "surah": 45,
+      "words": 488,
+      "unique_roots": 132,
+      "unique_lemmas": 200,
+      "complexity_score": 68.03
+    },
+    {
+      "surah": 14,
+      "words": 830,
+      "unique_roots": 225,
+      "unique_lemmas": 333,
+      "complexity_score": 67.23
+    },
+    {
+      "surah": 43,
+      "words": 830,
+      "unique_roots": 225,
+      "unique_lemmas": 333,
+      "complexity_score": 67.23
+    },
+    {
+      "surah": 41,
+      "words": 794,
+      "unique_roots": 203,
+      "unique_lemmas": 310,
+      "complexity_score": 64.61
+    },
+    {
+      "surah": 22,
+      "words": 1274,
+      "unique_roots": 328,
+      "unique_lemmas": 485,
+      "complexity_score": 63.81
+    },
+    {
+      "surah": 23,
+      "words": 1050,
+      "unique_roots": 271,
+      "unique_lemmas": 391,
+      "complexity_score": 63.05
+    },
+    {
+      "surah": 34,
+      "words": 883,
+      "unique_roots": 221,
+      "unique_lemmas": 329,
+      "complexity_score": 62.29
+    },
+    {
+      "surah": 19,
+      "words": 961,
+      "unique_roots": 239,
+      "unique_lemmas": 359,
+      "complexity_score": 62.23
+    },
+    {
+      "surah": 21,
+      "words": 1169,
+      "unique_roots": 284,
+      "unique_lemmas": 422,
+      "complexity_score": 60.39
+    },
+    {
+      "surah": 20,
+      "words": 1335,
+      "unique_roots": 324,
+      "unique_lemmas": 482,
+      "complexity_score": 60.37
+    },
+    {
+      "surah": 30,
+      "words": 817,
+      "unique_roots": 195,
+      "unique_lemmas": 289,
+      "complexity_score": 59.24
+    },
+    {
+      "surah": 42,
+      "words": 860,
+      "unique_roots": 206,
+      "unique_lemmas": 303,
+      "complexity_score": 59.19
+    },
+    {
+      "surah": 27,
+      "words": 1151,
+      "unique_roots": 265,
+      "unique_lemmas": 413,
+      "complexity_score": 58.91
+    },
+    {
+      "surah": 18,
+      "words": 1579,
+      "unique_roots": 369,
+      "unique_lemmas": 551,
+      "complexity_score": 58.26
+    },
+    {
+      "surah": 29,
+      "words": 976,
+      "unique_roots": 223,
+      "unique_lemmas": 335,
+      "complexity_score": 57.17
+    },
+    {
+      "surah": 33,
+      "words": 1287,
+      "unique_roots": 282,
+      "unique_lemmas": 453,
+      "complexity_score": 57.11
+    },
+    {
+      "surah": 17,
+      "words": 1556,
+      "unique_roots": 342,
+      "unique_lemmas": 532,
+      "complexity_score": 56.17
+    },
+    {
+      "surah": 39,
+      "words": 1172,
+      "unique_roots": 246,
+      "unique_lemmas": 392,
+      "complexity_score": 54.44
+    },
+    {
+      "surah": 8,
+      "words": 1233,
+      "unique_roots": 266,
+      "unique_lemmas": 399,
+      "complexity_score": 53.93
+    },
+    {
+      "surah": 40,
+      "words": 1219,
+      "unique_roots": 257,
+      "unique_lemmas": 397,
+      "complexity_score": 53.65
+    },
+    {
+      "surah": 28,
+      "words": 1430,
+      "unique_roots": 296,
+      "unique_lemmas": 467,
+      "complexity_score": 53.36
+    },
+    {
+      "surah": 24,
+      "words": 1316,
+      "unique_roots": 287,
+      "unique_lemmas": 415,
+      "complexity_score": 53.34
+    },
+    {
+      "surah": 26,
+      "words": 1318,
+      "unique_roots": 265,
+      "unique_lemmas": 409,
+      "complexity_score": 51.14
+    },
+    {
+      "surah": 16,
+      "words": 1844,
+      "unique_roots": 358,
+      "unique_lemmas": 551,
+      "complexity_score": 49.3
+    },
+    {
+      "surah": 12,
+      "words": 1777,
+      "unique_roots": 336,
+      "unique_lemmas": 511,
+      "complexity_score": 47.66
+    },
+    {
+      "surah": 11,
+      "words": 1917,
+      "unique_roots": 348,
+      "unique_lemmas": 553,
+      "complexity_score": 47.0
+    },
+    {
+      "surah": 109,
+      "words": 26,
+      "unique_roots": 4,
+      "unique_lemmas": 8,
+      "complexity_score": 46.15
+    },
+    {
+      "surah": 10,
+      "words": 1833,
+      "unique_roots": 290,
+      "unique_lemmas": 485,
+      "complexity_score": 42.28
+    },
+    {
+      "surah": 9,
+      "words": 2498,
+      "unique_roots": 366,
+      "unique_lemmas": 637,
+      "complexity_score": 40.15
+    },
+    {
+      "surah": 5,
+      "words": 2804,
+      "unique_roots": 422,
+      "unique_lemmas": 684,
+      "complexity_score": 39.44
+    },
+    {
+      "surah": 7,
+      "words": 3320,
+      "unique_roots": 477,
+      "unique_lemmas": 818,
+      "complexity_score": 39.01
+    },
+    {
+      "surah": 6,
+      "words": 3050,
+      "unique_roots": 421,
+      "unique_lemmas": 724,
+      "complexity_score": 37.54
+    },
+    {
+      "surah": 3,
+      "words": 3481,
+      "unique_roots": 439,
+      "unique_lemmas": 760,
+      "complexity_score": 34.44
+    },
+    {
+      "surah": 4,
+      "words": 3747,
+      "unique_roots": 462,
+      "unique_lemmas": 809,
+      "complexity_score": 33.92
+    },
+    {
+      "surah": 2,
+      "words": 6116,
+      "unique_roots": 585,
+      "unique_lemmas": 1136,
+      "complexity_score": 28.14
+    }
+  ]
+}

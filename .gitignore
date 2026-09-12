@@ -6,3 +6,10 @@ __pycache__/
 .pytest_cache/
 archive/
 *.log
+data/arb-vd/
+data/arb-vd_usfm.zip
+data/*.zip
+__pycache__/
+*.pyc
+extract_bible.py
+

@@ -4,3 +4,9 @@
 nohup.log
 engine.log
 engine.pid
+archive/
+data/
+extract_bible.py
+scripts/
+reports/dashboard.html
+reports/m22_v6_new_discoveries.json

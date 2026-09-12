@@ -1,0 +1,556 @@
+nohup: ignoring input
+[2026-09-12 02:31:17] === ENGINE V5 DEEP START ===
+[2026-09-12 02:31:17] ===== CYCLE 1 START V5 DEEP =====
+[2026-09-12 02:31:20] GOLD loaded 77429 words
+[2026-09-12 02:31:20] GOLD verify 77429 - PASS
+[2026-09-12 02:31:20] M14 114 surahs top 2=7.8763
+[2026-09-12 02:31:20] M16 top Alh=2851 unique=1642
+[2026-09-12 02:31:20] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 02:31:21] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 02:31:21] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 02:31:23] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 02:31:23] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 02:31:23] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 02:31:23] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 02:31:28] Git pushed AUTO V5-DEEP 2026-09-12 02:31:23 C1 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 02:31:28] ===== CYCLE 1 DONE V5 DEEP sleep 300s =====
+[2026-09-12 02:36:28] ===== CYCLE 2 START V5 DEEP =====
+[2026-09-12 02:36:28] GOLD verify 77429 - PASS
+[2026-09-12 02:36:28] M14 114 surahs top 2=7.8763
+[2026-09-12 02:36:29] M16 top Alh=2851 unique=1642
+[2026-09-12 02:36:29] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 02:36:29] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 02:36:29] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 02:36:31] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 02:36:32] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 02:36:32] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 02:36:32] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 02:36:35] Git pushed AUTO V5-DEEP 2026-09-12 02:36:32 C2 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 02:36:35] ===== CYCLE 2 DONE V5 DEEP sleep 300s =====
+[2026-09-12 02:41:35] ===== CYCLE 3 START V5 DEEP =====
+[2026-09-12 02:41:35] GOLD verify 77429 - PASS
+[2026-09-12 02:41:36] M14 114 surahs top 2=7.8763
+[2026-09-12 02:41:36] M16 top Alh=2851 unique=1642
+[2026-09-12 02:41:36] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 02:41:37] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 02:41:37] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 02:41:39] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 02:41:40] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 02:41:40] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 02:41:40] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 02:41:44] Git pushed AUTO V5-DEEP 2026-09-12 02:41:40 C3 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 02:41:44] ===== CYCLE 3 DONE V5 DEEP sleep 300s =====
+[2026-09-12 02:46:44] ===== CYCLE 4 START V5 DEEP =====
+[2026-09-12 02:46:44] GOLD verify 77429 - PASS
+[2026-09-12 02:46:44] M14 114 surahs top 2=7.8763
+[2026-09-12 02:46:44] M16 top Alh=2851 unique=1642
+[2026-09-12 02:46:44] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 02:46:45] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 02:46:45] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 02:46:47] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 02:46:47] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 02:46:47] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 02:46:47] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 02:46:51] Git pushed AUTO V5-DEEP 2026-09-12 02:46:48 C4 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 02:46:51] ===== CYCLE 4 DONE V5 DEEP sleep 300s =====
+[2026-09-12 02:51:52] ===== CYCLE 5 START V5 DEEP =====
+[2026-09-12 02:51:52] GOLD verify 77429 - PASS
+[2026-09-12 02:51:52] M14 114 surahs top 2=7.8763
+[2026-09-12 02:51:52] M16 top Alh=2851 unique=1642
+[2026-09-12 02:51:52] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 02:51:53] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 02:51:53] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 02:51:56] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 02:51:56] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 02:51:56] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 02:51:56] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 02:52:02] Git push fail fatal: unable to access 'https://github.com/agad70696-coder/sacred-separation.git/': Could not resolve host: github.com
+[2026-09-12 02:52:02] ===== CYCLE 5 DONE V5 DEEP sleep 300s =====
+[2026-09-12 02:57:03] ===== CYCLE 6 START V5 DEEP =====
+[2026-09-12 02:57:03] GOLD verify 77429 - PASS
+[2026-09-12 02:57:03] M14 114 surahs top 2=7.8763
+[2026-09-12 02:57:03] M16 top Alh=2851 unique=1642
+[2026-09-12 02:57:03] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 02:57:04] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 02:57:04] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 02:57:06] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 02:57:07] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 02:57:07] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 02:57:07] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 02:57:11] Git pushed AUTO V5-DEEP 2026-09-12 02:57:07 C6 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 02:57:11] ===== CYCLE 6 DONE V5 DEEP sleep 300s =====
+[2026-09-12 03:02:11] ===== CYCLE 7 START V5 DEEP =====
+[2026-09-12 03:02:11] GOLD verify 77429 - PASS
+[2026-09-12 03:02:12] M14 114 surahs top 2=7.8763
+[2026-09-12 03:02:12] M16 top Alh=2851 unique=1642
+[2026-09-12 03:02:12] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 03:02:13] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 03:02:13] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 03:02:15] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 03:02:15] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 03:02:15] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 03:02:15] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 03:02:20] Git pushed AUTO V5-DEEP 2026-09-12 03:02:15 C7 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 03:02:20] ===== CYCLE 7 DONE V5 DEEP sleep 300s =====
+[2026-09-12 03:07:20] ===== CYCLE 8 START V5 DEEP =====
+[2026-09-12 03:07:20] GOLD verify 77429 - PASS
+[2026-09-12 03:07:21] M14 114 surahs top 2=7.8763
+[2026-09-12 03:07:21] M16 top Alh=2851 unique=1642
+[2026-09-12 03:07:21] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 03:07:21] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 03:07:21] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 03:07:23] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 03:07:24] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 03:07:24] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 03:07:24] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 03:07:28] Git pushed AUTO V5-DEEP 2026-09-12 03:07:24 C8 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 03:07:28] ===== CYCLE 8 DONE V5 DEEP sleep 300s =====
+[2026-09-12 03:12:28] ===== CYCLE 9 START V5 DEEP =====
+[2026-09-12 03:12:28] GOLD verify 77429 - PASS
+[2026-09-12 03:12:29] M14 114 surahs top 2=7.8763
+[2026-09-12 03:12:29] M16 top Alh=2851 unique=1642
+[2026-09-12 03:12:29] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 03:12:30] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 03:12:30] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 03:12:32] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 03:12:33] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 03:12:33] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 03:12:33] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 03:13:03] Git push fail Command 'git push' timed out after 30 seconds
+[2026-09-12 03:13:03] ===== CYCLE 9 DONE V5 DEEP sleep 300s =====
+[2026-09-12 03:18:03] ===== CYCLE 10 START V5 DEEP =====
+[2026-09-12 03:18:03] GOLD verify 77429 - PASS
+[2026-09-12 03:18:04] M14 114 surahs top 2=7.8763
+[2026-09-12 03:18:04] M16 top Alh=2851 unique=1642
+[2026-09-12 03:18:04] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 03:18:05] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 03:18:05] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 03:18:07] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 03:18:07] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 03:18:07] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 03:18:07] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 03:18:11] Git pushed AUTO V5-DEEP 2026-09-12 03:18:07 C10 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 03:18:11] ===== CYCLE 10 DONE V5 DEEP sleep 300s =====
+[2026-09-12 03:23:11] ===== CYCLE 11 START V5 DEEP =====
+[2026-09-12 03:23:11] GOLD verify 77429 - PASS
+[2026-09-12 03:23:12] M14 114 surahs top 2=7.8763
+[2026-09-12 03:23:12] M16 top Alh=2851 unique=1642
+[2026-09-12 03:23:12] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 03:23:12] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 03:23:12] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 03:23:15] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 03:23:15] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 03:23:15] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 03:23:15] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 03:23:18] Git pushed AUTO V5-DEEP 2026-09-12 03:23:15 C11 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 03:23:18] ===== CYCLE 11 DONE V5 DEEP sleep 300s =====
+[2026-09-12 03:28:18] ===== CYCLE 12 START V5 DEEP =====
+[2026-09-12 03:28:18] GOLD verify 77429 - PASS
+[2026-09-12 03:28:18] M14 114 surahs top 2=7.8763
+[2026-09-12 03:28:19] M16 top Alh=2851 unique=1642
+[2026-09-12 03:28:19] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 03:28:19] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 03:28:19] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 03:28:22] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 03:28:22] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 03:28:22] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 03:28:22] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 03:28:26] Git pushed AUTO V5-DEEP 2026-09-12 03:28:22 C12 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 03:28:26] ===== CYCLE 12 DONE V5 DEEP sleep 300s =====
+[2026-09-12 03:33:26] ===== CYCLE 13 START V5 DEEP =====
+[2026-09-12 03:33:26] GOLD verify 77429 - PASS
+[2026-09-12 03:33:26] M14 114 surahs top 2=7.8763
+[2026-09-12 03:33:26] M16 top Alh=2851 unique=1642
+[2026-09-12 03:33:26] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 03:33:27] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 03:33:27] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 03:33:29] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 03:33:30] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 03:33:30] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 03:33:30] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 03:33:34] Git pushed AUTO V5-DEEP 2026-09-12 03:33:30 C13 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 03:33:34] ===== CYCLE 13 DONE V5 DEEP sleep 300s =====
+[2026-09-12 03:38:34] ===== CYCLE 14 START V5 DEEP =====
+[2026-09-12 03:38:34] GOLD verify 77429 - PASS
+[2026-09-12 03:38:35] M14 114 surahs top 2=7.8763
+[2026-09-12 03:38:35] M16 top Alh=2851 unique=1642
+[2026-09-12 03:38:35] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 03:38:35] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 03:38:35] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 03:38:38] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 03:38:38] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 03:38:38] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 03:38:38] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 03:38:43] Git pushed AUTO V5-DEEP 2026-09-12 03:38:38 C14 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 03:38:43] ===== CYCLE 14 DONE V5 DEEP sleep 300s =====
+[2026-09-12 03:43:43] ===== CYCLE 15 START V5 DEEP =====
+[2026-09-12 03:43:43] GOLD verify 77429 - PASS
+[2026-09-12 03:43:43] M14 114 surahs top 2=7.8763
+[2026-09-12 03:43:43] M16 top Alh=2851 unique=1642
+[2026-09-12 03:43:43] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 03:43:44] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 03:43:44] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 03:43:46] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 03:43:47] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 03:43:47] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 03:43:47] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 03:43:50] Git pushed AUTO V5-DEEP 2026-09-12 03:43:47 C15 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 03:43:50] ===== CYCLE 15 DONE V5 DEEP sleep 300s =====
+[2026-09-12 03:48:50] ===== CYCLE 16 START V5 DEEP =====
+[2026-09-12 03:48:50] GOLD verify 77429 - PASS
+[2026-09-12 03:48:51] M14 114 surahs top 2=7.8763
+[2026-09-12 03:48:51] M16 top Alh=2851 unique=1642
+[2026-09-12 03:48:51] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 03:48:52] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 03:48:52] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 03:48:55] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 03:48:55] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 03:48:55] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 03:48:55] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 03:49:01] Git pushed AUTO V5-DEEP 2026-09-12 03:48:55 C16 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 03:49:01] ===== CYCLE 16 DONE V5 DEEP sleep 300s =====
+[2026-09-12 03:54:01] ===== CYCLE 17 START V5 DEEP =====
+[2026-09-12 03:54:01] GOLD verify 77429 - PASS
+[2026-09-12 03:54:02] M14 114 surahs top 2=7.8763
+[2026-09-12 03:54:02] M16 top Alh=2851 unique=1642
+[2026-09-12 03:54:02] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 03:54:03] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 03:54:03] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 03:54:05] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 03:54:05] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 03:54:05] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 03:54:05] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 03:54:09] Git pushed AUTO V5-DEEP 2026-09-12 03:54:06 C17 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 03:54:09] ===== CYCLE 17 DONE V5 DEEP sleep 300s =====
+[2026-09-12 03:59:09] ===== CYCLE 18 START V5 DEEP =====
+[2026-09-12 03:59:09] GOLD verify 77429 - PASS
+[2026-09-12 03:59:10] M14 114 surahs top 2=7.8763
+[2026-09-12 03:59:10] M16 top Alh=2851 unique=1642
+[2026-09-12 03:59:10] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 03:59:10] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 03:59:10] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 03:59:13] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 03:59:13] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 03:59:13] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 03:59:13] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 03:59:17] Git pushed AUTO V5-DEEP 2026-09-12 03:59:13 C18 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 03:59:17] ===== CYCLE 18 DONE V5 DEEP sleep 300s =====
+[2026-09-12 04:04:17] ===== CYCLE 19 START V5 DEEP =====
+[2026-09-12 04:04:17] GOLD verify 77429 - PASS
+[2026-09-12 04:04:18] M14 114 surahs top 2=7.8763
+[2026-09-12 04:04:18] M16 top Alh=2851 unique=1642
+[2026-09-12 04:04:18] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 04:04:18] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 04:04:18] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 04:04:21] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 04:04:21] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 04:04:21] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 04:04:21] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 04:04:25] Git pushed AUTO V5-DEEP 2026-09-12 04:04:21 C19 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 04:04:25] ===== CYCLE 19 DONE V5 DEEP sleep 300s =====
+[2026-09-12 04:09:25] ===== CYCLE 20 START V5 DEEP =====
+[2026-09-12 04:09:25] GOLD verify 77429 - PASS
+[2026-09-12 04:09:26] M14 114 surahs top 2=7.8763
+[2026-09-12 04:09:26] M16 top Alh=2851 unique=1642
+[2026-09-12 04:09:26] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 04:09:26] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 04:09:26] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 04:09:29] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 04:09:29] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 04:09:29] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 04:09:29] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 04:09:59] Git push fail Command 'git push' timed out after 30 seconds
+[2026-09-12 04:09:59] ===== CYCLE 20 DONE V5 DEEP sleep 300s =====
+[2026-09-12 04:15:00] ===== CYCLE 21 START V5 DEEP =====
+[2026-09-12 04:15:00] GOLD verify 77429 - PASS
+[2026-09-12 04:15:00] M14 114 surahs top 2=7.8763
+[2026-09-12 04:15:00] M16 top Alh=2851 unique=1642
+[2026-09-12 04:15:01] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 04:15:01] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 04:15:01] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 04:15:04] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 04:15:05] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 04:15:05] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 04:15:05] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 04:15:09] Git pushed AUTO V5-DEEP 2026-09-12 04:15:05 C21 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 04:15:09] ===== CYCLE 21 DONE V5 DEEP sleep 300s =====
+[2026-09-12 04:20:09] ===== CYCLE 22 START V5 DEEP =====
+[2026-09-12 04:20:09] GOLD verify 77429 - PASS
+[2026-09-12 04:20:10] M14 114 surahs top 2=7.8763
+[2026-09-12 04:20:10] M16 top Alh=2851 unique=1642
+[2026-09-12 04:20:10] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 04:20:11] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 04:20:11] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 04:20:13] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 04:20:13] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 04:20:13] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 04:20:13] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 04:20:18] Git pushed AUTO V5-DEEP 2026-09-12 04:20:13 C22 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 04:20:18] ===== CYCLE 22 DONE V5 DEEP sleep 300s =====
+[2026-09-12 04:25:18] ===== CYCLE 23 START V5 DEEP =====
+[2026-09-12 04:25:18] GOLD verify 77429 - PASS
+[2026-09-12 04:25:18] M14 114 surahs top 2=7.8763
+[2026-09-12 04:25:19] M16 top Alh=2851 unique=1642
+[2026-09-12 04:25:19] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 04:25:19] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 04:25:19] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 04:25:22] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 04:25:22] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 04:25:22] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 04:25:22] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 04:25:26] Git pushed AUTO V5-DEEP 2026-09-12 04:25:22 C23 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 04:25:26] ===== CYCLE 23 DONE V5 DEEP sleep 300s =====
+[2026-09-12 04:30:26] ===== CYCLE 24 START V5 DEEP =====
+[2026-09-12 04:30:26] GOLD verify 77429 - PASS
+[2026-09-12 04:30:26] M14 114 surahs top 2=7.8763
+[2026-09-12 04:30:26] M16 top Alh=2851 unique=1642
+[2026-09-12 04:30:26] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 04:30:26] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 04:30:26] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 04:30:29] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 04:30:29] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 04:30:29] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 04:30:29] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 04:30:32] Git pushed AUTO V5-DEEP 2026-09-12 04:30:29 C24 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 04:30:32] ===== CYCLE 24 DONE V5 DEEP sleep 300s =====
+[2026-09-12 04:35:32] ===== CYCLE 25 START V5 DEEP =====
+[2026-09-12 04:35:32] GOLD verify 77429 - PASS
+[2026-09-12 04:35:33] M14 114 surahs top 2=7.8763
+[2026-09-12 04:35:33] M16 top Alh=2851 unique=1642
+[2026-09-12 04:35:33] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 04:35:33] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 04:35:33] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 04:35:37] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 04:35:37] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 04:35:37] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 04:35:37] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 04:35:44] Git pushed AUTO V5-DEEP 2026-09-12 04:35:37 C25 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 04:35:44] ===== CYCLE 25 DONE V5 DEEP sleep 300s =====
+[2026-09-12 04:40:44] ===== CYCLE 26 START V5 DEEP =====
+[2026-09-12 04:40:44] GOLD verify 77429 - PASS
+[2026-09-12 04:40:45] M14 114 surahs top 2=7.8763
+[2026-09-12 04:40:45] M16 top Alh=2851 unique=1642
+[2026-09-12 04:40:45] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 04:40:45] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 04:40:45] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 04:40:48] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 04:40:48] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 04:40:48] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 04:40:48] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 04:40:53] Git pushed AUTO V5-DEEP 2026-09-12 04:40:48 C26 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 04:40:53] ===== CYCLE 26 DONE V5 DEEP sleep 300s =====
+[2026-09-12 04:45:53] ===== CYCLE 27 START V5 DEEP =====
+[2026-09-12 04:45:53] GOLD verify 77429 - PASS
+[2026-09-12 04:45:53] M14 114 surahs top 2=7.8763
+[2026-09-12 04:45:53] M16 top Alh=2851 unique=1642
+[2026-09-12 04:45:53] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 04:45:54] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 04:45:54] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 04:45:56] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 04:45:57] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 04:45:57] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 04:45:57] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 04:46:00] Git pushed AUTO V5-DEEP 2026-09-12 04:45:57 C27 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 04:46:00] ===== CYCLE 27 DONE V5 DEEP sleep 300s =====
+[2026-09-12 04:51:00] ===== CYCLE 28 START V5 DEEP =====
+[2026-09-12 04:51:00] GOLD verify 77429 - PASS
+[2026-09-12 04:51:01] M14 114 surahs top 2=7.8763
+[2026-09-12 04:51:01] M16 top Alh=2851 unique=1642
+[2026-09-12 04:51:01] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 04:51:02] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 04:51:02] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 04:51:04] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 04:51:05] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 04:51:05] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 04:51:05] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 04:51:09] Git pushed AUTO V5-DEEP 2026-09-12 04:51:05 C28 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 04:51:09] ===== CYCLE 28 DONE V5 DEEP sleep 300s =====
+[2026-09-12 04:56:09] ===== CYCLE 29 START V5 DEEP =====
+[2026-09-12 04:56:09] GOLD verify 77429 - PASS
+[2026-09-12 04:56:09] M14 114 surahs top 2=7.8763
+[2026-09-12 04:56:10] M16 top Alh=2851 unique=1642
+[2026-09-12 04:56:10] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 04:56:10] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 04:56:10] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 04:56:13] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 04:56:13] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 04:56:13] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 04:56:13] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 04:56:14] Git push fail fatal: unable to access 'https://github.com/agad70696-coder/sacred-separation.git/': Could not resolve host: github.com
+[2026-09-12 04:56:14] ===== CYCLE 29 DONE V5 DEEP sleep 300s =====
+[2026-09-12 05:01:14] ===== CYCLE 30 START V5 DEEP =====
+[2026-09-12 05:01:14] GOLD verify 77429 - PASS
+[2026-09-12 05:01:15] M14 114 surahs top 2=7.8763
+[2026-09-12 05:01:15] M16 top Alh=2851 unique=1642
+[2026-09-12 05:01:15] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 05:01:15] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 05:01:15] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 05:01:18] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 05:01:18] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 05:01:18] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 05:01:18] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 05:01:19] Git push fail fatal: unable to access 'https://github.com/agad70696-coder/sacred-separation.git/': Could not resolve host: github.com
+[2026-09-12 05:01:19] ===== CYCLE 30 DONE V5 DEEP sleep 300s =====
+[2026-09-12 05:06:19] ===== CYCLE 31 START V5 DEEP =====
+[2026-09-12 05:06:19] GOLD verify 77429 - PASS
+[2026-09-12 05:06:20] M14 114 surahs top 2=7.8763
+[2026-09-12 05:06:20] M16 top Alh=2851 unique=1642
+[2026-09-12 05:06:20] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 05:06:20] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 05:06:20] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 05:06:23] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 05:06:23] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 05:06:23] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 05:06:23] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 05:06:24] Git push fail fatal: unable to access 'https://github.com/agad70696-coder/sacred-separation.git/': Could not resolve host: github.com
+[2026-09-12 05:06:24] ===== CYCLE 31 DONE V5 DEEP sleep 300s =====
+[2026-09-12 05:11:24] ===== CYCLE 32 START V5 DEEP =====
+[2026-09-12 05:11:24] GOLD verify 77429 - PASS
+[2026-09-12 05:11:25] M14 114 surahs top 2=7.8763
+[2026-09-12 05:11:25] M16 top Alh=2851 unique=1642
+[2026-09-12 05:11:25] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 05:11:25] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 05:11:25] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 05:11:28] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 05:11:28] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 05:11:28] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 05:11:28] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 05:11:29] Git push fail fatal: unable to access 'https://github.com/agad70696-coder/sacred-separation.git/': Could not resolve host: github.com
+[2026-09-12 05:11:29] ===== CYCLE 32 DONE V5 DEEP sleep 300s =====
+[2026-09-12 05:16:29] ===== CYCLE 33 START V5 DEEP =====
+[2026-09-12 05:16:29] GOLD verify 77429 - PASS
+[2026-09-12 05:16:30] M14 114 surahs top 2=7.8763
+[2026-09-12 05:16:30] M16 top Alh=2851 unique=1642
+[2026-09-12 05:16:30] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 05:16:30] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 05:16:30] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 05:16:33] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 05:16:33] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 05:16:33] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 05:16:33] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 05:16:34] Git push fail fatal: unable to access 'https://github.com/agad70696-coder/sacred-separation.git/': Could not resolve host: github.com
+[2026-09-12 05:16:34] ===== CYCLE 33 DONE V5 DEEP sleep 300s =====
+[2026-09-12 05:21:34] ===== CYCLE 34 START V5 DEEP =====
+[2026-09-12 05:21:34] GOLD verify 77429 - PASS
+[2026-09-12 05:21:34] M14 114 surahs top 2=7.8763
+[2026-09-12 05:21:35] M16 top Alh=2851 unique=1642
+[2026-09-12 05:21:35] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 05:21:35] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 05:21:35] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 05:21:38] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 05:21:38] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 05:21:38] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 05:21:38] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 05:21:39] Git push fail fatal: unable to access 'https://github.com/agad70696-coder/sacred-separation.git/': Could not resolve host: github.com
+[2026-09-12 05:21:39] ===== CYCLE 34 DONE V5 DEEP sleep 300s =====
+[2026-09-12 05:26:39] ===== CYCLE 35 START V5 DEEP =====
+[2026-09-12 05:26:39] GOLD verify 77429 - PASS
+[2026-09-12 05:26:40] M14 114 surahs top 2=7.8763
+[2026-09-12 05:26:40] M16 top Alh=2851 unique=1642
+[2026-09-12 05:26:40] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 05:26:40] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 05:26:40] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 05:26:43] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 05:26:43] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 05:26:43] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 05:26:43] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 05:26:47] Git pushed AUTO V5-DEEP 2026-09-12 05:26:43 C35 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 05:26:47] ===== CYCLE 35 DONE V5 DEEP sleep 300s =====
+[2026-09-12 05:31:47] ===== CYCLE 36 START V5 DEEP =====
+[2026-09-12 05:31:47] GOLD verify 77429 - PASS
+[2026-09-12 05:31:48] M14 114 surahs top 2=7.8763
+[2026-09-12 05:31:48] M16 top Alh=2851 unique=1642
+[2026-09-12 05:31:48] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 05:31:49] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 05:31:49] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 05:31:51] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 05:31:51] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 05:31:51] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 05:31:51] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 05:31:56] Git pushed AUTO V5-DEEP 2026-09-12 05:31:51 C36 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 05:31:56] ===== CYCLE 36 DONE V5 DEEP sleep 300s =====
+[2026-09-12 05:36:56] ===== CYCLE 37 START V5 DEEP =====
+[2026-09-12 05:36:56] GOLD verify 77429 - PASS
+[2026-09-12 05:36:56] M14 114 surahs top 2=7.8763
+[2026-09-12 05:36:56] M16 top Alh=2851 unique=1642
+[2026-09-12 05:36:56] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 05:36:57] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 05:36:57] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 05:36:59] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 05:37:00] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 05:37:00] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 05:37:00] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 05:37:03] Git pushed AUTO V5-DEEP 2026-09-12 05:37:00 C37 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 05:37:03] ===== CYCLE 37 DONE V5 DEEP sleep 300s =====
+[2026-09-12 05:42:03] ===== CYCLE 38 START V5 DEEP =====
+[2026-09-12 05:42:03] GOLD verify 77429 - PASS
+[2026-09-12 05:42:03] M14 114 surahs top 2=7.8763
+[2026-09-12 05:42:03] M16 top Alh=2851 unique=1642
+[2026-09-12 05:42:03] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 05:42:04] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 05:42:04] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 05:42:07] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 05:42:07] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 05:42:07] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 05:42:07] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 05:42:11] Git pushed AUTO V5-DEEP 2026-09-12 05:42:07 C38 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 05:42:11] ===== CYCLE 38 DONE V5 DEEP sleep 300s =====
+[2026-09-12 05:47:11] ===== CYCLE 39 START V5 DEEP =====
+[2026-09-12 05:47:11] GOLD verify 77429 - PASS
+[2026-09-12 05:47:11] M14 114 surahs top 2=7.8763
+[2026-09-12 05:47:11] M16 top Alh=2851 unique=1642
+[2026-09-12 05:47:11] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 05:47:12] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 05:47:12] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 05:47:14] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 05:47:14] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 05:47:14] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 05:47:14] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 05:47:18] Git pushed AUTO V5-DEEP 2026-09-12 05:47:15 C39 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 05:47:18] ===== CYCLE 39 DONE V5 DEEP sleep 300s =====
+[2026-09-12 05:52:18] ===== CYCLE 40 START V5 DEEP =====
+[2026-09-12 05:52:18] GOLD verify 77429 - PASS
+[2026-09-12 05:52:18] M14 114 surahs top 2=7.8763
+[2026-09-12 05:52:19] M16 top Alh=2851 unique=1642
+[2026-09-12 05:52:19] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 05:52:19] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 05:52:19] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 05:52:22] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 05:52:22] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 05:52:22] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 05:52:22] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 05:52:26] Git pushed AUTO V5-DEEP 2026-09-12 05:52:22 C40 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 05:52:26] ===== CYCLE 40 DONE V5 DEEP sleep 300s =====
+[2026-09-12 05:57:26] ===== CYCLE 41 START V5 DEEP =====
+[2026-09-12 05:57:26] GOLD verify 77429 - PASS
+[2026-09-12 05:57:27] M14 114 surahs top 2=7.8763
+[2026-09-12 05:57:27] M16 top Alh=2851 unique=1642
+[2026-09-12 05:57:27] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 05:57:27] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 05:57:27] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 05:57:30] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 05:57:30] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 05:57:30] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 05:57:30] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 05:57:33] Git pushed AUTO V5-DEEP 2026-09-12 05:57:30 C41 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 05:57:33] ===== CYCLE 41 DONE V5 DEEP sleep 300s =====
+[2026-09-12 06:02:33] ===== CYCLE 42 START V5 DEEP =====
+[2026-09-12 06:02:33] GOLD verify 77429 - PASS
+[2026-09-12 06:02:34] M14 114 surahs top 2=7.8763
+[2026-09-12 06:02:34] M16 top Alh=2851 unique=1642
+[2026-09-12 06:02:34] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 06:02:34] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 06:02:34] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0
+[2026-09-12 06:02:37] M18 similarity 6441 pairs top 2-3=0.9634 bottom 104-108=0.0
+[2026-09-12 06:02:37] M19 centrality top Alh deg=89 wdeg=10513 pr=0.150526
+[2026-09-12 06:02:37] M20 PMI top Eml+SlH PMI=9.2984
+[2026-09-12 06:02:37] M21 KL top 108 KL=8.6096 avg_meccan=3.0359 avg_medinan=1.7927
+[2026-09-12 06:02:41] Git pushed AUTO V5-DEEP 2026-09-12 06:02:37 C42 77429w 1642r tri=97.56% zipf=0.6691 KLgap=-1.2432
+[2026-09-12 06:02:41] ===== CYCLE 42 DONE V5 DEEP sleep 300s =====
+[2026-09-12 06:07:41] ===== CYCLE 43 START V5 DEEP =====
+[2026-09-12 06:07:41] GOLD verify 77429 - PASS
+[2026-09-12 06:07:41] M14 114 surahs top 2=7.8763
+[2026-09-12 06:07:41] M16 top Alh=2851 unique=1642
+[2026-09-12 06:07:41] M16 Zipf slope=-0.6691 alpha=0.6691 R2=0.9938
+[2026-09-12 06:07:42] M16 cooccur groups=5691 pairs=4823 filtered=300
+[2026-09-12 06:07:42] M17 morphology unique=1642 tri=1602 quad=40 weak_w=0 weak_y=0 hamz=0

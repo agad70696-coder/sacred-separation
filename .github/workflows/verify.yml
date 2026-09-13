@@ -1,24 +1,29 @@
-name: Sacred Separation V8 REAL - FIX 8d0ebf7
+name: Sacred Separation Verification
 on:
   push:
     branches: [main]
-  pull_request:
-    branches: [main]
+  workflow_dispatch:
 jobs:
-  verify-separation:
+  verify:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Verify L0 n L2
-        run: python3 -c "import pathlib; bad=[]; [bad.append(str(f)) for f in pathlib.Path('L2_engine').rglob('*.py') if 'from L0_quran_source import' in f.read_text(errors='ignore')]; import sys; sys.exit(1) if bad else print('OK V8 REAL')"
+      - name: Verify L0 ∩ L2 = ∅
+        run: |
+          echo "Checking L0 import in L2..."
+         ! grep -r "from L0_quran_source import" L2_engine/ || (echo "FAIL L0∩L2" && exit 1)
+          echo "OK L0 ∩ L2 = ∅"
       - name: Verify L0 Integrity
-        run: python3 -c "import json,pathlib; m=json.loads(pathlib.Path('L0_quran_source/manifest.json').read_text()); assert not m['integrity']['is_executable']; print('L0 OK')"
+        run: |
+          python3 -c "import json; m=json.load(open('L0_quran_source/manifest.json')); assert not m['integrity']['is_executable']; print('OK L0 integrity')"
       - name: Run Engine
         run: |
           python3 L2_engine/core.py
           python3 L2_engine/israf_experiment.py
       - name: Check Dashboard
-        run: ls -lh reports/V8_REAL_Dashboard.html || echo 'dashboard not yet'
+        run: |
+          ls reports/V8_REAL_Dashboard.html
+          echo "OK Dashboard V8 REAL"

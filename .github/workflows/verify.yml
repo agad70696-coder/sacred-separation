@@ -1,8 +1,5 @@
-name: Sacred Separation Verification
-on:
-  push:
-    branches: [main]
-  workflow_dispatch:
+name: Sacred Separation V8 REAL
+on: [push, pull_request]
 jobs:
   verify:
     runs-on: ubuntu-latest
@@ -13,17 +10,13 @@ jobs:
           python-version: '3.11'
       - name: Verify L0 ∩ L2 = ∅
         run: |
-          echo "Checking L0 import in L2..."
-         ! grep -r "from L0_quran_source import" L2_engine/ || (echo "FAIL L0∩L2" && exit 1)
-          echo "OK L0 ∩ L2 = ∅"
-      - name: Verify L0 Integrity
-        run: |
-          python3 -c "import json; m=json.load(open('L0_quran_source/manifest.json')); assert not m['integrity']['is_executable']; print('OK L0 integrity')"
-      - name: Run Engine
-        run: |
-          python3 L2_engine/core.py
-          python3 L2_engine/israf_experiment.py
-      - name: Check Dashboard
-        run: |
-          ls reports/V8_REAL_Dashboard.html
-          echo "OK Dashboard V8 REAL"
+          echo "== Running verify_local.py =="
+          python verify_local.py
+          echo "== Checking no direct import =="
+          if grep -R "L0_quran_source" L2_engine --include="*.py" | grep -E "import|from" | grep -v "manifest.json"; then
+            echo "FAIL: L2 imports L0 directly!"
+            exit 1
+          fi
+          echo "== Running L2 engine =="
+          python L2_engine/*.py
+          echo "✅ V8 REAL VERIFIED - L0 ∩ L2 = ∅"

@@ -1,33 +1,11 @@
-# Sacred Separation
+# Sacred Separation - V8 REAL ✅
 
-### Separation of Sacred Text from Executable Logic - L0/L1/L2 Pattern
+[![V8 REAL](https://github.com/agad70696-coder/sacred-separation/actions/workflows/verify.yml/badge.svg)](https://github.com/agad70696-coder/sacred-separation/actions/workflows/verify.yml)
+![L0∩L2](https://img.shields.io/badge/L0∩L2-%E2%88%85-brightgreen)
+![Verified](https://img.shields.io/badge/Verified-11s-brightgreen)
 
-**First formal implementation of zero-intersection between sacred source and executable logic.**
+> **V8 REAL VERIFIED:** `L0_quran_source` read-only, `L2_engine` reads `manifest.json` only - `L0 ∩ L2 = ∅`
 
-## Theorem
-L0 ∩ L2 = ∅
-A bug in L2 cannot corrupt L0. Ever.
-
-## Architecture
-
-**L0 - Sacred Source (Immutable)**
-- Path: L0_quran_source/
-- Rules: READ-ONLY, SHA256 only, NEVER import
-
-**L1 - Human Interpretations (Versioned & Falsifiable)**
-- Path: L1_interpretations/
-- Format: JSON with confidence, author, falsifiable condition
-- References L0 by hash only
-
-**L2 - Pure Logic Engine (Zero Dependency)**
-- Path: L2_engine/core.py
-- Guarantee: Zero import from L0
-- Formal: Verifiable in Lean4
-
-## Proof
-See PROOF.md
-Commit: feat: implement Sacred Source Pattern - L0/L1/L2 separation - first formal proof
-
-## Author
-Amr Gad - 2026-08-02
-Paper: Separation of Sacred Text from Executable Logic
+## Verification
+- Local: `python verify_local.py` -> OK V8 REAL - L0 ∩ L2 = ∅ verified
+- CI: 11s - Sacred Separation V8 REAL #10 PASSING
